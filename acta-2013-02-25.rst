@@ -1,0 +1,49 @@
+Acta Python España 25 de Febrero de 2013
+----------------------------------------
+
+Reunidos a través de vídeo-conferencia, el día 25 de Febrero de
+2013, a las 21:00 horas la junta de la asociación y estando
+presentes:
+
+  * Andrey Antukh
+  * Jesús Cea Avión
+  * Jesús Espino García
+  * Enrique Porta Caramés
+  * Yamila Moreno Suárez
+  * Juan Luis Cano Rodríguez
+  * Pablo Lobariñas
+  * Francisco Correoso García
+
+Con el siguiente orden del día:
+
+  * Ratificación de los procedimientos.
+  * Procedimientos de alta y baja de socios en la asociación
+    (valorar procedimiento expuesto por Jesús Cea y alternativas)
+  * Modificación del reglamento para establecer plazo a la hora de
+    convocar Junta Directiva.
+  * Certificados digitales para los miembros de la Junta
+    Directiva.
+
+Acuerdan:
+
+  * Aplazar la ratificación de procedimientos a una próxima
+    reunión para estudiarlos con mayor profundidad.
+  * Realizar una nueva reunión con los procedimientos como orden
+    del día, para dar más tiempo a analizarlos y debatirlos a
+    través de lista de correo.
+  * Generar un nuevo procedimiento donde se defina el alta de
+    usuarios sin basarse en certificados digitales, este deberá
+    ser ratificado en junta.
+  * Establecer un plazo mínimo de 3 días para convocar las
+    reuniones de la junta por vídeo-conferencia.
+  * Generar un nuevo procedimiento donde se defina el uso de
+    certificados digitales o claves GPG/PGP dentro de la junta.
+
+Y sin más asuntos que tratar se levanta la sesión, siendo las
+22:00 horas del día de la fecha.
+
+.. note::
+
+   El hash SHA1 del acta original es
+   :kbd:`0672945988dc9dc96f164156cd374a911177f64b`.
+

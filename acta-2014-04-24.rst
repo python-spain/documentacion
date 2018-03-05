@@ -1,0 +1,51 @@
+Acta Junta Python España 24 de abril de 2014
+--------------------------------------------
+
+Estando presentes, el día 24 de abril de 2014 a las 21:30 horas,
+los siguientes miembros de la Junta:
+
+* Juan Luis Cano
+
+* Jesús Cea
+
+* Pablo Lobariñas
+
+
+Con el orden del día:
+
+1. Aprobación de nuevos socios.
+
+2. Gestión de la suscripción a Meetup para las comunidades Python en España.
+
+3. Gestión de la contabilidad de la asociación.
+
+4. PyConES 2014, estado de la cuestión.
+
+
+Exponen:
+
+    Que las personas que han solicitado su inclusión como nuevos
+    socios son:
+
+     - Jose Ruben Femenia Ruiz 
+     - Marcos Zanches Provencio
+     - Guillermo Lozano Branger
+     - Josep Danti Vilalta
+     - Diego Pascual Lopez
+
+
+Acuerdan:
+
+* Aprobar el ingreso por unanimidad de todas las personas relacionadas en el párrafo anterior en la asociación.
+
+* Respecto a la gestión de la suscripción a Meetup para las comunidades Python en España, que para todos los socios que la soliciten, la aprobación es directa, y por tanto la asociación se hará cargo del pago de la misma. Para no socios, habrán de darnos detalles de lo que van a hacer.
+
+  En ambos casos se realizará una revisión a los seis meses, donde se verá si ha habido actividad y de qué tipo. Para ello pediremos que nos manden o que nos digan donde han colgado las presentaciones, y también que inscriban estos encuentros en el calendario de eventos de Python en España.
+  
+* En cuanto al punto 3, gestión de la contabilidad de la asociación, que consultaríamos dos posibles opciones, por un lado con quien ha llevado hasta ahora la contabilidad, Vesi, y por otro con un gestor externo. Juan Luis Cano se encargará de hablar con Vesi, y Jesús Cea será quien hable con el gestor externo.
+
+* Por último, en cuanto al punto 4, la PyConES 2014, estado de la cuestión, que Juan Luis Cano hablará con la gente de Zaragoza que la está organizando para saber con cierto detalle cuáles son sus ideas y en qué estado se encuentra.
+
+Y sin más asuntos que tratar, se levanta la sesión siendo las
+22:30 horas del día de la fecha.
+

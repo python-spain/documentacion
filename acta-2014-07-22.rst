@@ -1,0 +1,34 @@
+Acta Junta Python España 22 de julio de 2014
+--------------------------------------------
+
+Reunidos el día 22 de julio de 2014 a las 21:30 horas los siguientes miembros de la junta de la asociación:
+
+* Juan Luis Cano
+
+* Kiko Correoso
+
+* Pablo Lobariñas
+
+Con el orden del día:
+
+1. Aprobación nuevos socios.
+
+2. Autorización para que David Francos pueda operar con la cuenta para la PyConES de Deustche Bank.
+
+Exponen:
+
+* Que las personas que han solicitado su inclusión como nuevos socios son:
+
+  * Eduardo Ferro Aldama 
+  * Jose Ignacio Galarza Becker
+
+* Que el acceso a la cuenta bancaria para la PyConES debe ser controlado.
+
+Acuerdan:
+
+* Aprobar a los socios relacionados por unanimidad.
+
+* Por unanimidad, que Pablo Lobariñas hablará con el banco para comprobar si es posible operar con doble firma en la cuenta y que Juan Luis Cano contactará con David Francos.
+
+Y sin más asuntos que tratar, se levanta la sesión siendo las 22:15 horas del día de la fecha.
+

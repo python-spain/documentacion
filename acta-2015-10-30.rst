@@ -1,0 +1,55 @@
+Acta Junta Python España 30 de octubre de 2015
+----------------------------------------------
+
+Reunidos el día 30 de octubre de 2015 a las 16:30 horas los siguientes miembros de la junta de la asociación:
+
+  * Juan Luis Cano
+  * Kiko Correoso
+  * Pablo Lobariñas
+
+Con el orden del día:
+
+  * Aprobación de nuevos socios y renovación de antiguos.
+  * Evolución de la PyConES 2015.
+  * Elaboración del contrato de colaboración.
+  
+
+Exponen:
+
+    * Que las personas que han solicitado su incorporación como socios para el período 2015 - 2016 son:
+
+     - David Vazquez Loureiro
+     - Victor Borràs Castell
+     - Salvador de la Puente González
+     
+    * Que las personas que han solicitado su renovación como socios para el período 2015 - 2016 son:
+ 
+     - Antony Aloy López
+     - Diego Pascual López
+     - Francisco José Navarro Brull
+     - Luís Ladislao González Fernández
+     - Eduardo Ferro Aldama
+     - Jose Ignacio Galarza Becker
+     - Samuel de Ancos Martín
+     - Victor Centelles Julian
+     - Marcos Gabarda Inat
+     - Italo Farfán Vera
+     - Francisco de Borja López Río
+     - Oscar M. Lage
+     
+     
+    * Se han solventado algunas dificultades que habían surgido respecto a la sede la próxima PyConES.
+     
+     
+    * Kiko Correoso ha presentado un modelo de contrato de colaboración al que Pablo Lobariñas ha propuesto varias modificaciones.
+
+
+Acuerdan:
+
+  * Aprobar por unanimidad la incorporación de los nuevos socios y la renovación de los antiguos. Jesús Cea ha realizado la aprobación por mail, previamente.
+  
+  * Continuar el seguimiento de la próxima PyConES a través de Juan Luis Cano, quien mantiene una estrecha relación con la comunidad local de Valencia.
+  
+  * Que Pablo presentará el contrato de colaboración con sus modificaciones para someterlo a la aprobación de la Junta.
+
+Y sin más asuntos que tratar, se levanta la sesión siendo las 17:00 horas del día de la fecha.

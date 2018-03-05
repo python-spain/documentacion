@@ -1,0 +1,62 @@
+Acta Junta Python España 23 de septiembre de 2014
+-------------------------------------------------
+
+Reunidos el día 23 de septiembre de 2014 a las 22:00 horas los siguientes miembros de la junta de la asociación:
+
+* Juan Luis Cano
+
+* Kiko Correoso
+
+* Pablo Lobariñas
+
+Con el orden del día:
+
+1. Aprobación nuevos socios.
+
+2. Gestión de la web de la asociación.
+
+3. Estado de la PyConES.
+
+4. Acciones para promocionar la asociación.
+
+5. Votación del procedimiento "Gestión de los documentos de la asociación".
+
+6. Cambio en el acuerdo con nuestra contable Vesi Stoilova
+
+
+Exponen:
+
+* Que las personas que han solicitado su inclusión como nuevos socios son:
+    
+  * Samuel De Ancos Martin
+  * Victor Centelles Julian
+  * Marcos Gabarda Inat
+  * Italo Farfán Vera
+  * David Francos Cuartero
+  * Salvador Mari Alarcon
+
+* Que Yamila Moreno propone gestionar ella las webs de Python España y Python-Madrid.
+
+* Que el procedimiento "Gestión de los documentos de la asociación" no ha podido ser votado.
+
+* Que Vesi Stoilova ha comunicado su intención de cambiar el acuerdo al que había llegado, renunciando a la remuneración establecida a cambio de convalidar con nosotros sus prácticas de empresa.
+
+
+Acuerdan por unanimidad:
+
+* Aprobar a los socios relacionados.
+
+* Aprobar que sea Yamila Moreno quien gestione las webs indicadas.
+
+* Que Kiko Correoso hablará con David Francos para comentar una oferta de GitHub, y para conocer el estado actual de la PyConES.
+
+* Que Pablo Lobariñas, consulte actas anteriores para conocer la decisión adoptada respecto al pago de MeetUp.
+
+* Que Pablo Lobariñas mandará cada siete días un mensaje para revisar cada uno de los procedimientos pendientes de aprobación, para su revisión y discusión a través de la lista de correo, de forma que puedan ser aprobados en sucesivas Juntas.
+
+* Aprobar el cambio de acuerdo propuesto por Vesi Stoilova en cuanto a su remuneración como contable.
+
+
+Y sin más asuntos que tratar, se levanta la sesión siendo las
+23:00 horas del día de la fecha.
+

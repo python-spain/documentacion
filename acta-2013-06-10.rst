@@ -1,0 +1,84 @@
+Acta Python España 10 de Junio de 2013
+--------------------------------------
+
+Reunidos a través de medios telemáticos (Hangout), el día
+10 de Junio de 2013, a las 21:00 horas los siguientes
+miembros de la junta de la asociación:
+
+- Pablo Lobariñas
+- Jesús Cea Avión
+- Jesús Espino García
+- Andrey Antukh
+- Yamila Moreno Suárez
+- Enrique Porta Caramés
+- Juan Luis Cano Rodríguez
+- Francisco Correoso García
+
+Con el orden del día:
+
+- Apertura de cuentas bancarias para la asociación y la
+  PyConES: Banco, quién/es pueden acceder a los fondos,
+  acceso "sólo lectura" a las cuentas.
+- Contabilidad: ¿se lleva internamente o se subcontrata?
+- Proceso realizado para subsanar los errores en la
+  presentación de la documentación para el registro de
+  la asociación.
+
+Exponen:
+
+- Andrey Antukh expone su preferencia por tener las cuentas
+  en ING.
+- Pablo Lobariñas expone ante la junta los problemas surgidos al
+  intentar dar de alta la asociación en el Registro Nacional de
+  Asociaciones y las medidas tomadas para subsanarlos. Se han
+  hecho rectificaciones en los estatutos para hacerlos coincidir
+  con el acta fundacional presentada, tal y como se requirió por
+  parte del Registro.
+
+Acuerdan:
+
+1. Crear dos cuentas en ING (cuando se disponga del CIF de
+   la asociación), una para la asociación y otra para la
+   PyConES. (por unanimidad)
+
+2. Que las cuentas creadas podrán tener permisos para hacer
+   operaciones sobre ellas el presidente y el tesorero, en
+   el caso de la cuenta de la PyConES, también se dará
+   permisos para hacer operaciones a Yamila Moreno Suárez.
+   (por unanimidad)
+
+3. Valorar la emisión de tarjetas de débito para PyConES.
+   (por unanimidad)
+
+4. Intentar obtener permisos de solo consulta a las cuentas
+   bancarias para el resto de la junta. (por unanimidad)
+
+5. Que la contabilidad será realizada por el tesorero de la
+   asociación. (por unanimidad)
+
+6. Que el acta fundacional al haber sido cambiada para subsanar
+   los problemas mencionados anteriormente pasa a tener el hash
+   SHA1 "f467578a761860fe300f674f6374053932fdc632".
+
+7. Que se debatirán a través de correo electrónico los
+   siguientes temas:
+
+   - Datos de los socios que vamos a registrar.
+   - Datos de los usuario de la PyConES que vayamos a registrar.
+   - Cómo se guardarán los datos de socios y usuarios de la
+     PyConES.
+   - Quién custodiará los datos de socios y usuarios de la
+     PyConES.
+   - Proceso de alta de usuarios de PyConES/socios de Python
+     España.
+   - Tener un procedimiento detallado sobre como se gestionará el
+     dinero de la PyConES (y el excedente, si lo hay).
+
+Y sin más asuntos que tratar se levanta la sesión, siendo las
+22:00 horas del día de la fecha.
+
+.. note::
+
+   El hash SHA1 del acta original es
+   :kbd:`e72396fda63efcbf9ee8ed2c569da5dea4e3a275`.
+

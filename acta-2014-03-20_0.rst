@@ -1,0 +1,42 @@
+Acta Asamblea General Python España 20 de marzo de 2014
+-------------------------------------------------------
+
+Reunida la Asamblea General en Madrid el día 20 de marzo de 2014
+a las 21:50, estando presentes:
+
+* Andrey Antukh
+* Juan Luis Cano
+* Jesús Cea
+* Francisco Correoso
+* Alejandro Guirao
+* Pablo Lobariñas
+* Guillermo Lozano
+* Yamila Moreno
+
+Con el orden del día:
+
+1. Examen de la memoria de actividades.
+2. Examen y aprobación de las Cuentas del ejercicio anterior.
+3. Examen y aprobación de los Presupuestos del ejercicio.
+
+Exponen:
+
+* Pablo Lobariñas expone que no considera la sugerencia de Jesús
+  Cea de incluir el inicio de la asociación como actividad de la
+  misma en la memoria.
+* Andrey Antukh expone su deseo de que la contabilidad de la
+  asociación sea hecha pública, pero reconoce que hay detalles
+  (como ocultar algunos detalles sensibles) que hay que
+  concretar.
+* Yamila Moreno comenta que hay una factura hecha y no cobrada,
+  pero Andrey Antukh responde que el hecho está tenido en cuenta
+  y que las cuentas están correctas.
+
+Acuerdan:
+
+* Retrasar la aprobación de las cuentas hasta que todos los
+  presentes las hayan visto.
+* Enviar una versión de solo lectura de las cuentas a los socios.
+
+Y sin más asuntos que tratar se levanta la sesión, siendo las
+22:10 del día de la fecha.

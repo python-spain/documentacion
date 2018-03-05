@@ -1,0 +1,52 @@
+Acta Junta Python España 21 de octubre de 2014
+----------------------------------------------
+
+Reunidos el día 21 de octubre de 2014 a las 22:00 horas los siguientes miembros de la junta de la asociación:
+
+* Jesús Cea
+
+* Juan Luis Cano
+
+* Kiko Correoso
+
+* Pablo Lobariñas
+
+Con el orden del día:
+
+1. Aprobación nuevos socios.
+
+2. Contactos para la PyConES 2015.
+
+3. Solicitud de certificado para OpenBadges.
+
+4. Votación del procedimiento "Gestión de los documentos de la asociación".
+
+
+Exponen:
+
+* Que las personas que han solicitado su inclusión como nuevos socios son:
+    
+  * Francisco de Borja Lopez Rio
+  * Oscar M. Lage
+  * Antony Aloy López
+
+* Que Juan Luis Cano propone encargarse de contactar con diferentes comunidades para la organización de la PyConES 2015.
+
+* Que Jesús Cea propone solicitar a APSL un nuevo certificado para su proyecto OpenBadges.
+
+
+Acuerdan por unanimidad:
+
+* Aprobar a los socios relacionados.
+
+* Que sea Juan Luis Cano quien lleve los contactos para organizar la PyConEs 2015.
+
+* Que Jesús Cea solicite a APSL un nuevo certificado para su proyecto OpenBadges.
+
+Aprueban por tres votos a favor y uno en contra de Kiko Correoso el procedimiento "Gestión de los documentos de la asociación", cambiando las referencias a aspectos concretos gramaticales, por una más genérica, que haga hincapié en cuidar los aspectos gramaticales.
+
+
+Y sin más asuntos que tratar, se levanta la sesión siendo las
+23:30 horas del día de la fecha.
+
+

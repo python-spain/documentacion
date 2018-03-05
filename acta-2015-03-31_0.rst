@@ -1,0 +1,36 @@
+Acta Asamblea General Python España 31 de marzo de 2015
+-------------------------------------------------------
+
+Reunida la Asamblea General en Madrid el día 31 de marzo de 2015
+a las 21:00, estando presentes:
+
+* Juan Luis Cano
+* Jesús Cea
+* Francisco Correoso
+* Alejandro Guirao
+* Pablo Lobariñas
+* Guillermo Lozano
+
+y delegando su voto Victor Terrón en Francisco Correoso,
+Yamila Moreno en Alejandro Guirao, Rubén Ruíz y Francisco Navarro en Juan Luis Cano.
+
+Con el orden del día:
+
+1. Examen y aprobación de la memoria de actividades.
+2. Examen y aprobación de las Cuentas del ejercicio anterior.
+
+Exponen:
+
+* Pablo Lobariñas expone que los "originales" de las fotos y videos de la PyConES 2014 no están en poder de la Junta. Las fotos se colgaron en la cuenta Google+ de uno de los organizadores, y que sepamos a día de la fecha, los videos no están disponibles. Seguimos trabajando para tratar de obtenerlos y ponerlos a disposición de la comunidad. En este sentido la Junta ha intentado en múltiples ocasiones y por diversos medios contactar con David Francos y Ana Mareca, dos miembros de la organización de la PyConES 2014, para tratar de obtener los originales tanto de videos como de fotos, pero no ha habido respuesta por su parte al respecto. Por otro lado nos hemos puesto en contacto con la persona que llevó a cabo estos trabajos por si a través de él pudiéramos finalmente conseguir fotos y videos.
+* Pablo Lobariñas expone que se hizo una transferencia a Dlabs para la compra de material en efectivo para la PyConES 2014. Está justificado el gasto de unos 400 euros mediante facturas, pero quedan pendientes 100 euros, que a día de hoy todavía no han sido justificados, ni se han recibido de vuelta. En cuanto a este tema Pablo Lobariñas ha escrito a David Francos múltiples correos para recordárselo e incluso ha hablado directamente con él. Por el momento no se ha resuelto el asunto.
+
+Acuerdan:
+
+* Aprobación de la memoria de actividades 2014 por unanimidad.
+* Aprobación de las cuentas anuales de 2014 por unanimidad.
+* Como consecuencia de lo comentado en el apartado anterior respecto a la PyConES 2014 y otros problemas que han surgido durante la organización de la misma, la Junta adoptará un enfoque diferente, de tal forma que a la hora de organizar una PyConES una serie de tareas recaerán en la comunidad Python organizadora y otras en la propia Junta. De esta forma la comunidad se encargará, entre otras de buscar local, catering o soporte audiovisual, y por otro lado la Junta se encargará, entre otras, del contacto con patrocinadores, publicitar el evento o gestionar las entradas. Con estas medidas se intenta, por un lado hacer más fácil a la comunidad la organización de un evento de estas características y por otro poder llevar un mayor control del mismo.
+
+Y sin más asuntos que tratar se levanta la sesión, siendo las
+22:05 del día de la fecha.
+
+

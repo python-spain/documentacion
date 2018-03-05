@@ -1,0 +1,28 @@
+Acta Junta Python España 9 de mayo de 2015
+----------------------------------------------
+
+Reunidos el día 9 de mayo de 2015 a las 20:00 horas los siguientes
+miembros de la junta de la asociación:
+
+  * Juan Luis Cano
+  * Kiko Correoso
+  * Pablo Lobariñas
+  * Jesús Cea
+
+Con el orden del día:
+
+  * Certificar como socios durante el período 2013 - 2014 a las siguientes personas:
+
+     - Juan Luis Cano Rodríguez
+     - Enrique Porta Caramés
+     - Jesús Cea Avión
+     - Yamila Moreno Suarez
+     - Francisco Correoso García
+     - Fernando Jesús Salamero Pelay
+     - Pablo Lobariñas Criserá
+
+Acuerdan:
+
+  * Certificar que las personas relacionadas eran socias de Python España durante el período 2013 - 2014.
+
+Y sin más asuntos que tratar, se levanta la sesión siendo las 20:15 horas del día de la fecha.

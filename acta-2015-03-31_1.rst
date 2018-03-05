@@ -1,0 +1,75 @@
+Acta Junta Python España 31 de marzo de 2015
+----------------------------------------------
+
+Reunidos el día 31 de marzo de 2015 a las 19:00 horas los siguientes miembros de la junta de la asociación:
+
+* Juan Luis Cano
+
+* Francisco Correoso
+
+* Jesús Cea
+
+* Pablo Lobariñas
+
+Con el orden del día:
+
+1. Aprobación de la incorporación de nuevos socios, así como de la renovación anual de socios actuales.
+
+2. Videos/fotos de la PyConES 2014.
+
+3. PyData, papel de la asociación.
+
+4. Actualización PyConES 2015.
+
+
+Exponen:
+
+* Que las personas que han solicitado su inclusión como socios para el período 2014 - 2015 son:
+    
+    * Raúl Cumplido Domínguez
+    * Julio Vicente Trigo Guijarro
+
+* Que las personas que han solicitado su renovación como socios para el 2014 - 2015 han sido:
+
+    * Juan Luis Cano
+    * Jesús Cea
+    * Yamila Moreno
+    * Francisco Correoso
+    * Pablo Lobariñas
+    * Guillermo Vaya
+    * Miguel González Álvarez
+    * Gabriel Rodríguez Alberich
+    * Alejandro Guirao
+    * Marcos Pérez González
+    * Enrique Porta Caramés
+    * Fernando Salamero Pelay
+
+* Que las personas que han solicitado su renovación como socios para el 2015 - 2016 han sido:
+
+    * Marcos Zanches
+    * Guillermo Lozano
+    * Josep Danti
+
+
+* Que todavía no están disponibles los videos originales ni las presentaciones de la PyConES 2014.
+
+* Que posiblemente se organice una PyData para el próximo año.
+
+* Que sigue adelante la organización de la PyConES 2015.
+
+Acuerdan:
+
+* Aprobar por unanimidad la incorporación del nuevo socio, así como la renovación de los socios relacionados.
+
+* Por unanimidad, que Juan Luis Cano siga intentado contactar con el fotógrafo que realizó los videos de la PyConES 2014, mientras Jesús Cea contacta con los ponentes para conseguir las presentaciones.
+
+* Que el papel de la asociación será el de apoyar el evento de la misma forma que lo ha hecho con las PyConES, incluso aportando fondos si es preciso.
+
+* Que se sigue avanzando en el proceso, aunque faltan muchos detalles por concretar y que Juan Luis Cano lo siga detenidamente.
+
+* Relacionar en la web de Python España quienes ostentan los cargos de la Junta con un correo genérico para cada uno, alias de su correo personal.
+
+Y sin más asuntos que tratar, se levanta la sesión siendo las
+19:55 horas del día de la fecha.
+
+	

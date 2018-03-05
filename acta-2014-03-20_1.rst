@@ -1,0 +1,50 @@
+Acta Asamblea Extraordinaria Python España 20 de marzo de 2014
+--------------------------------------------------------------
+
+Reunida la Asamblea Extraordinaria en Madrid el día 20 de marzo
+de 2014 a las 22:10, estando presentes:
+
+* Andrey Antukh
+* Juan Luis Cano
+* Jesús Cea
+* Francisco Correoso
+* Alejandro Guirao
+* Pablo Lobariñas
+* Guillermo Lozano
+* Yamila Moreno
+
+Con el orden del día:
+
+1. Discutir propuestas de modificación de los Estatutos.
+2. Renovar la Junta Directiva.
+
+Exponen:
+
+* Yamila Moreno y Pablo Lobariñas exponen que no merece la pena
+  cambiar los Estatutos porque supondría realizar muchos trámites
+  administrativos.
+* Pablo Lobariñas expone que no hay ninguna candidatura para la
+  Junta Directiva y se elabora una integrada por Juan Luis Cano
+  como Presidente, Francisco Correoso como Vicepresidente, Jesús
+  Cea como Tesorero y Pablo Lobariñas como Secretario.
+* Yamila Moreno y Jesús Cea piden que conste en acta que se dará
+  acceso a la cuenta bancaria únicamente y por separado a los nuevos 
+  Presidente, Secretario y Tesorero, no siendo necesario que los
+  tres aprueben simultáneamente cada operación.
+
+Acuerdan:
+
+* Por 6 votos en contra y 1 abstención no cambiar los estatutos.
+* Por 6 votos a favor y 1 abstención de Jesús Cea la renovación
+  de la Junta Directiva.
+* Designar a Juan Luis Cano (Presidente), Pablo Lobariñas
+  (Secretario) y Jesus Cea (Tesorero) como los nuevos apoderados
+  de las cuentas de la asociación de manera solidaria y indistinta.
+* Transferir la titularidad de la única tarjeta de débito
+  asociada a las cuentas de la asociación.
+* Terminar de escribir la memoria de la PyConES 2013 de cara a
+  organizar la siguiente edición.
+* Externalizar la contabilidad.
+
+Y sin más asuntos que tratar se levanta la sesión, siendo las
+22:40 del día de la fecha.

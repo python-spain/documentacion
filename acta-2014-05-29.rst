@@ -1,0 +1,57 @@
+Acta Junta Python España 29 de mayo de 2014
+--------------------------------------------
+
+Reunidos el día 29 de mayo de 2014 a las 21:30 horas los siguientes miembros de la junta de la asociación:
+
+* Juan Luis Cano
+
+* Kiko Correoso
+
+* Jesús Cea
+
+* Pablo Lobariñas
+
+Contando con la presencia además de Vesi Stoilova y de Yamila Moreno.
+
+Con el orden del día:
+
+1. Aprobación nuevos socios.
+
+2. Contabilidad de la asociación.
+
+3. Certificado SSL para la asociación.
+
+4. Borrador sobre la LOPD propuesto por Kiko. ¿Qué datos almacenamos de los socios?
+
+5. PyConES 2014
+
+Exponen:
+
+* Que las personas que han solicitado su inclusión como nuevos socios son:
+    
+     * Maite Giménez Fayos
+     * Francisco José Navarro
+     * Luís Ladislao González Fernández
+
+* Que Vesi está conforme con llevar la contabilidad de la asociación por una remuneración y se ha informado de las implicaciones al respecto.
+
+* Yamila nos transmite sus impresiones sobre la PyConES 2014.
+
+Acuerdan:
+
+* Aprobar a los socios relacionados por unanimidad.
+
+* Con tres votos a favor y una abstención de Jesús Cea, que sea Vesi quien se encargue de llevar la contabilidad de la asociación a cambio de una remuneración.
+
+* Por unanimidad, que Jesús Cea contacte con APSL para implementar los certificados SSL para la asociación.
+
+* Por un voto en contra de Kiko y tres abstenciones, no guardar el DNI escaseado de los socios.
+
+* Por tres votos a favor y uno en contra de Kiko, registrar el número de DNI de los socios, en el registro que posee la asociación de los mismos. Donde aparece además el número de socio, nombre completo, teléfono de contacto, dirección de correo electrónico y fecha de alta en la asociación.
+
+* Que Juan Luis, como presidente de la asociación, contacte con la actual organización de la PyConES 2014, para conocer el estado actual de la misma y el papel que juega la asociación desde el punto de vista de dicha organización.
+
+Y sin más asuntos que tratar, se levanta la sesión siendo las
+23:00 horas del día de la fecha.
+
+	

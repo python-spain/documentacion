@@ -1,0 +1,44 @@
+Acta Junta Python España 05 de noviembre de 2015
+----------------------------------------------
+
+Reunidos el día 05 de noviembre de 2015 a las 21:30 horas los siguientes miembros de la junta de la asociación:
+
+  * Juan Luis Cano
+  * Kiko Correoso
+  * Pablo Lobariñas
+  * Jesús Cea
+
+Con el orden del día:
+
+  * Evolución de la PyConES 2015.
+  * PyConES 2016.
+  * Convocatoria de Asamblea Extraordinaria.
+  * Renovación de la Junta.
+  * Elaboración del contrato de colaboración.
+  
+
+Exponen:
+     
+    * Se están llevando a cabo los últimos preparativos de la PyConES 2015. Que es importante cuidar el tema de las fotos y los videos, así como la recolección de las presentaciones de los ponentes para evitar casos anteriores. Está acordado disponer de una copia en disco duro externo. Jesús Cea propone emitir OpenBadges para asistentes y ponentes.
+    
+    * Juan Luis Cano ha mantenido contactos con distintas comunidades Python en España para organizar la próxima PyConES 2016, aunque todavía no hay nada decidido.
+    
+    * La necesidad de convocar una Asamblea Extraordinaria con motivo de la PyConES 2015.
+    
+    * Renovar la Junta, puesto que ya se cumplen dos años de la actual y para permitir nuevas iniciativas e ideas.
+     
+    * Pablo Lobariñas ha presentado el modelo de contrato de colaboración con las modificaciones que había propuesto.
+
+Acuerdan:
+
+  * Por unanimidad, que Juan Luis hablará con la organización de la PyConES para asegurar la recogida de las presentaciones de los ponentes para poder ponerlas a disposición de la comunidad, así como emitir los OpenBadges para asistentes y ponentes a la PyConES 2015.
+  
+  * Por unanimidad, que Juan Luis continuará los contactos con las comunidades para la organización de la próxima PyConES.
+  
+  * Por unanimidad, convocar Asamblea Extraordinaria, que se celebrará durante la PyConES 2015, y que Pablo elaborará y enviará el mensaje de convocatoria de Asamblea Extraordinaria. Kiko se encargará de publicarlo en la web de la asociación.
+  
+  * Por unanimidad, proponer la renovación de la Junta durante la Asamblea Extraordinaria y que Pablo elaborará y enviará un mensaje a los socios para solicitar propuestas para la nueva Junta. Kiko se encargará de publicarlo en la web de la asociación.
+  
+  * Por unanimidad, aprobar el contrato de colaboración, que será presentado en las colaboraciones que pueden surgir entre la asociación y otras organizaciones y comunidades.
+
+Y sin más asuntos que tratar, se levanta la sesión siendo las 22:15 horas del día de la fecha.

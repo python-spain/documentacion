@@ -1,0 +1,58 @@
+Acta Junta Python España 10 de diciembre de 2014
+------------------------------------------------
+
+Reunidos el día 10 de diciembre de 2014 a las 22:00 horas los siguientes miembros de la junta de la asociación:
+
+* Jesús Cea
+
+* Juan Luis Cano
+
+* Pablo Lobariñas
+
+Con el orden del día:
+
+1. Aprobación nuevos socios.
+
+2. Retirar acceso de David Francos a la cuenta bancaria destinada a la PyConES.
+
+3. Pasar las cuentas de la asociación a cuentas negocio.
+
+4. Relación de la asociación con las comunidades respecto a patrocinadores.
+
+
+Exponen:
+
+* Que las personas que han solicitado su inclusión como nuevos socios son:
+    
+  * Victor Terrón Salas
+  * Jesús Espino García
+  * Eduardo Erraiz Aparicio
+  * Núria Pujol Vilanova
+
+* Que dado que ha terminado la PyConES 2014, no es necesario mantener el acceso de David Francos a la cuenta bancaria establecida para tal efecto.
+
+* Que cambiar el tipo de cuenta, supone una reducción de los costes bancarios asociados a ellas.
+
+* Que es necesario establecer unos fundamentos de la relación de la asociación con las comunidades, respecto a los patrocinadores, los cuales pasan a ser:
+
+  a) Cuando el ámbito de colaboración sea a nivel local (patrocinio de pizzas o cervezas en los encuentros, cesión de local, etc) es la comunidad local la que se encarga de ello.
+
+  b) Cuando el ámbito va más allá del nivel local, es decir, tiene repercusión a nivel nacional o implica múltiples provincias o comunidades, es la asociación la que se encargaría (por ejemplo un evento nacional como la PyConES, etc), siempre con la implicación de la comunidad local.
+
+  c) Por supuesto es posible que haya excepciones porque así lo solicite la comunidad en cuestión o porque motivos legales obliguen a ello.
+
+
+Acuerdan:
+
+* Aprobar a los socios relacionados. Kiko Correoso no estaba presente, pero nos hizo llegar su voto por correo electrónico.
+
+* Retirar el acceso de David Francos a la cuenta bancaria para la PyConES. Kiko Correoso no estaba presente, pero nos hizo llegar su voto por correo electrónico.
+
+* Aprobar el cambio de las cuentas bancarias a cuentas negocio. Kiko Correoso se abstuvo, comunicando su voto por correo electrónico.
+
+* Aprobar los fundamentos establecidos en el apartado anterior, respecto a la relación de la asociación con las comunidades en cuanto a patrocinadores.
+
+
+Y sin más asuntos que tratar, se levanta la sesión siendo las
+23:30 horas del día de la fecha.
+

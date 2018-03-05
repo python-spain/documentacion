@@ -1,0 +1,46 @@
+Acta Asamblea General Python España 30 de marzo de 2016
+-------------------------------------------------------
+
+Reunida la Asamblea General en Madrid el día 30 de marzo de 2016
+a las 20:00 horas, estando presentes:
+
+* Juan Luis Cano
+* Yamila Moreno
+* Francisco Correoso
+* Alejandro Guirao
+* Pablo Lobariñas
+* Guillermo Lozano
+* Antoni Aloy (en remoto)
+* Alex Hermida (en remoto)
+* Miguel González (en remoto)
+* Mai Giménez (en remoto)
+* Jose Antonio Martín (en remoto)
+* David Barragán (en remoto)
+* Ferrán Luengo (en remoto)
+* Salvador Marí (en remoto)
+* Diego Martínez (en remoto)
+
+y delegando su voto Victor Terrón, José Rubén Ruíz, Francisco J Navarro y Alejandro Sáez Mollejo en Juan Luis Cano.
+Ana Isabel Rey en Yamila Moreno y Pedro-Juan Ferrer Matoses en Pablo Lobariñas.
+
+Con el orden del día:
+
+1. Examen y aprobación de la memoria de actividades.
+2. Examen y aprobación de las Cuentas del ejercicio anterior.
+
+Exponen:
+
+* No hay ningún comentario al respecto de la memoria, ni de las cuentas.
+
+* Juan Luis Cano anuncia que la PyConES 2016 se celebrará en Almeria.
+
+Acuerdan:
+
+* Aprobar la memoria de actividades 2015 por unanimidad.
+* Aprobar las cuentas anuales de 2015 por unanimidad.
+
+
+Y sin más asuntos que tratar se levanta la sesión, siendo las
+20:55 del día de la fecha.
+
+
