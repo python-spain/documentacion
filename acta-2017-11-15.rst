@@ -1,0 +1,107 @@
+﻿En la ciudad de Madrid, siendo las 20:45 horas del 15 de noviembre de 2017 y en primera convocatoria, se celebra la Junta directiva de Python España  
+
+
+
+
+* ORDEN DEL DÍA
+
+1. Alta nuevos socios
+2. Aprobación acta anterior
+3. Fechas Renovación de JD 
+4. Solución general para almacenar contraseñas
+5. Compra de dominio con Dinahosting para Python Guadalajara
+6. Django Girls en Mallorca
+7. Plan B para listad y gestión de dominios
+8. Guía de inicio para comunidades
+9. Ruegos y preguntas
+
+
+Asisten los miembros electos de la junta directiva 
+
+ Yamila
+ 
+ Mai
+
+ Antoni
+
+ Juan Luís
+
+se incorpora Juan Ignacio a las 21:05
+
+Excusan su asistencia 
+ Miguel 
+
+ Juan Ignacio
+
+
+
+
+**Aprobación acta anterior**
+
+ Se deja sobre la mesa a la espera de lectura
+
+
+**Aprobación nuevos socios**
+
+ No hay altas pendientes
+
+
+**Fechas Renovación de JD**
+ 
+ Se convocará el lunes 12 de marzo de 2018 a las 20:00 en primera convocatoria y a las 20:30 en segunda. Enviaremos evento a la lista de socios/as.
+
+
+**Solución general para almacenar contraseñas**
+ * https://github.com/passbolt/passbolt_api/
+ * http://www.vaultier.org/install/
+    * Yamila desplegará un Vaultier en el servidor de la asociación.
+
+
+**Compra de dominio con Dinahosting para Python Guadalajara**
+
+ Comprado y estamos pendiente de dar acceso a Jesús
+
+
+**Plan B para lista y gestión de dominios**
+
+        Delegación de dominio es.python.com en una única persona al igual que las listas de correo. Hay que intentar que no haya una única persona con toda la configuración de cuentas y contraseñas, ya que es un riesgo innecesario.
+
+
+ Se investiga:
+
+
+ * En correo:
+        Posibilidad de que Yami gestione el Dominio
+        Se podría migrar el correo a https://www.zoho.eu
+
+ * Para grupos de correo tenemos las alternativas:
+    * https://groups.io/
+    * https://www.discourse.org/
+
+
+**Guía de inicio para comunidades**
+
+        Xavi de Girona lo propuso para la asamblea. De momento no se ha hecho nada. Juanlu quiere dar algo hecho para que la gente se anime a dar su opinión.
+        
+
+**Django Girls en Mallorca**
+
+ Yamila se encargará de las facturas de la PyconES        
+
+
+**Ruegos y preguntas**
+
+
+ * Mai pregunta qué eliminar. Quedamos que únicamente se publicarán los nombres, sin DNI, ni direcciones ni correo electrónico.
+ * Hay un patrocinador que no está dando señales de vida. Yamila irá persiguiendo.
+ * Málaga, la PyconES 2018 están trabajando en la parte de diseño gráfico.
+ 
+
+
+Sin nada más que añadir se cierra la junta a las 21:40 horas. 
+
+
+El secretario,
+
+
+Antoni Aloy

@@ -1,0 +1,106 @@
+﻿En la ciudad de Madrid, siendo las 21:26 horas del 17 de diciembre de 2018 y en primera convocatoria, se celebra la Junta directiva de Python España  
+
+
+ORDEN DEL DÍA
+---------------
+
+1. Alta nuevos socios
+2. Aprobación actas anteriores
+3. Fechas Renovación de JD 
+4. Certificado FNMT
+5. Envío convocatoria elecciones
+6. Ruegos y Preguntas
+
+
+Asisten los miembros electos de la junta directiva 
+ * Mai,
+ * Antoni, 
+ * Juan Luís
+ * Juan Ignacio
+
+Excusan su asistencia  Yamila que envía informe y preguntas por escrito a Miguel.
+
+
+
+
+**1. Aprobación nuevos socios**
+
+ * Ángel Vivas Vivas  (0091)
+ * Alejandro Fuster (0092)
+ * Pablo Galindo (0090)
+ * Mabel Delgado (0089)
+	
+ Se aprueban por unanimidad
+
+**2. Aprobación acta anterior**
+
+ Se da todo el mundo por enterado y aprobadas.
+
+
+**3. Fechas Renovación de JD**
+
+ Se convocará el lunes 12 de marzo de 2018 a las 20:00 en primera convocatoria y a las 20:30 en segunda. Enviaremos evento a la lista de socios/as. Se enviarán esta semana.
+ Aprovecharemos para enviar recordatorio de renovación de cuotas. Se intentará establecer votación presencial donde tengamos miembros de la junta.
+
+
+**4.Certificado FNMT**
+
+ Tenemos problemas para renovar el certificado digital. Hemos hablado con el registor de asociaciones y que va por correo ordinario. Podemos tener problemas con la presentación del segundo trimestre a la hora de presentar la documentación electrónica ya que posiblemente no se podrá presentar.
+        
+**Django Girls en Palma**
+
+55 inscritas, se informa
+
+
+**Yamila**
+ * labores cotidianas de tesorería: movimientos, nuevos socios, facturas
+ * cierre del Deutsche Bank, ya no tenemos esta cuenta.
+ * modificar la aplicación de socios para que ahora tenga un campo de IBAN
+ * he estado trasteando con passbolt, pero no he conseguido montarlo.
+
+**Ruegos y preguntas**
+ 
+ Yami hace las siguientes preguntas
+
+ * Actas - ¿cómo van? en la última junta se decidió un plan concreto; estoy muy motivada con que esta tarea salga en nuestra "legislatura"; si no se ha avanzado, entonces me la pido yo (vehementemente).
+
+   * Mai nos dice que parte de las actas iniciales ya están anonimizadas y sigue el proceso. 
+
+ * Domiciliaciones: poco éxito de convocatoria. la explicación actual está 100% mal en vista de las preguntas que nos llegan, pero nadie da un paso y dedica un par de horas a ponerlo más claro. ¿Hubo campaña de animar a la gente por tuiter?
+
+   * Haremos una campaña aprovechando la convocatoria de nueva junta.
+
+
+ * Yami, si alguien cambia el texto de "hazte socio".
+
+   * yo me ofrezco para escribir un post animando a la gente a domiciliar
+ 
+ * Postmortem de Pycones2017 - ¿por qué sigue sin hacerse? ¿quién lo persigue? Esto debería ser parte de las labores que se le piden a la organización porque sin cierre / postmortem no hay transparencia, ni cuentas públicas ni nada... Es el evento principal que hace la asociación y un postmortem son unas pocas horas bien organizadas.
+
+   * Existe la retrospectiva pero no estaba en el drive de la asociación.. Los organizadores están a disposición para contar su experiencia. Tenemos datos de asistentes. Tenemos una visión bastante buena de lo que gustó y qué perfiles tienen. No se llegó a compartir.
+
+
+* PyconES 2018 está en marcha. Adrián Matellanes está llevando la organización a tiempo completo. La mayor parte de carga de trabajo está en la gente de Ebury, con Venancio currando en el tema. Juanlu se incorpora al grupo de trabajo la semana que viene. Se tienen que cerrar las fechas con la Universidad y mirar de cerrar folleto de patrocinio. Se comenta el riesgo que Ebury organice una PyconES.
+
+
+* Python Canarias se va a constituir como sociedad. Se quiere definir una cuota que no entre en competencia con Python España. Juan Ignacio querría definir un nivel de colaboración.
+
+
+Juanlu a las 22:05 se queda sin batería., a las 22:11 se vuelve a conectar.
+
+
+Sin nada más que añadir se cierra la junta a las  22:36 horas. 
+
+
+
+
+
+
+El secretario,
+
+
+
+
+
+
+Antoni Aloy

@@ -1,0 +1,54 @@
+﻿En la ciudad de Madrid, siendo las 21:00 horas del 30 de enero de 2017 y en primera convocatoria, se celebra la Junta directiva de Python España  
+
+
+Orden del día:
+
+
+1. Aprobación de nuevos socios
+2. PyDay
+3. Ruegos y preguntas
+
+
+
+
+Asisten los miembros electos de la junta directiva Yamila, Mai, Juan Luís, Antoni. 
+
+
+**1. Se aprueba el acta de los nuevos socios:**
+
+
+        PYES-0079   DAVID NARANJO BARCO
+
+
+**2. PyDay** 
+
+ Se informa del PyDay de Tnerife organizado pro Juan Ignacio. Yami indica que se debe pedir la beca a la PSF. Si es poco dinero la asocación puede adelantarlo.
+ Hay que añadir el elnlace de Freewear a la web, Yami está con la migración. 
+
+**3. Ruegos y preguntas**
+
+
+* Se presenta el caso de Laura Morillo coordinadora de las PyGals que necesita la cobertura de la asociación para un acto no relacionado con Python. Se acuerda en junta no participar ya que el acto en sí sale fuera de los objetivos de la asocación.
+* Mai informa de que no se ha avanzado en el tema de los Meetups
+* Se informa de que hay cuentas pendientes del 2016 con la Universidad, pero no se sabe importe todavía.
+* Se comenta el vídeo de la PyconES con fotos de moda que causó revuelo, se propone subirlo eliminando las partes sensibles, previa consulta con las partes implicadas.
+* Se presentan los patrocionadores de la PyconES 2017: Acenture/Tecnológica, El Gas, SkySkanner y Ebury
+
+
+
+
+
+
+Y sin nada más que añadir se levanta la junta.
+
+
+
+
+El secretario
+
+
+
+
+
+
+Antoni Aloy López
