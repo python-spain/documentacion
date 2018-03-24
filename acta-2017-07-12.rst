@@ -1,0 +1,91 @@
+﻿En la ciudad de Madrid, siendo las 20:13 horas del 12 de julio de 2017 y en primera convocatoria, se celebra la Junta directiva de Python España  
+
+
+
+* ORDEN DEL DÍA
+
+ *  Aprobación acta anterior
+ *  Aprobación nuevos socios
+ *  Oferta web trabajo ticketea
+ *  Estado PyconES 2017
+ *  Estado cambio banco
+ *  Ruegos y preguntas
+
+
+Asisten los miembros electos de la junta directiva 
+
+Yamila 
+Mai
+Antoni, 
+Juan Luís
+
+**Aprobación acta anterior**
+
+ Se aprueba por unanimidad
+
+**Aprobación nuevos socios**
+
+        PYES-0082 LUÍS GARCÍA MERINO
+
+        PYES-0083 SIRO MORENO MARTÍN 
+
+ Se aprueban por unanimidad
+
+
+**Oferta web trabajo ticketea**
+
+ Ticketea nos ofrece hacer la web de ofertas de trabajo. La empresa llevaría diseño, desarrollo y hosting a cambio de aparecer en los créditos.
+
+ La única condición sería que se liberase el código fuente a nombre de PyconES.
+
+
+**Estado PyconES 2017**
+
+ Juanlu indica que siguen entrando patrocinadores. La organización está resultando muy bien. La agenda está publicada y llegamos a un tercio de chicas, gracias a la asociación y a la gente que ha estado trabajando para animar a la gente a presentar ponencias.
+
+
+
+
+**Estado cambio banco**
+
+
+ Ya tenemos la nueva cuenta de Triodos y tenemos nuevo número de cuenta. Estamos pendiente de una transferencia de 6000 €.
+
+ Se habilitará el proceso de domiciliación de cuotas.
+
+
+ * Hay que cambiar el número de cuenta y pasar a Antoni el número de cuenta para poder hacer la comunicación.
+
+
+
+
+**Ruegos y preguntas**
+
+
+* Posibilidad de contratar un bus de Madrid a Cáceres. 
+   * Javi Palanca está trabajando.
+* Se montará asamblea de socios en la PyconES. Se tiene que convocar en tiempo y forma.
+   * Cuentas
+   * Resumen actividades
+   * Junta extraordinaria para elegir la sede PyconES.
+   * El año que viene caduca la Junta, hay que preparar convocatoria elecciones.
+* Mai. Becas. 
+   * Mai ha escrito un e-mail y está pendiente que nos digan 
+* Ventajas para socios (Mai). 
+   * Mario Corchero ha pasado ideas para socios. Ha comentado hacer algo para la PyconES. Hacer chapas o algún distintivo especial. Hay que recuperar la idea del kit de iniciación del socio. Grupo cerrado en LinkEdln. Grupo cerrado de Telegram. Un hangout para que los socios se presenten. Encuentro periódico.
+
+* Hay que pedir pegatinas para la PyconES.
+* Toni pasa enlace de Cloud for Cities sobre Python y Django.
+* Ya esta hecha la llamada a Sedes para el 2018 (5 de junio en la lista de socios). De momento no hay respuesta.
+* Hay dos drives. Nos quedamos con Junta Python España.
+
+
+Sin nada más que añadir se cierra la junta a las 20:55
+
+
+El secretario,
+
+
+
+
+Antoni Aloy

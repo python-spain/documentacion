@@ -1,0 +1,87 @@
+﻿En la ciudad de Madrid, siendo las 21:12 horas del 5 de septiembre de 2017 y en primera convocatoria, se celebra la Junta directiva de Python España  
+
+
+
+
+* ORDEN DEL DÍA
+
+1. Alta nuevos socios
+2. Aprobación acta anterior
+3. Asamblea de Socios en la PyconES
+4. Renovación de JD 
+5. Domiciliación de recibos
+6. Baja de socios
+7. Ruegos y preguntas
+
+
+Asisten los miembros electos de la junta directiva 
+
+ Yamila 
+ Mai
+ Antoni, 
+ Juan Luís
+ Miguel
+
+
+
+**Aprobación acta anterior**
+
+ Se aprueba por unanimidad
+
+
+**Aprobación nuevos socios**
+
+ No hay renovaciones pendientes
+
+
+**Asamblea de Socios ordinaria**
+
+ * Se convoca en la PyconES
+     * Orden del día:
+        * Llamada a sedes
+        * Memoria económica y resumen de actividades
+           * Toni abrirá documento compartido
+        * Nueva Junta
+        * Ruegos y preguntas
+
+
+**Renovación de JD**
+ * Definir quin renueva o no. Lo explicamos en la PyconES. Hay que poner fecha de finalización de candidaturas. Hay que preparar las votaciones.
+ * Propuesta de subir actas a la web de la asociación.
+ * Toni subirá las actas de años anteriores al Drive. Mai puede verificar si tenemos datos personales.
+ * Se debe cerrar fecha de candidaturas y de votación. Toni mirará las fechas.
+
+
+**Domiciliación de recibos**
+ Publicada web con nuevo procedimiento. Falta nuevo post. Se pasarán todas la domiciliaciones a febrero. Hay que cambiar la web de socios para añadir el campo de IBAN, hay que descargarse un csv y subirlo a la web del banco.
+ 
+ Retienen el dineor 30 días y llegarán 29,70 por socio.
+ 
+ Toni modificará la web de socios, Yami pasará el manual.
+
+
+**Baja de socios**
+
+ No hay un documento para darse de baja. Hay que escribir un pequeño documento para indicar cómo se da uno de baja.
+ Bastaría un e-mail de renuncia voluntaria.
+ Yami modificará 
+
+
+**Ruegos y preguntas**
+
+* Juanlu informa de la llamada a sedes.
+* Antoni pasará recordatorio de pago de cuotas y domiciliación. Último correo de aviso. Indicar número de cuenta.
+* Beca de Meetups concedida. Se va a pedir el dinero. Debemos decidir cómo gestionarlo. Yami tiene que hacer la factura. Se necesitará un responsable para el control de meetups. Mai escribirá a los organizadors de los meetups y que indiquen cómo quieren que se gestione.
+
+
+
+
+Sin nada más que añadir se cierra la junta a las 21:55
+
+
+El secretario,
+
+
+
+
+Antoni Aloy

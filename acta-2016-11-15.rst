@@ -1,0 +1,55 @@
+﻿En la ciudad de Madrid, siendo las 21:08 horas del 15 de noviembre de 2016 y en primera convocatoria, se celebra la Junta directiva de Python España  
+
+
+* Orden del día:
+
+1. Aprobación de nuevos socios
+2. Meetups
+3. Ruegos y preguntas
+
+
+
+
+Asisten los miembros electos de la junta directiva Yamila, May, Juan Luís, Antoni y Miguel. 
+
+
+1. Se aprueba el acta de los nuevos socios:
+
+
+        PYES-0075   MANUEL GARRIDO PEÑA
+
+        PYES-0076   ISRAEL BLANCAS ÁLVAREZ
+
+        PYES-0077   CRISTÓBAL CONTRERAS RUBIO
+
+        PYES-0078   JAVIER LUNA
+
+
+2.  Juan Luís informa que exista una cuenta de meetup pro con un precio de 15$ por meetup. Saldría a 80$ al mes con lo que tenemos. Nadie está pidiendo neuvos meetups. En todo caso se podría mirar con la PFS por si se puede subvencionar.
+
+
+ Yamila y Miguel sugieren que se gestione el pago de cada meetup por la asocación ya que sale más barato.
+
+
+3. Ruegos y preguntas
+
+ * Mai sugiere utilizar el correo y hacer cosas para dar visibilidad a los socios
+ * Tenemos libros de O’Reilly para la PyconES hay que recuperar el cupón
+ * Hay que conseguir organizar meetups locales
+
+
+
+Y sin nada más que añadir se levanta la junta.
+
+
+
+
+El secretario
+
+
+
+
+
+
+Antoni Aloy López
+43.060.310D
