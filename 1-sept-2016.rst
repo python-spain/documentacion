@@ -1,0 +1,66 @@
+﻿En la ciudad de Madrid, siendo las 20:00 horas del 1 de septiembre de 2016 y en primera convocatoria, se celebra la Junta directiva de Python España  
+
+
+Orden del día:
+
+
+* Aprobación del acta anterior
+* Aprobación de nuevos socios
+* Procedimiento de comunicación a socios
+* Meetups
+* PyDay
+* Ruegos y preguntas
+
+
+
+
+Asisten los miembros electos de la junta directiva Yamila, Juan Luís, Antoni y Miguel. 
+
+
+1. Se aprueba el acta anterior por asentimiento haciendo la salvedad de eliminar los DNIs de los socios del acta.
+2. Se aprueba el acta de los nuevos socios:
+
+
+        PYES-0070   MARIA ANTONIA TUGORES
+        PYES-0071   MARIO CORCHERO
+        PYES-0072   RAQUEL GARCÍA BAUTISTA
+        PYES-0073          JAVIER AGUIRRE
+
+
+3. Se aprueba el procedimiento de comunicación a socios, de modo que al darse de alta un socio se añade directamente a la lista y se le comunica su número de socio/a cuando se aprueba en junta.
+
+
+4.  Meetups. Juan Luís indica que el pago de los Meetups es muy complicado. Se debe averiguar si la PSF podría pagar los meetups y ceder la gestión. Hay dificultades para que emitan una factura.
+
+
+5. Pyday (12 al 18 septiembre). Murcia hará y posiblemente Valencia a través de Javi Palanca. Se organiza en Madrid también. Se enviará merchabndising a aquellos que lo soliciten en forma de pegatinas.
+
+
+6. Ruegos y preguntas
+
+
+- Los openbadges de socios implican publicar actas y gestionarlas. No queda claro como hacer la revocación.
+- Pycon2017. Se está mirando de que haya un compromiso en Almería. Se mandará convocatoria oficial
+- En la Pycon2016 se convocará una asamblea de socios para el sábado. Hora lugar y formato a decidir.
+- Hay que ir preparando la junta ordinaria de socios, tiene que estar presente la tesorera.
+- El portal de empleo no avanza.
+- Tesorería. Falta la firma de Pablo. Se intentará conseguir.
+        
+
+
+
+
+Y sin nada más que añadir se levanta la junta.
+
+
+
+
+El secretario
+
+
+
+
+
+
+Antoni Aloy López
+43.060.310D

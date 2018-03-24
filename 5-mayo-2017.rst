@@ -1,0 +1,92 @@
+﻿En la ciudad de Madrid, siendo las 21:30 horas del 4 de mayo de 2017 y en segunda convocatoria, se celebra la Junta directiva de Python España  
+
+
+Orden del día:
+
+
+* * 1. Aprobación actas anteriores
+* 2 Aprobación de nuevos socios
+* 3. Estado actual  de la burocracia
+* 4. Ofrecimiento de ayuda de Euribates para facilitar los pagos de la asociación
+* 5. PyconES 2017
+* 6. Estado merchandising
+* 7. Estado publicación actas en la web de la asociación
+* 8. Quietud de la lista de socios.
+* 9. Invitar a socios para que escriban en el blog
+* 10. Ruegos y preguntas
+
+
+
+
+Asisten los miembros electos de la junta directiva 
+
+
+Juan Ignacio Rodríguez de León, Antoni Aloy, Yamila, May, Miguel y Juan Luís
+
+
+
+
+1. Aprobación actas anteriores
+Se aprueban las altas anteriores
+
+
+2 Aprobación de nuevos socios
+Se aprueba el acta de los nuevos socios:
+
+
+        PYES-0080   AITOR VELASCO
+        PYES-0081   PABLO MANUEL GARCÍA CORZO
+
+
+3. Estado actual  de la burocracia
+Yamila hace un resumen de los problemas de cambio de banco, el banco solicita el documento de registro de asociaciones.
+
+
+4. Ofrecimiento de ayuda de Euribates (Juan Ignacio Rodríguez) para facilitar los pagos de la asociación
+Se ofrece hacer la integración para el pago por Stripe o La Caixa. De momento queda sobre la mesa hasta ver si podemos hacer cambio de banco y domiciliar.
+
+
+5. Estado merchandising
+Miguel comenta sobre hacer una tirada más grande de pegatinas aprovechando que Freware ya tiene las referencias.
+
+
+6. Estado publicación actas en la web de la asociación
+Se acuerda revisar las actas anteriores y subir anteriores y nuevas al Github de la asociación, eliminando datos personales como e-mail y DNI.
+
+
+7. PyconES 2017
+La organización va bien, faltando subir los horarios. Han subido el precio de las entradas por el cambio de sede. Yamila comenta el estado de las Django Girls.
+
+
+8. Quietud de la lista de socios.
+Se pone de manifiesto la quietud de la lista de socios. Se acuerda que hay que dar más publicidad a lo que se hace e ir haciendo posts de los eventos, pero todo el mundo está de acuerdo en que no es el principal canal de comunicación
+
+
+9. Invitar a socios para que escriban en el blog
+Yamila puede dar usuarios y pide que el contenido sea en Markdown. Se acuerda la conveniencia de pasar a Github y mantener contenidos para los temas de la aosicación , eventos, becas, PSF, DSF.
+
+
+10. Ruegos y preguntas
+* Mai está haciendo el redactado para los grants de la PSF
+* Juan Ignacio pregunta por el listado de socios de Python Canarias. Se le responde que no se tiene a los socios registrados por localidad.
+* Se pregunta por los patrocinios que puede dar la asociación. Se responde que el límite está entre 150 y 200 € que más allá tiene que pasar por junta. 
+* Miguel agradece el soporte de Python España en el evento PyDay.
+* Yamila y Juanlu acuerdan dar prioridad al tema del cambio de banco y ver dónde se puede solicitar el certificado.
+
+
+
+
+Y sin nada más que añadir se levanta la junta a las 22:37
+
+
+
+
+El secretario
+
+
+
+
+
+
+Antoni Aloy López
+43.060.310D
