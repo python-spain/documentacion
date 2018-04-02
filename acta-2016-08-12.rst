@@ -1,0 +1,53 @@
+En la ciudad de Madrid, siendo las 21:00 horas del 12 de agosto de
+2016 y en primera convocatoria, se celebra la Junta directiva de
+Python España
+
+Orden del día:
+--------------
+ - Aprobación del acta anterior
+ - Aprobación de nuevos socios
+ - Estado de la PyconEs
+ - PyDay
+ - Estado tesorería
+ - Reuegos y preguntas
+
+
+Asisten los miembros electos de la junta directiva Yamila, Juan Luís, Antoni, Mai y Miguel.
+
+**1. Se aprueba el acta anterior por asentimiento**
+
+**2. Se aprueba el acta de los nuevos socios**
+
+
+ +------------+----------------------------+
+ | PYES-0067  | Javier Becerra Elcinto     |
+ +------------+----------------------------+
+ | PYES-0068  | Juan José Moreno Martínez  |
+ +------------+----------------------------+
+ | PYES-0069  | Bob Michael Belderbos      |
+ +------------+----------------------------+
+
+**3. PyconEs**
+ - Juan Luís indica que ha despegado pero que hay pocas propuestas de charlas todavía.
+
+ - Un patrocinador no da señales, se le contactará.
+ - Se publicará info de hoteles.
+ - Se confirma la Key Note
+ - Yamila hará campaña en la Europython
+ - Se intentrá hacer una charla de PyData
+
+**4. PyDay**
+ - Miguel confirma Vigo, Barcelona, Madrid.
+ - Juan Luís indica que hay posibilidad en Granada y Almería, así como Bilbao.
+
+**5. Tesorería**
+ - Yamila informa que estamos recibiendo altas y patrocinios
+ - Vesi está con papeles y contabilidad
+ - Se ha tenido que ir a hacienda a resolver un problema con una declaración de hace 2 años.
+ - Se informa del proceso de cambio de banco.
+ - Se abrirá cuenta solidaria con Juan Luís yYamila.
+
+**6. Ruegos**
+ - Antoni pregunta sobre dar más ventajas a los socios. De momento solamente se tiene descuento en O'Reilly
+ - Mai se encargará de recopilar ideas sobre ventajas
+ - Juan Luís informa que quedará con Pablo Lobariñas para traspaso de documentación.
