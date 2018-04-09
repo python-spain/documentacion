@@ -1,0 +1,139 @@
+Acta Junta Python España 08 de Abril de 2018
+============================================
+En la ciudad de Madrid, Valencia, Barcelona y Londres siendo las 20:00 horas del 08 de abril de 2018 y en única convocatoria, se celebra la  reunión de la Junta directiva de Python España.
+
+
+Orden del día
+-------------
+
+1. Aprobación o renovación de los socios.
+2. Inscripción de la nueva Junta.
+3. Traspaso de la tesorería.
+4. Publicación de las actas.
+5. Propuestas para asociaciones locales.
+6. GitHub issues.
+7. Recetario para conferencias. Lorena Mesa proposal.
+8. Procedimiento para verificar el alta a los socios. 
+9. Opiniones sobre canales de comunicación.
+10. Ruegos y preguntas
+
+ a. Notificaciones de renovaciones 
+ b. Google Drive
+ c. Web para socias
+
+
+-------------------------------------------
+
+
+Asisten los miembros de la junta directiva por medios telemáticos:
+ - Juan Luis Cano
+ - Mario Corchero
+ - Mabel Delgado
+ - Marcos Gabarda
+ - Pablo Galindo
+ - Maite Giménez
+
+
+1. Aprobación o renovación de los socios
+````````````````````````````````````````
+ Se aprueba por unanimidad la renovación del socio  David Naranjo.
+
+
+2. Inscripción de la nueva Junta
+````````````````````````````````
+ Juanlu nos informa de que está enviada el acta al ministerio de interior, exenta de tasas, y estamos a la espera de la respuesta.
+
+3. Traspaso de la tesorería
+```````````````````````````
+ Yamila y Marcos están en contacto y se han traspasado el acceso a los recursos digitales a la falta de dar acceso a la cuenta del banco que está pendiente de la aprobación de la Junta en el Ministerio de Interior.
+
+ Se habla de la situación con la contable y se decide continuar con Vesi a falta de evaluar en profundidad los requerimientos la junta.
+
+ Además, Marcos realizará las gestiones pertinentes con Yamila para concretar los documentos trimestrales que debe presentar la asociación.
+
+
+4. Publicación de las actas
+```````````````````````````
+ Se publicaron todas las actas. En el futuro todas las actas se publicarán en rst mediante pull request en el github de las `actas de la asociación <https://github.com/python-spain/actas>`_.
+
+5. Propuestas para asociaciones locales
+```````````````````````````````````````
+ Juanlu comenta la disyuntiva de los socios para pertenecer a asociaciones locales y al mismo tiempo a la asociación de Python España. 
+
+ La voluntad por parte de todos los miembros de la junta es colaborar en todo lo posible con las asociaciones locales dejando espacios para la sinergia. 
+ Mabel comenta la posibilidad de proponer una doble cuota, que incluya una cuota a la asociación local y una cuota superior que incluya su participación para la asociación local y para la asociación nacional. 
+
+ Pablo comenta la problemática de gestionar distintos niveles de asociacionismo (socios de Python España y socios locales), y propone que las asociaciones locales gestionen el pago de los socios y anualmente de forma voluntaria sean las asociaciones locales quienes hagan transferencia a la Asociación de Python España. 
+ 
+ Mario propone que las gestiones de los socios de las asociaciones locales las lleve a cabo las propias asociaciones locales. 
+ 
+ Mai propone que la asociación de Python España genere un documento en el que se detalle las condiciones y beneficios de la colaboración entre la asociación locales y la asociación de Python España, de modo que todas las asociaciones locales gocen de los mismos beneficios y los socios conozcan la colaboración de su asociación local y la nacional.
+
+ Juanlu explica la posibilidad  ya recogida en el reglamento para que los socios de las asociaciones locales puedan votar también en la asociación nacional y comenta que en cualquier caso, tras madurar la propuesta, debe votarse en  la  próxima Asamblea General que se celebrará en la próxima  PyConES.
+ 
+ Se acuerda hacer una reunión monográfica de este tema para elaborar la propuesta de colaboración. 
+
+
+6. GitHub issues
+```````````````````````````````````````
+ Mario comenta que se han comenzado a utilizar los `issues <https://github.com/python-spain/asociacion/issues>`_ de GitHub con el objetivo de mejorar la transparencia de la Asociación de Python España. Ya ha creado todos los puntos a los que  nos comprometimos en la candidatura y existen etiquetas para cada una de las áreas de trabajo. 
+
+7. Recetario para conferencias. Lorena Mesa proposal
+``````````````````````````````````````````````````````````
+ Tanto la PSF como la asociación de Python España quiere crear un recetario de comunidades locales. 
+ La junta directiva decide por unanimidad decide ayudar a Lorena Mesa a terminar el recetario que había iniciado para  después traducirlo y localizarlo para la comunidad de España. 
+ Mario hablará con Lorena Mesa. 
+ Mabel comenta reutilizar manuales que ya existan como por ejemplo el manual para gestionar `DjangoGirls <https://organize.djangogirls.org/>`_  y `PyLadies <http://kit.pyladies.com/en/latest/>`_. 
+
+8. Procedimiento para verificar el alta a los socios
+``````````````````````````````````````````````````````````
+ En la actualidad el procedimiento es el siguiente: el socio envía un correo a altas que recibe secretaría, despues secretaría y tesorería lo verifican y lo actualizan en la aplicación de Django a la que en breve Marcos tendrá acceso. 
+
+ Mabel comenta que el procedimiento  tal y como está en la `web de la asociación <https://www.es.python.org/pages/hazte-socio.html>`_ es confuso para el usuario.
+ 
+ Juanlu propone que el socio de el número de cuenta y automáticamente se haga el pago, Marcos investigará las posibilidades de esta opción. 
+
+ Mario propone tener un formulario en el que la nueva socia adjunte el justificante de pago y Mabel añade  que las instrucciones aparezcan dentro del mismo formulario, como campos de ayuda. 
+
+ Ahora mismo ya existe un `issue <https://github.com/python-spain/web/issues/36>`_ acerca del tema. 
+ 
+ Se propone discutirlo en profundidad en un  próximo monográfico.
+
+9. Opiniones sobre canales de comunicación.
+``````````````````````````````````````````````````````````
+ Debido a la complejidad de este tema se acuerda hacer un monográfico sobre el mismo.
+
+10. Ruegos y preguntas
+``````````````````````````````````````````````````````````
+
+10.a. Notificaciones de renovaciones
+'''''''''''''''''''''''''''''''''''''''
+ Tesorería y secretaría acuerdan que el procedimiento será el siguiente mientras siga en vigor la actual operativa para la verificación del alta de las socias:
+
+ - Cuando llegue el correo de la socia a altas, secretaría escribirá un correo a la socia, con copia a tesorería, indicando que han recibido el justificante y que en breve lo validará. 
+ - Tesorería verificará  que el pago se ha hecho correctamente e informará a secretaría, con el número de socia y con el resto de detalles pertinentes.
+ - Aprobación de la socia por la junta directiva.  
+ - Secretaría escribirá a la socia confirmando sus datos y que ya es miembro de la asociación.
+
+10.b. Google Drive
+'''''''''''''''''''''''''''''''''''''''
+ Se acuerda unir el Google Drive de la anterior Junta con el de la actual, de modo que los miembros de la junta directiva tengan acceso a toda la documentación de la asociación.
+
+10.c. Web para socias
+'''''''''''''''''''''''''''''''''''''''
+ Mai propone tener un apartado privado para socias en la web de la asociación, con datos como número de socia, si está al corriente de pago, etc.
+
+ Se decide explorarlo en la próxima reunión porque es un tema complejo.
+
+
+-------------------------------------------
+
+Los miembros de la junta de Python España decidimos reunirnos mensualmente y realizar monográficos sobre temas más complejos cuando se requiera. El siguiente monográfico que se realizará es el del estudio de los canales de comunicación.
+
+
+
+Sin nada más que añadir se cierra la junta a las 21:06 horas.
+
+La secretaria,
+
+ Maite Giménez
