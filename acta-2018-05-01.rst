@@ -1,0 +1,121 @@
+Acta Junta Python España 01 de Mayo de 2018
+==============================================
+
+En la ciudad de Madrid, Valencia, Barcelona y Londres siendo las 11:00 horas del 1 de mayo de 2018 y en única convocatoria, se celebra la  reunión de la Junta Directiva de Python España.
+
+
+Orden del día
+~~~~~~~~~~~~~
+1. Aprobación o renovación de los socios.
+2. Aprobación acta anterior 
+3. Estudio de los procedimientos para la gestión de la tesorería
+4. Canales de comunicación
+
+ - Estado actual: Mailman + Telegram 
+ - Pros/Cons alternativas: Slack, Rocket.chat, Zulip, Matrix, Discourse
+ - Si procede, plan de transición desde el estado actual
+
+5. Ruegos y preguntas
+
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+ - Juan Luis Cano
+ - Mario Corchero
+ - Mabel Delgado
+ - Marcos Gabarda
+ - Pablo Galindo
+ - Maite Giménez
+
+
+-------------------------------------------
+
+1. Aprobación o renovación de los socios
+````````````````````````````````````````
+ Se aprueba por unanimidad la renovación de los socios 
+
+ =========================  ====== 
+    Socio                   Número 
+ -------------------------  ------ 
+ Pedro-Juan Ferrer Matoses      48 
+ Víctor Terron                  39
+ =========================  ======
+ 
+2. Aprobación acta anterior 
+```````````````````````````
+ Se aprueba por unanimidad el acta del mes de Abril.
+
+3. Estudio de los procedimientos para la gestión de la tesorería
+````````````````````````````````````````````````````````````````
+ Respecto al tema de la tesorería se ha podido avanzar poco ya que Marcos todavía no tiene acceso a la cuenta. 
+
+ Juanlu ha presentado los impuestos de este trimestre, pero es un proceso muy costoso. Tras las conversaciones con Vesi, se informa a la Junta Directiva que ella ahora mismo no puede presentar los impuestos, y sería importante hablar con ella para preguntarle si podría sacarse el certificado y ayudarnos con la declaración de la Asociación de Python España como Asociación de Utilidad Pública, ya que sería muy importante porque permitiría pagar menos impuestos, que las cuotas de socios desgraven, así como distintos beneficios fiscales, etc. En caso de que Vesi no pudiera se acuerda  buscar una gestoría especializada en asociaciones que facilitara estos procesos.
+
+ Marcos y Juanlu hablarán con Yamila y Vesi para concretar los siguientes pasos a seguir.
+
+4. Canales de comunicación
+```````````````````````````
+ - Problemas actuales: 
+
+  - **Telegram**: en telegram no hay hilos, por lo tanto un usuario necesitaría que quisiera leer algo en concreto necesitaría leer todos los mensajes o bien utilizar listas de correo que en la actualidad tienen poquísima actividad. Telegram es muy difícil de gestionar, tanto la gestión los permisos y la granularidad de los mismos, incluso haciendo uso de bots.
+
+  - **Listas de correo**: No se están utilizando en esta comunidad. Únicamente están siendo utilizadas como canales de comunicación unidireccional y no se atienden correctamente. No parece interesante dedicar esfuerzo en crear una plataforma nueva para renovar las listas de correo. 
+ 
+ - Objetivos a alcanzar en los nuevos canales de comunicación:
+
+  - Debemos identificar correctamente qué herramienta es la que piden los usuarios, porque los usuarios siguen demandando chats. 
+
+  - Es importante tener en cuenta el coste del mantenimiento de N plataformas de comunicación, porque deben tener asignados administradores y esto implica un esfuerzo de gestión importante.
+
+  - Se debería optimizar que el mayor número de usuarios se trasladen a la nueva plataforma.
+ 
+  - Los canales permitirán también solucionar los problemas del foro de empleo.
+
+
+ - Alternativas:
+
+  - **Zulip**: 
+
+    Tiene la ventaja de ser multicanal, lo que permite disponer de conversaciones multicanal para segmentar los canales, lo cual permitiría además  comunicarnos entre distintas organizaciones.
+
+   Sin embargo Zulip es muy caótico ahora mismo. El GUI es un poco complejo. 
+
+  - **Slack**: 
+
+    Slack es gratuito para menos de 250 usuarios activos. Se puede hablar con ellos porque tienen un programa para non-profit, con lo que se puede solucionar las limitaciones del plan básico a cambio de un patrocinio de Python España cuando surgieran. 
+
+   Si fuera fácil hacer un `bridge <https://github.com/Cadair/matrix-appservice-slack>`_ de Matrix a Slack, podría utilizarse esta opción para contentar tanto a los usuarios que les guste utilizar Matrix y Slack. Juanlu preguntará por la dificultad de este proceso. 
+ 
+   La Junta Directiva preferiría utilizar software open source pero existe el temor de que estas otras plataformas no sean demasiado populares y no sea posible crear comunidad en este nuevo canal de comunicación.
+
+   El problema del acceso a un workspace de se solucionará de modo automático el acceso a los usuarios a Slack.
+
+  - **Mattermost**:
+ 
+    Se estudia también el uso de `Mattermost <https://github.com/mattermost/mattermost-server>`_ como opción open source similar a Slack.
+ 
+    Como existen costes para utilizar una plataforma, debemos ponderar la adopción  de los usuarios y el uso de esta herramienta.
+
+
+- Se determina realizar una encuesta a los socios para escuchar sus opiniones y tomar una decisión en consecuencia. Las opciones por las que se les preguntarán serán: 
+
+ - Slack 
+ - Matrix
+ - Mattermost
+
+5. Ruegos y preguntas
+`````````````````````
+ Mario escribió a O’Reilly para retomar el contacto y ver si pudiéramos conseguir algún beneficio para socios.
+
+ O’Reilly ha contestado con la oferta de que darían un mes gratis de Safari on-line a condición de poner el logotipo a la web. Y colaborarán con Python España. 
+
+ Mario se pone en contacto con ellos para determinar el resto de los detalles de la colaboración.
+
+-------------------------------------------
+
+Sin nada más que añadir se cierra la reunión de la Junta a las 12:15 horas.
+
+La secretaria,
+
+ Maite Giménez
