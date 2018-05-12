@@ -55,21 +55,22 @@ Marcos Gabarda se excusa y envia sus comentarios por correo.
 
  Independientemente de todo estos puntos, seguimos teniendo el problema de que un único canal de Telegram genera muchísimo ruido y es muy complejo de gestionar.
 
-Como punto positivo, se trata de un canal con una gran cantidad de usuarios que nos gustaría que nos acompañan en el futuro creando una comunidad más diversa y activa. 
+Como punto positivo, se trata de un canal con una gran cantidad de usuarios que nos gustaría que nos acompañaran en el futuro creando una comunidad más diversa y activa. 
 
 
 3. Soluciones a futuro
 ````````````````````````````````````````````````````````````
- El disponer de plataformas multicanales facilita la gestión de las mismas. 
+ El disponer de plataformas de comunicación multicanal facilitaría la gestión de las mismas. 
 
  Sin embargo, cabe destacar que esta solución también podría gestionarse mediante distintos canales con Telegram como se hace en otras comunidades.
 
- Se plantea, por lo tanto, que es más interesante para la comunidad, si continuar con el canal de Telegram o reconducir a los usuarios a otra plataforma. 
+ Se plantea, por lo tanto, que es más importante para la comunidad, si continuar con el canal de Telegram o reconducir a los usuarios a otra plataforma. 
 
- Bien es cierto, que el canal de Telegram es una parte importante de la comunidad de Python España aunque ahora mismo es muy difícil de gestionar porque esta responsabilidad cae sobre una única persona. 
+El canal de Telegram es una parte importante de la comunidad de Python España aunque ahora mismo es muy difícil de gestionar porque esta responsabilidad cae sobre una única persona. 
 
- En este sentido, se propone que se creen grupos de trabajos para gestionar las distintas tareas dentro de la comunidad como se hace en muchas otras comunidades. Esto nos permitirá crecer y abordar nuevos objetivos. El primer grupo de trabajo que podría constituirse para ayudar en este proceso es un grupo de trabajo que se encargue de la comunicación.
+ En este sentido, se propone que se creen grupos de trabajos para gestionar las distintas tareas dentro de la comunidad como se hace en muchas otras comunidades Esto nos permitirá crecer y abordar nuevos objetivos. Ahora mismo existe un grupo de trabajo que se encarga de la edición de la web. De forma análoga, se plantea constituir un grupo de trabajo que se encargue de la comunicación. 
 
+ En cualquier caso, se planetea hacer un cambio real en el reglamento de la asociación de cara a la siguiente Asamblea General que incluya el funcionamiento de los grupos de trabajo y que deberá ser refrendado por todos los miembros de la asociación.
 
  Se establece el siguiente procedimiento para crear un **grupo de trabajo de comunicación**:
 
