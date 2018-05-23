@@ -46,7 +46,7 @@ Marcos Gabarda se excusa y envia sus comentarios por correo.
 
 2. Estado del canal general de Telegram.
 ````````````````````````````````````````````````````````````
-  Al introducir la encuesta en el canal general Python España se desencadenó una discusión muy difícil de gestionar, en la que unos pocos usuarios dominaron la conversación y nos fue realmente complicado hacer pedagogía y que el mensaje no se perdiera entre el ruido, de modo que la mayor parte de los usuarios no comprendieron lo que estaba pasando.
+ Al introducir la encuesta en el canal general Python España se desencadenó una discusión muy difícil de gestionar, en la que unos pocos usuarios dominaron la conversación y nos fue realmente complicado hacer pedagogía y que el mensaje no se perdiera entre el ruido, de modo que la mayor parte de los usuarios no comprendieron lo que estaba pasando.
 
  Además sólo 43 personas de las 1500 que se encuentran en el canal votaron. Por lo que no es posible extrapolar las preferencias de los usuarios con una muestra tan pequeña. 
 
@@ -55,7 +55,7 @@ Marcos Gabarda se excusa y envia sus comentarios por correo.
 
  Independientemente de todo estos puntos, seguimos teniendo el problema de que un único canal de Telegram genera muchísimo ruido y es muy complejo de gestionar.
 
-Como punto positivo, se trata de un canal con una gran cantidad de usuarios que nos gustaría que nos acompañaran en el futuro creando una comunidad más diversa y activa. 
+ Como punto positivo, se trata de un canal con una gran cantidad de usuarios que nos gustaría que nos acompañaran en el futuro creando una comunidad más diversa y activa. 
 
 
 3. Soluciones a futuro
@@ -66,7 +66,7 @@ Como punto positivo, se trata de un canal con una gran cantidad de usuarios que 
 
  Se plantea, por lo tanto, que es más importante para la comunidad, si continuar con el canal de Telegram o reconducir a los usuarios a otra plataforma. 
 
-El canal de Telegram es una parte importante de la comunidad de Python España aunque ahora mismo es muy difícil de gestionar porque esta responsabilidad cae sobre una única persona. 
+ El canal de Telegram es una parte importante de la comunidad de Python España aunque ahora mismo es muy difícil de gestionar porque esta responsabilidad cae sobre una única persona. 
 
  En este sentido, se propone que se creen grupos de trabajos para gestionar las distintas tareas dentro de la comunidad como se hace en muchas otras comunidades Esto nos permitirá crecer y abordar nuevos objetivos. Ahora mismo existe un grupo de trabajo que se encarga de la edición de la web. De forma análoga, se plantea constituir un grupo de trabajo que se encargue de la comunicación. 
 
