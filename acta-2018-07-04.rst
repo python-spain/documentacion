@@ -1,0 +1,125 @@
+Acta  Junta Python España 4 de Julio  de 2018
+==============================================
+
+En la ciudad de Madrid, Barcelona, Londres, Valencia y Zürich siendo las 20:30 horas del 4 de Julio de 2018 y en única convocatoria, se celebra la  reunión de la Junta Directiva de Python España.
+
+
+Orden del día 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. Aprobación o renovación de los socios.
+
+2. Cambio de apoderados en la cuenta bancaria y modelo de firma.
+
+3. Estado de la gestoría.
+
+4. Llamada a las sedes.
+
+5. Gestión de contraseñas.
+
+6. Portal de facturas para tesorería.
+
+7. Actualización partnership O’Reilly.
+
+8. Canal para Asociaciones en “the-psf”.
+
+9. PyCena.
+
+10. Ruegos y preguntas.
+
+
+--------------------------------------------------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+ - Juan Luis Cano
+ - Mario Corchero
+ - Mabel Delgado
+ - Pablo Galindo
+ - Marcos Gabarda 
+ - Maite Giménez
+ 
+-------------------------------------------
+
+1. Aprobación o renovación de los socios
+`````````````````````````````````````````````````````````````````````
+ Se aprueba por unanimidad el alta del siguiente nuevo socio:
+
+ =========================  ======== 
+ *Socio*                    *Número* 
+ -------------------------  --------
+ Unai Pastor Garrido          94
+ =========================  ========
+
+
+2. Cambio de apoderados en la cuenta bancaria y modelo de firma.
+````````````````````````````````````````````````````````````````````````````````````````````````````
+ Marcos se ha encargado de solicitar los documentos para el cambio de apoderados en la cuenta de Triodos.
+
+ Se acuerda que tengan capacidad operativa en la cuenta: el presidente, el vicepresidente y el tesorero. 
+
+ En los próximos días se rellenaran los documentos y Marcos los llevará al banco para completar el proceso de cambio de Junta Directiva.
+
+
+3. Estado de la gestoría.
+```````````````````````````````````````````````````````````````````````````````````````````
+ Nos encontramos pendientes de que nos conteste la gestoría especializadas en cooperativas Kinema. 
+
+ A pesar de que  ya  se les ha escrito, Juanlu les enviará un recordatorio. En caso de que no nos contesten se explorarán nuevas vías de actuación.
+
+
+4. Llamada a sedes
+``````````````````````````````````````````````````````````````````
+ Se ha iniciado la llamada a sedes para la organización de la PyConES 2019 y están llegando confirmaciones oficiales informales que avanzan favorablemente.
+
+
+5. Gestión de contraseñas
+``````````````````````````````````````````````````````````````````
+ Este es un tema recurrente que también se ha debatido en PyBCN. La opción por la que se ha optado allí es utilizar un Keypass compartido con Dropbox, se trata de una solución de compromiso que apenas requiere recursos y que dota de la seguridad y flexibilidad que requiere la gestión de contraseñas por parte de la Asociación. 
+
+ Por lo tanto, se aprueba por unanimidad adoptar esta solución y en cuanto se rebaje la carga de trabajo en la Junta Directiva de la Asociación se aplicará para Twitter, las listas de correo, etc.
+
+
+
+6. Portal de facturas para tesorería.
+``````````````````````````````````````````````````````````````````
+ Se plantean distintas opciones para automatizar el trabajo de tesorería como por ejemplo disponer de un formulario GForm que suba directamente las facturas a GDrive.
+
+ Sin embargo, tras evaluar las opciones, se decide que ninguna mejorará sustancialmente el trabajo de tesorería y se descarta poner en marcha este punto.
+
+
+7. Actualización partnership O’Reilly
+``````````````````````````````````````````````````````````````````
+ Tras conversaciones con O’Reilly, nos ofrecen ser *partners* lo que implica lo siguiente:
+
+ - **Beneficios**
+
+  - Acceso a contenidos cada mes.
+  - Dichos contenidos pueden ser compartidos dentro de la comunidad.
+  - Un descuento del 20% en ciertas conferencias.
+  - Uso del logo de O’Reilly
+  - Pases gratuitos a las conferencias, y cuando tres presonas compren una entrada a una de las conferencias seleccionadas por O’Reilly usando el código de referencia, la Asociación consigue una entrada gratutita.
+  - Asimismo, por cada entrada que se vendan mediante el código de referncia de la Asociación se recibe una comisión
+
+ - **Obligaciones**
+
+  - Al menos tres menciones en redes sociales por cuatrimestre.
+  - El logo de O’Reilly debe aparecer en la web de la Asociación 
+  - Debe mencionarse a O’Reilly en al menos una comunicación para nuestros socios.
+
+ Tras dilucidarlo, se aprueba por unanimidad aceptar la propuesta de que O’Reilly sea partner de la Asociación de Python España.  
+
+ Mario se pondrá en contacto con O’Reilly puesto que ha llevado esta negociación.
+
+
+8. Canal para Asociaciones en “the-psf”. 
+``````````````````````````````````````````````````````````````````
+ Mario propone crear un canal para Asociaciones en *the-psf* y la junta lo secundapor unanimidad. 
+
+
+9. PyCena
+``````````````````````````````````````````````````````````````````
+ Mario plantea crear una cena que reuna a los socios y socias de Python España. Se decide que el mejor momento para hacerlo sería seis meses después de la PyConES. Mario y Mabel se presentan voluntarios para organizarlo.
+
+
+10. Ruegos y Preguntas
+``````````````````````````````````````
+ Mabel comenta la posibilidad de disponer de Gsuite para correo, calendario, etc de la asociación. Mai averiguará las posibilidades de tener una cuenta para asociaciones de GSuite.
