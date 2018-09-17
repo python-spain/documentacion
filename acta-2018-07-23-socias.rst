@@ -49,7 +49,7 @@ Asisten los miembros de la Junta Directiva por medios telemáticos:
 
  Valoramos la diversidad y queremos que la base social crezca de forma orgánica, dando soporte a las necesidades que cada comunidad local detecte.
 
- Por lo tanto decidimos que deben existir dos niveles de socios y socias. Unos que paguen la cuota de membresia como ha venido sucendiendo y en nuevo tipo de miembro de la asociación que no pague cuotas.
+ Por lo tanto decidimos que deben existir dos niveles de socios y socias. Unos que paguen la cuota de membresia como ha venido sucediendo y en nuevo tipo de miembro de la asociación que no pague cuotas.
 
  Esperamos que con estos dos niveles de socios y social aumente el número de miembros considerablemente, lo cual permitirá a la asociación poder llegar a un mayor número de personas cuando se requiera como por ejemplo cuando queramos negociar beneficios para socias con distintas empresas. Asimismo, habilitará una posible colaboración con otras asociaciones locales. 
  Para implementar estos dos niveles de socias debemos llevar a cabo las siguientes modificaciones:
