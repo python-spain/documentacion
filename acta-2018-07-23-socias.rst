@@ -12,6 +12,18 @@ Gestión de socios y socias.
 Cuotas.
 Integración de asociaciones.
 
+--------------------------------------------------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+ - Juan Luis Cano
+ - Mario Corchero
+ - Mabel Delgado
+ - Pablo Galindo
+ - Marcos Gabarda 
+ - Maite Giménez
+ 
+-------------------------------------------
+
 1. Aprobación acta anterior 
 ```````````````````````````````````````````````````````
  Se aprueba por unanimidad el acta del mes de Julio.
