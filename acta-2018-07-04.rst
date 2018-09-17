@@ -112,7 +112,7 @@ Asisten los miembros de la Junta Directiva por medios telemáticos:
 
 8. Canal para Asociaciones en “the-psf”. 
 ``````````````````````````````````````````````````````````````````
- Mario propone crear un canal para Asociaciones en *the-psf* y la junta lo secundapor unanimidad. 
+ Mario propone crear un canal para Asociaciones en *the-psf* y la junta lo secunda por unanimidad. 
 
 
 9. PyCena
