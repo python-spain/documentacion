@@ -68,7 +68,7 @@ Asisten los miembros de la Junta Directiva por medios telemáticos:
 
 4. Llamada a sedes
 ``````````````````````````````````````````````````````````````````
- Se ha iniciado la llamada a sedes para la organización de la PyConES 2019 y están llegando confirmaciones oficiales informales que avanzan favorablemente.
+ Se ha iniciado la llamada a sedes para la organización de la PyConES 2019 y están llegando confirmaciones informales que avanzan favorablemente.
 
 
 5. Gestión de contraseñas

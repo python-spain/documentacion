@@ -44,7 +44,7 @@ Asisten los miembros de la Junta Directiva por medios telemáticos:
 ```````````````````````````````````````````````````````
  La actual Junta Directiva tiene una especial interes por el crecimiento en el número de personas que se asocien, así como la integración o colaboración de otros grupos que por distintos motivos hayan decidido organizarse independientemente.
 
-3.1. Coutas
+3.1. Cuotas
 -----------------
 
  Valoramos la diversidad y queremos que la base social crezca de forma orgánica, dando soporte a las necesidades que cada comunidad local detecte.
@@ -58,7 +58,7 @@ Asisten los miembros de la Junta Directiva por medios telemáticos:
 
  - Las personas que no abonen cuota no podrán votar en la Asociación de Python España.
 
- - Se trabajará en un documento que expecifique las ventajas de ser socia.
+ - Se trabajará en un documento que especifique las ventajas de ser socia.
 
  - Simplificar y mejorar los métodos de pago:
 
