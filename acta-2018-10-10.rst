@@ -1,0 +1,138 @@
+Acta Junta Python España 10 de Octubre de 2018
+==============================================
+
+En la ciudad de Madrid, València, Barcelona y Londres siendo las 21:30 horas del 10 de octubre de 2018 y en única convocatoria, se celebra la  reunión de la Junta Directiva de Python España. 
+
+
+Orden del día
+~~~~~~~~~~~~~
+1. Aprobación o renovación de los socios.
+2. Aprobación de las actas anteriores 
+3. Grupos locales
+4. Grupos de trabajo
+5. Ayudas solicitadas para eventos de difusión de Python
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+ - Juan Luis Cano
+ - Mario Corchero
+ - Mabel Delgado
+ - Marcos Gabarda
+ - Pablo Galindo
+ - Maite Giménez
+
+
+-------------------------------------------
+
+1. Aprobación o renovación de los socios
+````````````````````````````````````````
+ Se aprueba por unanimidad la renovación de los socios:
+
+ =============================  ==========
+  **Socio**                       Número 
+ -----------------------------  ---------- 
+ Julio Vicente Trigo Guijarro      42 
+ Luís Garcia Merino                82
+ =============================  ==========
+
+Así como el alta de los siguientes socios:
+
+ =========================  ====== 
+    **Socio**               Número 
+ -------------------------  ------ 
+ Ivan José Martín                            97
+ =========================  ======
+ 
+2. Aprobación acta anterior 
+``````````````````````````````````````````````````````
+ Se aprueban por unanimidad las siguientes actas:
+  - Acta del mes de julio de 2018.
+
+  - Acta monográfica de sobre socias. 
+
+  - Acta del mes de septiembre  de 2018.
+
+3. Grupos locales
+``````````````````````````````````````````````````````
+ Xavier Torrelló, organizador de Girona está empezando a trabajar en una alternativa para gestionar los grupos locales. En particular, disponer de una alternativa a meetup nos parece muy interesante.
+
+4. Grupos de trabajo
+``````````````````````````````````````````````````````
+ Tras la aprobación de la creación de los gruos de trabajo en la asamblea extraordinaria que se celebró el pasado 6 de octurbre durante la PyConES 2018, la Junta Directiva comienza con las tareas necesarias para formalizar a estos grupos de trabajo. 
+
+ En primer lugar destacar que los miembros de los grupos de trabajo deberán ser miembros a su vez de la Asociación de Python España. Asimismo, cada tres meses como mínimo se reunirán los miembros de los grupos de trabajo con la Junta Directiva. 
+
+ A continuación pasamos a detallar la misión y las tareas que deberán llevar a cabo cada uno de los tres grupos de trabajo pilotos que son: 
+  - El grupo de trabajo de los canales de comunicación.
+  - El grupo de trabajo de la PyConES.
+  - El grupo de trabajo de la web.
+
+Identificamos la necesidad de un cuarto grupo de trabajo que se encargue de los contenidos, pero desarrollaremos este grupo en siguientes iteraciones. 
+
+
+ **Canales de comunicación**
+
+  *Misión*: Mejora y asegurar la calidad de los canales de comunicación para los miembros y socios de Python España.
+
+  *Tareas*:
+   - Gestionar un *discourse* para todos los distintos temas para la asociación.
+   - Moderación de los canales de comunicación para asegurar que se sigue el CoC de la asociación. 
+   - El grupo de trabajo gestionará y consensuará con la Junta Directiva la apertura y cierre de canales de comunicación.
+
+  Los canales de comunicación deben cubrir las siguientes necesidades que detectamos en la comunidad:
+   - Debe ser una plataforma que facilite la resolución de dudas sobre Python.
+   - Debe permitir discutir temas de la Asociación de Python España así como de las asociaciones locales. 
+   - Debe permitir la publicación de ofertas de empleo.
+
+ **PyConES**
+  *Misión*:  dar soporte y ayudar a la organización del evento. 
+
+  Entre los objetivos que deben cumplirse para llevar a a cabo esta misión detectamos que se encuentran:
+
+   - La captación de sedes, el estudio de las propuestas y la selección de la sede.
+   - Dar soporte a la organización local a través de infraestructura, contactos y consejos.
+   - Dar soporte durante la edición de la PyConES para lograr el éxito de la conferencia.
+   - Finalmente, realizar el post-morten de la conferencia con aquellas  ideas que permitan mejorar la conferencia e identificar aquellos puntos que se deben mejorar para las siguientes ediciones.
+
+  Los roles que identificamos necesarios para este grupo de trabajo son:
+   - Desarrollo de la web.
+   - Dirección de arte.
+   - Selección de charlas.
+   - Gestión de patrocinios.
+   - Coordinación.
+
+
+ **Web**
+  *Misión*: Dar visibilidad a la Asociación de Python España y agrupar toda la información relativa a esta. 
+
+  Los objetivos que nos planteamos con la web son los siguientes:
+   - Información sobre cómo aprender python. 
+   - Dar especial visibilidad a la PyConES con fotos que humanicen la conferencia.
+   - Debe haber un espacio que de visibilidad a las agrupaciones locales.
+   - Dar soporte para eventos y para un blog. La generación de los contenidos de estos dos puntos sería responsabilidad del grupo de trabajo de contenidos que se generará.
+   - Código de Conducta.
+   - Explicar que es la Asociación de Python España y que hacemos.
+   - Información sobre socios y socias, así como un proceso simple que permita asociarse.
+   - Incluir nuevos métodos de pago.
+   - Conectar la web con la base de datos de los miembros de la asociación.
+   - Acceso a los canales de comunicación.
+   - Documentación, reglamentos y actas.
+
+
+Finalmente, como introducimos el inicio de esta sección, detectamos la necesidad de crear en un futuro un grupo de trabajo de Contenidos que se encargue de la gestión de redes sociales, de generar contenido para la web, etc. Pero este grupo de trabajo se formalizará en una segunda iteración.
+
+
+5. Ayudas solicitadas para eventos de difusión de Python
+````````````````````````````````````````````````````````````````````````````````````````````````````````````
+Se aprueba por unanimidad la ayuda solicitada por Python Girona para picoteo después de las reuniones que realizan periódicamente, así como los 300 € solicitados por la comunidad de Granada para organizar el PyDay. 
+Estas ayudas quedan condicionadas a que en los eventos o bien se aplique un código de conducta o bien se haga uso del que se aplica en la PyConES, y en el caso de Python Girona que se trata de un evento recurrente, siempre que haya dinero en las cuentas de la asociación que permitan financiarlo. 
+
+
+-------------------------------------------
+
+A las 22:28 se cierra la reunión de la Junta habiendo tratado todos los temas del orden del día.
+
+La secretaria,
+
+ Maite Giménez
