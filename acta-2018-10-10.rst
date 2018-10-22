@@ -33,7 +33,7 @@ Asisten los miembros de la Junta Directiva por medios telemáticos:
   **Socio**                       Número 
  -----------------------------  ---------- 
  Julio Vicente Trigo Guijarro      42 
- Luís Garcia Merino                82
+ Luis Garcia Merino                82
  =============================  ==========
 
 Así como el alta de los siguientes socios:
