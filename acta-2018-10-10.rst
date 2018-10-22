@@ -61,7 +61,7 @@ Así como el alta de los siguientes socios:
 ``````````````````````````````````````````````````````
  Tras la aprobación de la creación de los gruos de trabajo en la asamblea extraordinaria que se celebró el pasado 6 de octurbre durante la PyConES 2018, la Junta Directiva comienza con las tareas necesarias para formalizar a estos grupos de trabajo. 
 
- En primer lugar destacar que los miembros de los grupos de trabajo deberán ser miembros a su vez de la Asociación de Python España. Asimismo, cada tres meses como mínimo se reunirán los miembros de los grupos de trabajo con la Junta Directiva. 
+ En primer lugar destacar que los miembros de los grupos de trabajo deberán ser miembros o socios/as a su vez de la Asociación de Python España. Asimismo, cada tres meses como mínimo se reunirán los miembros de los grupos de trabajo con la Junta Directiva. 
 
  A continuación pasamos a detallar la misión y las tareas que deberán llevar a cabo cada uno de los tres grupos de trabajo pilotos que son: 
   - El grupo de trabajo de los canales de comunicación.
@@ -107,13 +107,13 @@ Identificamos la necesidad de un cuarto grupo de trabajo que se encargue de los 
   *Misión*: Dar visibilidad a la Asociación de Python España y agrupar toda la información relativa a esta. 
 
   Los objetivos que nos planteamos con la web son los siguientes:
-   - Información sobre cómo aprender python. 
+   - Información sobre cómo aprender Python. 
    - Dar especial visibilidad a la PyConES con fotos que humanicen la conferencia.
    - Debe haber un espacio que de visibilidad a las agrupaciones locales.
    - Dar soporte para eventos y para un blog. La generación de los contenidos de estos dos puntos sería responsabilidad del grupo de trabajo de contenidos que se generará.
    - Código de Conducta.
    - Explicar que es la Asociación de Python España y que hacemos.
-   - Información sobre socios y socias, así como un proceso simple que permita asociarse.
+   - Información sobre socios, socias y miembros de la Asociación de Python España. Así como un proceso simple que permita asociarse.
    - Incluir nuevos métodos de pago.
    - Conectar la web con la base de datos de los miembros de la asociación.
    - Acceso a los canales de comunicación.
