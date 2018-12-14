@@ -1,0 +1,90 @@
+Acta Junta Python España 14 de Noviembre de 2018
+================================================
+
+En la ciudad de Madrid, València, Barcelona y Londres siendo las 21:00 horas del 14 de noviembre de 2018 y en única convocatoria, se celebra la  reunión de la Junta Directiva de Python España.
+
+
+Orden del día
+~~~~~~~~~~~~~
+1. Aprobación o renovación de los socios.
+
+2. Kit de [merchandising](https://github.com/python-spain/asociacion/issues/26) para grupos locales.
+
+3. PyCena.
+
+4. Ruegos y preguntas
+
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+ - Mario Corchero
+ - Mabel Delgado
+ - Marcos Gabarda
+ - Pablo Galindo
+ - Maite Giménez
+
+
+-------------------------------------------
+
+1. Aprobación o renovación de los socios
+````````````````````````````````````````
+ Se aprueba por unanimidad el alta de los siguientes socios:
+
+ =========================  ====== 
+    Socio                   Número 
+ -------------------------  ------ 
+ Víctor Vicente Palacios                  98
+ =========================  ======
+ 
+
+2. Kit de [merchandising](https://github.com/python-spain/asociacion/issues/26) para grupos locales 
+``````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+ Mario y Juanlu comentan que desde la comunidad de Girona se propuso realizar un kit de merchandasing. El objetivo de este kit es el de promocionar la asociación de Python España en los distintos meetups locales, ya que en muchos casos la presencia de la misma pasa desapercibida. Los meetup locales son una excelente oportunidad para crear comunidad y en particular los rollups ayudarian a asentar y dar seriedad el meetup.
+
+ El kit que nos proponemos producir los siguientes elementos:
+ 
+  - Pegatinas de python españa.
+  
+  - Imprimir un stand/rollup para cada meetup. En este roll-up incluiremos la siguiente información: 
+
+   - El nombre de la asociación: “Asociación Python España”.
+   - El logotipo de la misma.
+   - La web.
+   - El handler de Twitter.
+
+ Comenzaremos comenzar este programa como un programa piloto con un par de meetups. 
+ Para lo cual se imprimirán 1000 pegatinas con Stickermule y 2 rollups.
+ Mario propone que la forma más sencilla de distribuir este material sería cuando nos encontráramos todas, eso sería durante la PyConES o la PyCena.
+
+
+3. Pycena
+``````````````````````````````````````````````````````
+ Mario y Mabel han estado buscando posibles ubicaciones donde se pudiera realizar este evento en Madrid. A día de hoy tendríamos estas dos posibilidades:
+
+ - *Hotel puerta america*: el precio de realizarlo aquí serían 50-55 €, se trata de un cátering y estaríamos de pie.
+
+ - *Goiko Grill*: en esta caso serían 20-30 € y se podrían unir mesas para estar todas sentadas en el local.
+
+ Tras debatirlo, seguiremos  buscando más espacios, queremos que el precio del evento esté en una horquilla entre 20 y 30 euros para que el precio no sea un impedimento para que la gente pueda acudir, nos gustaría además que  fuera un evento tipo cátering de pie que permitiera a las asistentes conocerse en un ambiente más fluido y si pudiera ser que se puedieran satisfacer todas las restricciones alimentarias.
+
+
+4. Ruegos y preguntas
+``````````````````````````````````````````````````````
+ - Mario pregunta por el proceso necesario para completar la inclusión de socios y miembros en la asociación. Esta pregunta se delega a la próxima junta en la que esté Juanlu y nos pueda aclarar el procedimiento. 
+
+ - Mabel anuncia que está organizando dos eventos de Django Girls.
+
+  - 16 feb django girls Mallorca.
+
+  - 11 may django girls Valencia.
+
+ - Redactar el postmortem a Málaga y estudiar la colaboración que se  hizo con Autentia que ha hecho que vídeos de la Pycones estan en su canal de Youtube. Estos dos puntos se delegan a la próxima junta.
+
+
+Sin nada más que añadir se cierra la reunión de la Junta a las 21:41 horas.
+
+La secretaria,
+
+ Maite Giménez
