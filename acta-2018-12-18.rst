@@ -5,35 +5,35 @@ En las ciudades de Madrid, València, Barcelona y London siendo las 20:00 horas 
 
 
 Orden del día
-~~~~~~~~~~~~~
+------------
  1. Aprobación de actas
  2. Informar estado de impuestos y asesoría
  3. Discourse & Grupos de trabajo
  4. PyDays (Tenerife/BCN/Granada)
 
 
-1. Aprobación de actas
-``````````````````````````````````````````````````````
- Se aprueba por unanimidad el acta de Noviembre de 2018.
+### 1. Aprobación de actas
+------------
+Se aprueba por unanimidad el acta de Noviembre de 2018.
 
+### 2. Informar estado de impuestos y asesoría
 
-2. Informar estado de impuestos y asesoría
-````````````````````````````````````````````````````````````
+------------
+
  El tesorero, Marcos Gabarda, nos informa que ya estamos trabajando con una asesoría, enviando las facturas mes vencido. La asesoría ha dado de alta a la Asociación para generar facturas intracomunitarias, con un coste de 30€ de gestión. Asimismo, se han revisado los impuestos de sociedades, el modelo 200, y retroactivamente el modelo 202, lo que ha generado un gasto de 199,72€ en el 1P y 17,04 € en el 2P. Sin embargo, no disponemos de las facturas de los dos primeros trimestres del 2018; Marcos está hablando con Vesi, la persona que nos ayudaba con la gestión durante este periodo, y en caso de no disponer de ellos se pedirá presupuesto a la asesoría para formalizar este periodo.
  Además se está trabajando en un cambio en la figura del representante de la Asociación que permita a la asesoría presentar directamente los impuestos *on-line*.
  Respecto al estado económico de la PyConES, Marcos está actualmente revisando con cautela toda la facturación y se han pagado todas las ayudas que se concedieron.
  Finalmente tras consultar con varias asesorías se ha descartado la posibilidad de solicitar la utilidad pública por ser un procedimiento muy caro y muy complejo.
 
+### 3. Grupos de trabajo
+------------
 
-3. Grupos de trabajo
-````````````````````````````````````````````````````````````
  Existen dos puntos que en el momento de esta junta están bloqueando la creación de los grupos de trabajo, por una parte la inclusión de los nuevos miembros de la Asociación que no pagan cuota y por otra parte la creación de un canal de comunicación que permita coordinar los grupos de trabajo.
 
  Respecto al primer punto, deberemos modificar los estatutos para incluir la nueva figura de miembro de la Asociación que no pague cuota de socia o socio pero que deberán estar registrados de algún modo en la Asociación. Para lo cual debemos hacer una propuesta de modificación de los estatutos, votar esta modificación en asamblea y presentar el acta en el Ministerio del Interior. Mai Giménez se encargará de subir los estatutos al repositorio donde tenemos las actas de la Asociación, de modo que toda la documentación esté centralizada y sea fácil seguir las modificaciones que se proponen de los estatutos.
 
  Sin embargo, como no queremos que este punto bloquee la puesta en funcionamiento  de los grupos de trabajo, hemos decidido iniciarlos con las personas que ya están asociadas. De modo que es fundamental crear un canal de comunicación que permita a los grupos coordinarse a la mayor brevedad posible. Pablo Galindo se encargará de poner en funcionamiento un Discourse en la siguiente url [https://comunidad.es.python.org](https://comunidad.es.python.org), con la colaboración en la medida de lo posible de Yamila Moreno que en la actualidad cede espacio en sus máquinas a la Asociación y Jesús Cea. Tan pronto como esté listo el 
  Discourse se arrancarán los siguiente grupos de trabajo pilotos:
-
   - Web.
   - PyConES.
   - Meetups.
@@ -42,9 +42,10 @@ Orden del día
 
 
 
-4. PyDays
-````````````````````````````````````````````````````````````
- Recientemente han tenido lugar distintos PyDays a lo largo de la geografía española. En particular, se han celebrado PyDays en Barcelona, Granada y Tenerife. Lo cual indica que la comunidad de Python España está cada día más madura, con comunidades locales muy activas y dispuestas a organizar eventos de gran calidad, más allá de la PyConES, que fomentan y promueven el uso de Python a nivel local. Sin embargo, esta expansión también genera nuevos retos que deberemos afrontar.
+### 4. PyDays
+------------
+
+Recientemente han tenido lugar distintos PyDays a lo largo de la geografía española. En particular, se han celebrado PyDays en Barcelona, Granada y Tenerife. Lo cual indica que la comunidad de Python España está cada día más madura, con comunidades locales muy activas y dispuestas a organizar eventos de gran calidad, más allá de la PyConES, que fomentan y promueven el uso de Python a nivel local. Sin embargo, esta expansión también genera nuevos retos que deberemos afrontar.
 
  En primer lugar la situación con la comunidad de Barcelona es bastante compleja y la Asociación no ha podido involucrarse en la organización de este PyDay. A pesar de esto nuestro objetivo es mantener una conversación fluida y ayudarles a crecer en todo lo necesario.
 
@@ -56,7 +57,9 @@ Orden del día
 
  Mabel Delgado se pondrá en contacto con las distintas asociaciones locales para darles apoyo en lo que puedan necesitar en las siguientes ediciones de  los PyDays y mantener una comunicación fluida que permita expandir la comunidad como propusimos en este [*issue*](https://github.com/python-spain/asociacion/issues/11)
 
-``````````````````````````````````````````````````````
+
+------------
+
 
 Sin nada más que añadir se cierra la reunión de la Junta a las 21:35 horas.
 
