@@ -32,7 +32,7 @@ Asisten los miembros de la Junta Directiva por medios telemáticos:
 
 1. Aprobación de actas
 `````````````````````````
- Se aprueba por unanimidad el acta de Noviembre de 2018.
+Se aprueba por unanimidad el acta de Noviembre de 2018.
 
 2.Post Mortem de la PyconES de Málaga y vídeos de las charlas 
 ````````````````````````````````````````````````````````````````````````````````````````
