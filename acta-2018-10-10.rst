@@ -59,7 +59,7 @@ Así como el alta de los siguientes socios:
 
 4. Grupos de trabajo
 ``````````````````````````````````````````````````````
- Tras la aprobación de la creación de los gruos de trabajo en la asamblea extraordinaria que se celebró el pasado 6 de octurbre durante la PyConES 2018, la Junta Directiva comienza con las tareas necesarias para formalizar a estos grupos de trabajo. 
+ Tras la aprobación de la creación de los grupos de trabajo en la asamblea extraordinaria que se celebró el pasado 6 de octurbre durante la PyConES 2018, la Junta Directiva comienza con las tareas necesarias para formalizar a estos grupos de trabajo. 
 
  En primer lugar destacar que los miembros de los grupos de trabajo deberán ser miembros o socios/as a su vez de la Asociación de Python España. Asimismo, cada tres meses como mínimo se reunirán los miembros de los grupos de trabajo con la Junta Directiva. 
 
