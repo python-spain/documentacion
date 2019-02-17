@@ -1,0 +1,83 @@
+Acta Junta Python España 16 de Enero de 2019
+==============================================
+
+En la ciudad de Madrid, València, Barcelona y London siendo las 19:30 horas del 16 de enero de 2019 y en única convocatoria, se celebra la  reunión de la Junta Directiva de Python España.
+
+
+Orden del día
+~~~~~~~~~~~~~
+1. Aprobación de actas
+2. Post Mortem de la PyconES de  Málaga  y vídeos de las charlas 
+3. Añadir nuevos socios a la lista de correo de socios
+4. Cuando hacer público Discourse
+5. Modificar los estatutos para incluir a los miembros sin cuota
+6. Modificar el artículo 7 para que los miembros de honor sean  los MVPs. 
+7. Merchandising para las asociaciones locales.
+8. Django Girls Sevilla y Mallorca.
+9. Ruegos y preguntas.
+
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+ - Juan Luis Cano
+ - Mario Corchero
+ - Mabel Delgado
+ - Marcos Gabarda
+ - Pablo Galindo
+ - Maite Giménez
+
+
+-------------------------------------------
+
+1. Aprobación de actas
+`````````````````````````
+Se aprueba por unanimidad el acta de Noviembre de 2018.
+
+2.Post Mortem de la PyconES de Málaga y vídeos de las charlas 
+````````````````````````````````````````````````````````````````````````````````````````
+No existe un *post-mortem* de la edición de Málaga, aunque bien es cierto que no es un procedimiento habitual que se haya llevado a cabo en todas las ediciones de la PyConES. 
+Puesto que faltan algunas transparencias que añadir a los vídeos de la PyConES, Juanlu aprovechará la oportunidad de hablar con Autentia y pedirles que suban esos vídeos al canal de PyConES dónde están los de todas las ediciones anteriores.
+
+3.  Añadir nuevos socios a la lista de correo de socios
+````````````````````````````````````````````````````````````````````````````````````````
+Los nuevos socios no se están dando de alta a la lista de correo puesto que nos encontramos en un periodo de transición con los canales de comunicación. Como la intención es publicar a la mayor brevedad el Discourse optamos por no añadirles a unas listas de correo que tampoco se están empleando en la actualidad e invitarles al Discourse tan pronto como esté disponible. 
+
+4. Cuando hacer público Discourse
+`````````````````````````````````````````````````
+Ahora mismo lo único que faltaría para poder tener Discurse completamente operativo sería tener un servidor pop3. Sin embargo para no quedarnos bloqueados con esto vamos a lanzarlo con un número limitado de usuarios y comenzar a generar contenido para que pueda ser un canal atractivo para la comunidad. 
+Los miembros de la Junta ya estamos empleando Discourse y Juanlu invitará a los organizadores de la PyConES 2019.  Y a la mayor brevedad posible se hará público el Discourse para socios y socias y después para el resto de la comunidad.
+
+5. Modificar los estatutos para incluir a los miembros sin cuota
+```````````````````````````````````````````````````````````````````````````````````````````
+Se añadirá una nueva figura a los estatutos que pueda ser miembro de la asociación sin pagar una cuota. Esta modificación se votará en Asamblea General.
+
+6. Modificar el artículo 7.3 para que los miembros de honor sean  los MVPs. 
+````````````````````````````````````````````````````````````````````````````````````````````````````
+El artículo `7.3 <https://github.com/python-spain/actas/blob/master/estatutos.rst/>`_. de los estatutos tipifican la figura del socio de honor. Esta figura no se ha estado otorgando a ninguna persona miembro de la asociación y sin embargo desde la PyConES de 2018 se han otorgado dos premios MVP *most valuable Pythonista*. Creemos que los MVP deberían constar como socios de honor de la asociación. Como en el artículo 10 se indica que un socio de honor puede ser también socio de número no existiría ningún conflicto.
+Esta decisión se toma por unanimidad de la junta, excluyéndose Juanlu y Mario de la votación y del debate de la misma, constituyendo el resto de miembros de la junta una mayoría simple de votos. 
+
+7. Merchandising para las asociaciones locales.
+```````````````````````````````````````````````````````````````````````````````````````
+Se decide tener pegatinas con el logotipo en horizontal a través de la plataforma *Stickermule*. Estas pegatinas, así como los roll-ups cuando estén diseñados, se enviarán a Mabel en Madrid y a Xavi en Girona.
+
+8. Django Girls Sevilla y Mallorca
+```````````````````````````````````````````````````````````````````````````````````````
+Se han puesto en contacto con nosotras desde Sevilla indicándonos que están organizando un DjangoGirls en Sevilla, desde la Asociación como en otras ocasiones se les ha ofrecido apoyo a nivel de facturación de los eventos y si la tesorería lo permite alguna ayuda económica.
+Por su parte, Mabel nos informa que el próximo 16 de febrero se llevará a cabo un DjangoGirls en Mallorca que está siendo organizado con gran éxito.
+
+
+9.Ruegos y preguntas.
+```````````````````````````````````````````````````````````````````````````````````````
+Mario nos informa que O’Reilly nos ha dado una entrada para la conferencia Strata que se celebrará en Londres. El objetivo sería sortearlo entre aquellos socios que estén interesados a asistir a la conferencia, dicho interés se podría recabar empleando el canal de socios de Discourse.
+Finalmente, aprovechando que Mario estará el fin de semana del 19 en Madrid. Mabel y él visitarán el local en el que celebrar la PyCena.
+
+
+Sin nada más que añadir se cierra la reunión de la Junta a las 20:09 horas.
+
+La secretaria,
+
+ Maite Giménez
+
+
+
