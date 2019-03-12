@@ -54,7 +54,7 @@ Asisten los miembros de la Junta Directiva por medios telemáticos:
  Si bien es cierto que la asociación no tiene ningún beneficio, este canal esta aportando un punto de encuentro para la comunidad hispanoparlante.
  Pero mantener este canal no es inocuo, tiene un coste que es tener personas moderándolo de modo que se cumpla el CoC. Ahora mismo el grueso de este trabajo lo ha estado llevando acabo Antoni Aloy (@aaloy) por lo que Mai hablará con él para preguntarle si quiere seguir realizando ese trabajo y en función de su decisión se optará por tomar una u otra medida con el canal de Telegram. En cualquier caso, la junta quiere agradecer el trabajo que ha estado haciendo para moderar el canal de Telegram.
 
- Independientemente, se les han enviado invitaciones a los socios y socias para acceder al Discourse y ya han comenzado a acceder (XX han aceptado la invitación). Además, se pidió a la organización de la PyConES 2019 que utilicen Discourse para la comunicación; esto dará transparencia a la organización y permitirá a futuras sedes conocer el trabajo necesario. 
+ Independientemente, se les han enviado invitaciones a los socios y socias que estaban al corriente de pago para acceder al Discourse y ya han comenzado a acceder (22 han aceptado la invitación). Además, se pidió a la organización de la PyConES 2019 que utilicen Discourse para la comunicación; esto dará transparencia a la organización y permitirá a futuras sedes conocer el trabajo necesario. 
 
 
 5. Modificación de los estatutos
