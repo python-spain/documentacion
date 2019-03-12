@@ -1,11 +1,11 @@
 ============================================================
-Estatutos de la asociación Python España
+Estatutos de la Asociación Python España
 ============================================================
 
 Capítulo I - Disposiciones Generales
 ====================================
 
-**Artículo 1.** Con la denominación de “Python España”, se constituye en Madrid el día 22 de enero de 2013, una asociación al amparo de la Ley Orgánica 1/2002, de 22 de marzo, y normas complementarias, con personalidad jurídica y plena capacidad de obrar, careciendo de ánimo de lucro.
+**Artículo 1.** Con la denominación de “Python España”, se constituye en Madrid el día 22 de enero de 2013, una Asociación al amparo de la Ley Orgánica 1/2002, de 22 de marzo, y normas complementarias, con personalidad jurídica y plena capacidad de obrar, careciendo de ánimo de lucro.
 
 **Artículo 2.** Esta Asociación se constituye por tiempo indefinido.
 
@@ -27,7 +27,7 @@ Capítulo II - Socios
 
 **Artículo 6.** Podrán pertenecer a la Asociación aquellas personas físicas que sean mayores de edad con capacidad de obrar y no sujetas a condición legal que lo impida y aquellas personas jurídicas, cumplidoras de los requisitos marcados por la LEY ORGÁNICA 1/2002, de 22 de marzo, reguladora del Derecho de Asociación, que tengan interés en el desarrollo de los fines de la Asociación, dirigiendo para ello comunicado a la Junta Directiva, según lo establecido en el Reglamento de Régimen Interno.
 
-**Artículo 7.** Dentro de la Asociación existirán las siguientes clases de socios:
+**Artículo 7.** Dentro de la Asociación existirán las siguientes clases de socios o miembros:
 
  a. *Socios fundadores*, que serán aquellos que participen en el acto de constitución de la Asociación.
 
@@ -35,7 +35,9 @@ Capítulo II - Socios
 
  c. *Socios de honor*, los que por su prestigio o por haber contribuido de modo relevante a la dignificación y desarrollo de la Asociación, se hagan acreedores a tal distinción. El nombramiento de los socios de honor corresponderá a la Junta Directiva o Asamblea General.
 
- d. *Miembros*, que serán aquellas personas afines a la Asociación que colaboren esporádicamente con la misma pero sin una vinculación permanente. Cuando estas personas colaboren con la Asociación estarán condicionadas a la aceptación de los presentes estatutos y al mandato de la Junta Directiva.
+ d. *Miembros*, que serán aquellas personas afines a la Asociación que colaboren esporádicamente con la misma pero sin una vinculación permanente. 
+
+ Cualquier socio o miembro deberá aceptar los presentes estatutos y el reglamento de régimen interno siempre supeditados al mandato de la Junta Directiva mientras participen en actividades vinculadas a la Asociación.
 
 **Artículo 8.** Los socios de número y fundadores tendrán los siguientes derechos:
 
@@ -47,13 +49,13 @@ Capítulo II - Socios
 
  d. Ser electores y elegibles para los cargos directivos.
  
- e. Ser informados acerca de la composición de los órganos de gobierno y representación de la asociación, de su estado de cuentas y del desarrollo de su actividad.
+ e. Ser informados acerca de la composición de los órganos de gobierno y representación de la Asociación, de su estado de cuentas y del desarrollo de su actividad.
 
  f. Hacer sugerencias a los miembros de la Junta Directiva en orden al mejor cumplimiento de los fines de la Asociación.
 
 **Artículo 9.** Los socios fundadores y de número tendrán las siguientes obligaciones:
 
- a. Compartir las finalidades de la asociación y colaborar para la consecución de las mismas.
+ a. Compartir las finalidades de la Asociación y colaborar para la consecución de las mismas.
  
  b. Cumplir los presentes Estatutos, así como el Reglamento de régimen interno y los acuerdos válidos de las Asambleas y la Junta Directiva.
 
@@ -75,14 +77,14 @@ Los socios de honor pueden ser simultáneamente socios de número, siempre y cua
 
  b. Disfrutar de aquellas ventajas y beneficios que la Asociación pueda obtener para miembros y socios, sin que esto suponga un detrimento en las ventajas y beneficios de los socios.
  
- c. Ser informados acerca de la información relevante de la asociación.
+ c. Ser informados acerca de la información relevante de la Asociación.
 
  d. Hacer sugerencias a los miembros de la Junta Directiva en orden al mejor cumplimiento de los fines de la Asociación.
 
 
-**Artículo 12.** Los socios miembros tendrán las siguientes obligaciones:
+**Artículo 12.** Los miembros tendrán las siguientes obligaciones:
 
- a. Compartir las finalidades de la asociación y colaborar para la consecución de las mismas.
+ a. Compartir las finalidades de la Asociación y colaborar para la consecución de las mismas.
  
  b. Cumplir los presentes Estatutos, así como el Reglamento de régimen interno y los acuerdos válidos de las Asambleas y la Junta Directiva.
 
@@ -101,7 +103,7 @@ Capítulo III - Asamblea General
 
 **Artículo 14.** La Asamblea General es el órgano de gobierno máximo de la Asociación y estará integrada por todos los asociados.
 
-**Artículo 15.** Es la Asamblea General quien tiene potestad para modificar estos Estatutos y el Reglamento de Régimen Interno a que se refiere el Capítulo VIII de estos Estatutos.
+**Artículo 15.** Como se indica en el capítulo 8 de estos estatutos, es la Asamblea General quien tiene potestad para modificar estos Estatutos y el Reglamento de Régimen Interno.
 
 **Artículo 16.** Las Asambleas Generales, quedarán válidamente constituidas en primera convocatoria cuando concurran a ella un tercio de los asociados con derecho a voto, y en segunda convocatoria cualquiera que sea el número de asociados con derecho a voto.
 
@@ -116,13 +118,13 @@ Capítulo IV - Órgano de Representación
 ======================================
 **Artículo 18.** La Junta Directiva es el órgano de gobierno, representación y administración de la Asociación, sin perjuicio de las potestades de la Asamblea General como órgano soberano.
 
-Sólo los socios podrán formar parte de la Junta Directiva, que estará compuesta por: Presidente, Vicepresidente, Secretario, Tesorero y uno o más vocales, habiendo un mínimo de 4 personas en la misma.
+Sólo los socios de número podrán formar parte de la Junta Directiva, que estará compuesta por: Presidente, Vicepresidente, Secretario, Tesorero y uno o más vocales, habiendo un mínimo de 4 personas en la misma.
 
 Su duración será de dos años, pudiendo ser sus miembros reelegidos indefinidamente.
 
-Todos los cargos que componen la Junta Directiva serán gratuitos.
+Todos los cargos que componen la Junta Directiva serán no remunerados.
 
-**Artículo 19.** Para ser miembro de la Junta Directiva serán requisitos imprescindibles: ser mayor de edad, estar en pleno uso de los derechos civiles y no estar incurso en los motivos de incompatibilidad establecidos en la legislación vigente.
+**Artículo 19.** Para ser miembro de la Junta Directiva serán requisitos imprescindibles: ser mayor de edad, ser socio de número, estar en pleno uso de los derechos civiles y no estar incurso en los motivos de incompatibilidad establecidos en la legislación vigente.
 
 **Artículo 20.** Convocada Asamblea General para la designación de la Junta Directiva, los socios que pretendan ejercer su derecho de elegibilidad, habrán de presentar su candidatura (que constará, al menos, de Presidente, Vicepresidente, Secretario y Tesorero) con una antelación, como mínimo, de 15 días a la celebración de la Asamblea.
 
@@ -136,11 +138,11 @@ Todos los cargos que componen la Junta Directiva serán gratuitos.
  d. Por transcurso del periodo de su mandato. No obstante, hasta tanto no se proceda a la Asamblea General subsiguiente para la elección de la nueva Junta Directiva, aquélla continuará en funciones.
  e. Por renuncia voluntaria, transmitida mediante comunicación autenticada, a la Junta Directiva.
  f. Por acuerdo adoptado con las formalidades estatutarias, en cualquier momento, por la Asamblea General.
- g. Por la pérdida de la condición de socio.
+ g. Por la pérdida de la condición de socio de número.
 
 **Artículo 23.** La Junta Directiva se reunirá cuantas veces lo determine su Presidente o a iniciativa o petición de tres de sus miembros. Quedará constituida cuando asista la mitad más uno de sus miembros y para que sus acuerdos sean válidos deberán ser tomados por mayoría de votos. En caso de empate, el voto del Presidente será de calidad.
 
-**Artículo 24.** Las facultades de la Junta Directiva se extenderán, con carácter general a todos los actos propios de las finalidades de la asociación, siempre que no requieran, según estos Estatutos o el Reglamento de Régimen Interno, autorización expresa de la Asamblea General.
+**Artículo 24.** Las facultades de la Junta Directiva se extenderán, con carácter general a todos los actos propios de las finalidades de la Asociación, siempre que no requieran, según estos Estatutos o el Reglamento de Régimen Interno, autorización expresa de la Asamblea General.
 
 Son facultades particulares de la Junta Directiva:
 
@@ -193,7 +195,7 @@ En las certificaciones de acuerdos adoptados emitidas con anterioridad a la apro
 
 Las Actas serán firmadas por el Secretario y visadas por el Presidente.
 
-**Artículo 31.** Los asociados podrán impugnar los acuerdos y actuaciones de la asociación que estimen contrarios a los Estatutos dentro del plazo de cuarenta días, a partir de la fecha de adopción de los mismos, instando su rectificación o anulación y la suspensión preventiva en su caso, o acumulando ambas.
+**Artículo 31.** Los asociados podrán impugnar los acuerdos y actuaciones de la Asociación que estimen contrarios a los Estatutos dentro del plazo de cuarenta días, a partir de la fecha de adopción de los mismos, instando su rectificación o anulación y la suspensión preventiva en su caso, o acumulando ambas.
 
 
 Capítulo VI - Régimen documental y contable, patrimonio inicial y recursos económicos
