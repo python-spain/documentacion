@@ -73,7 +73,7 @@ Los socios de honor pueden ser simultáneamente socios de número, siempre y cua
 
  a. Tomar parte en cuantas actividades organice la Asociación en cumplimiento de sus fines.
 
- b. Disfrutar de aquellas ventajas y beneficios que la Asociación pueda obtener para miembros y socios, sin que esto suponga un decrimento en las ventajas y beneficios de los socios.
+ b. Disfrutar de aquellas ventajas y beneficios que la Asociación pueda obtener para miembros y socios, sin que esto suponga un detrimento en las ventajas y beneficios de los socios.
  
  c. Ser informados acerca de la información relevante de la asociación.
 
