@@ -1,0 +1,97 @@
+Acta Junta Python España 13 de Febrero de 2019
+==============================================
+
+En la ciudad de Madrid, València, Barcelona y London siendo las 20:00 horas del 13 de febrero de 2019 y en única convocatoria, se celebra la  reunión de la Junta Directiva de Python España.
+
+
+Orden del día
+~~~~~~~~~~~~~
+1. Aprobación de actas.
+2. Informar estado de la tesorería
+3. Material gráfico para los meetups.
+4. Discourse
+5. Modificación de los estatutos.
+6. La pyCena
+7. Ruegos y preguntas
+
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+ - Juan Luis Cano
+ - Mario Corchero
+ - Marcos Gabarda
+ - Pablo Galindo
+ - Maite Giménez
+
+
+-------------------------------------------
+
+1. Aprobación de actas
+`````````````````````````
+ Se aprueba por unanimidad el acta de Enero de 2019.
+
+2. Informar estado de la tesorería
+``````````````````````````````````
+ La asesoría aconsejó dar de alta a la Asociación como operadores intracomunitarios lo cual permitiría emitir facturas también fuera de España. 
+
+ Este procedimiento nos ha expuesto a una revisión por parte de hacienda lo cual ha supuesto descubrir que las facturas emitidas en la Unión Europea no eran correctas. 
+ Tesorería y Presidencia están en gestiones con la asesoría para subsanar los errores que se hayan podido producir. 
+ Tenemos diez días hábiles para contestar, que se vencen el 22 de Febrero. 
+ El procedimiento a seguir ahora mismo implica demostrar que la sede social que se encuentra en el domicilio de Kaleidos, para lo cual hemos pedido que nos preparen un documento.
+ En principio, si esta documentación fuera aceptara por hacienda, sólo deberíamos certificarnos lo cual serían 90 € aproximadamente. En el peor de los casos, nos exponemos a una multa grave. 
+
+3. Material gráfico para los meetups
+`````````````````````````````````````````````````````````````````````````````
+ Las pruebas de las pegatinas realizadas con Stickermule han salido correctamente y se pedirán 200 unidades. 
+ Asimismo se aprueba por unanimidad el diseño del rollup y se pedirán dos unidades.
+ Madrid y Girona serán los meetups pilotos a los que se les enviará el material promocional. 
+
+4. Discourse
+`````````````````````````````````````
+ Después de múltiples discusiones somos conscientes que Telegram aporta cosas que ningún otro canal de comunicación podrá suplir. 
+ El objetivo por lo tanto, no debería ser encontrar una alternativa con las mismas características sino una opción que nos sirva a la comunidad. 
+ Si bien es cierto que la asociación no tiene ningún beneficio, este canal esta aportando un punto de encuentro para la comunidad hispanoparlante.
+ Pero mantener este canal no es inocuo, tiene un coste que es tener personas moderándolo de modo que se cumpla el CoC. Ahora mismo el grueso de este trabajo lo ha estado llevando acabo Antoni Aloy (@aaloy) por lo que Mai hablará con él para preguntarle si quiere seguir realizando ese trabajo y en función de su decisión se optará por tomar una u otra medida con el canal de Telegram. En cualquier caso, la junta quiere agradecer el trabajo que ha estado haciendo para moderar el canal de Telegram.
+
+ Independientemente, se les han enviado invitaciones a los socios y socias que estaban al corriente de pago para acceder al Discourse y ya han comenzado a acceder (22 han aceptado la invitación). Además, se pidió a la organización de la PyConES 2019 que utilicen Discourse para la comunicación; esto dará transparencia a la organización y permitirá a futuras sedes conocer el trabajo necesario. 
+
+
+5. Modificación de los estatutos
+`````````````````````````````````
+ Se ha realizado una modificación en los estatutos que añade la nueva figura `miembro` de la Asociación. 
+ Como se aprobó en la asamblea general, esta figura permitirá que se asocien personas interesadas en la misma pero que no deseen comprometerse a ser socios o socias de número. Esta modificación se ha realizado a los `estatutos <https://github.com/python-spain/actas/pull/14>`_
+ y se aprobará en la Asamblea General que se celebrará durante la PyCena de marzo.
+
+6. La PyCena
+``````````````
+ Mabel está organizando la búsqueda y reserva del emplazamiento de la PyCena, que será en Madrid el 23 de marzo. 
+ Para simplificar el trabajo, Mario ha creado un doodle en `Discourse <https://comunidad.es.python.org/t/la-pycena-2019-ya-esta-aqui/78>`_
+ para tantear el interés de los socios y socias en asistir al evento y así poder reservar el local adecuado.
+
+
+7. Ruegos y preguntas
+`````````````````````````````````
+ Pablo pregunta por el estado de la PyConES
+ Juanlu informa que hasta ahora el desarrollo de la organización no está evolucionando a la velocidad deseada. A pesar de que la imagen gráfica está retrasándose esto no puede ser una excusa para ralentizar toda la organización, especialmente teniendo en cuenta que el objetivo de está PyConES es llegar a los 700 asistentes. 
+ Se propone que toda la comunicación se desarrolle a través de Discourse, para fomentar la transparencia sobre el desarrollo de la PyConES. Ahora mismo lo prioritario es:
+
+ 1. Tener la web funcionando.
+
+ 2. Publicar el CFP. Idealmente en marzo, pero en cualquier caso, cuanto antes mejor.
+ 3. Comenzar a vender las entradas, que deben estar disponibles cuando se comuniquen las charlas aceptadas.
+
+ Adelantar todos los plazos relativos a los y las ponentes permitirá subsanar errores cometidos en ediciones anteriores. Además se propone pedir las diapositivas antes de la charla lo que dará opción a tener intérpretes y traducción durante la charla, o al menos simplificar el procedimiento de edición de los vídeos de las charlas.
+ En este sentido Juanlu tiene los vídeos de la última PyConES y en cuanto sea posible los subirá al canal de Youtube de PyConES.
+
+
+
+------------
+
+
+Sin nada más que añadir se cierra la reunión de la Junta a las 21:00 horas.
+
+ La secretaria,
+
+   Mai Giménez
+
