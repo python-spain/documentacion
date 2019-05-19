@@ -1,0 +1,125 @@
+Acta Junta Python España 2 de Abril de 2019
+==============================================
+
+En la ciudad de Barcelona, London, Madrid, València, y Zürich siendo las 21:00 horas del 2 de abril de 2019 y en única convocatoria, se celebra la  reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+1. Aprobación o renovación de los socios.
+2. Aprobación acta anterior 
+3. Convocatoria de la Asamblea Ordinaria
+4. Distribución del material gráfico para los meetups y libros de O’Reilly. 
+5. Post-mortem de la PyCena.
+
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+ - Juan Luis Cano
+ - Mabel Delgado
+ - Marcos Gabarda
+ - Maite Giménez
+
+
+1. Aprobación o renovación de los socios.
+``````````````````````````````````````````
+
+ Socias o socios renovados por domiciliación.
+
+ ===============================  ====== 
+    Socia o socio                 Número 
+ -------------------------------  ------ 
+  Maria Antonia Tugores Pons        70 
+  Alberto Caso Palomino             86
+  Alejandro Hermida Rodriguez       49
+  Javier Becerra Elcinto            67
+  Javier Martin Salinas             88
+  Juan Ignacio Rodriguez Leon        9
+  Javier Palanca Camara             43
+  Joan Grande                       74
+  Joan Marc Tuduri Cladera          61
+  Jose Carlos Garcia                93
+  Juan Antonio Oyague Cobelas       66
+  Victor Vicente Palacios           98
+  Pablo Lobarinas Crisera           15
+  Yamila Moreno Suarez               6
+  Angel VivasVivas                  91
+  Antoni Aloy Lopez                  2
+  Juan Jose Moreno Martinez         68
+  Cristobal Contreras Rubio         77
+  David Barragan Merino             53
+  Eduardo Erraiz Aparicio           40
+  Francisco Correoso Garcia         10
+  Francisco de Borja Lopez Rio      37
+  Alejandro Saez Mollejo            56
+  Raquel Garcia Bautista            72
+  Juan Luis Cano Rodriguez           3
+  Marcos Gabarda Inat               33
+  Maria Isabel Delgado Babiano      89
+  Miguel Gonzalez Alvarez           17
+  Ivan Jose Martin Garcia           97
+  Salvador Mari Alarcon             36
+  Salvador de la Puente Gonzalez    46
+  Victor Borras Castell             45
+  Andros Fenollosa Hurtado          87
+  Victor Centelles Julian           32
+ ===============================  ====== 
+
+Socias o socios renovados mediante transferencia bancaria.
+
+ ======================================  ====== 
+    Socia o socio                        Número 
+ --------------------------------------  ------ 
+  Siro Moreno Martín                       83 
+  Javier Luna Molina                       78
+  Vital Gutiérrez Fernández                65
+  Hernán Octavio Martínez-Foffani Silva    57
+  Italo Farfán Vera                        34
+  Alejandro Guirao                         19
+  Raúl Cumplido Dominguez                   7
+ ======================================  ====== 
+
+2. Aprobación acta anterior 
+```````````````````````````
+ Se aprueba por unanimidad el acta del mes de Febrero de 2019.
+
+3. Convocatoria de la Asamblea Ordinaria
+`````````````````````````````````````````
+ Debido  a las dificultades logísticas para convocar una Asamblea Ordinaria se decide posponer la convocatoria de la misma para hacerla coincidir con la Asamblea General que se celebrará en la PyConES.
+
+4. Distribución del material gráfico para los meetups y libros de O’Reilly. 
+```````````````````````````````````````````````````````````````````````````
+ El material se distribuirá entre los meetups de Cáceres y Girona.
+
+5. Post-mortem de la PyCena.
+````````````````````````````
+ Tras la primera convocatoria de PyCena consideramos que es un evento interesante a la que  sin embargo no asistieron un número  importante de socias.
+ Entre los problemas que detectamos y que mejoraremos en las siguientes convocatorias están los siguientes.
+
+  - La convocatoria no se hizo con un margen de tiempo suficiente.
+  - Se convocó a través de Discourse cuando muchas socias no tenían acceso al mismo todavía porque coincidió con las renovaciones de las cuotas y los problemas con hacienda.
+
+ Por lo tanto, Mabel propone que la siguiente convocatoria se celebre junto con otro evento de Python como por ejemplo un PyDay.
+  
+6.Ruegos y preguntas
+````````````````````
+6.1. PyconES
+````````````
+ La PyConEs va un poco retrasada pero se han tomado medidas y en breve saldrán las entradas y se han mandado el folleto de patrocinadores.
+
+6.2. Contabilidad
+`````````````````
+  Marcos está cerrando la asesoría la contabilidad del ejercicio de 2018 y cambiará la web de socias.
+
+6.3. Paypal para socias
+```````````````````````
+ A pesar que de este servicio implica una comisión en la cuota que  recibe la Asociación, simplificará el proceso para el alta y renovación de socias y creemos que  puede animar a asociarse.
+
+
+-------------------------------------------
+
+Sin nada más que añadir se cierra la reunión de la Junta a las 22:18 horas.
+
+La secretaria,
+
+ Maite Giménez
