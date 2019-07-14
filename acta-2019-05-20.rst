@@ -43,7 +43,7 @@ A raíz de una consulta efectuada por el centro de formación CICE y tras consul
  Para ayudar a mejorar la diversidad, se propone patrocinar una serie de charlas en las cuales la organización de la PyConES invitará a colectivos poco representados. 
  Mabel se encargará de hablar con la organización local para corroborar que se están abarcando todas las áreas organizativas necesarias para el buen funcionamiento de la conferencia y para solicitar la inclusión de estas charlas patrocinadas.  
  Con la intención de paliar las dificultades que se han sufrido en la organización de las últimas dos ediciones de la PyConES y teniendo en cuenta la experiencia acumulada, la comisión organizadora de la PyConES impondrá el sistema tecnológico y ayudará a mantenerlo.
- Esta misma comisión deberá establecer unos mínimos de calidad y exigirlos a las futuras organizaciones locales. 
+ Esta misma comisión deberá establecer unos mínimos de calidad y trabajará con las futuras organizaciones locales para que se cumplan. 
 
 -------------------------------------------
 
