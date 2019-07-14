@@ -1,0 +1,56 @@
+
+Acta Junta Python España 20 de Mayo de 2019
+==============================================
+
+En la ciudad de Barcelona, London, Madrid, València, y Zürich siendo las 21:30 horas del 20 de mayo de 2019 y en única convocatoria, se celebra la  reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+1. Aprobación o renovación de los socios.
+2. Aprobación del acta de Abril
+3. PyConES
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+ - Juan Luis Cano
+ - Mabel Delgado
+ - Marcos Gabarda
+ - Pablo Galindo
+ - Maite Giménez
+
+
+1. Aprobación o renovación de los socios.
+``````````````````````````````````````````
+ Se aprueba por unanimidad  el alta del siguiente socio:
+
+ ===============================  ====== 
+    Socia o socio                 Número 
+ -------------------------------  ------ 
+  Jordi Contestí                    99 
+ ===============================  ====== 
+
+A raíz de una consulta efectuada por el centro de formación CICE y tras consultarlo en el reglamento de la Asociación, se confirma que se permite dar de alta a personas jurídicas como socios de la Asociación de Python España y se informará correspondientemente.
+
+2. Aprobación del acta anterior 
+```````````````````````````````
+ Se aprueba por unanimidad el acta del mes de Abril de 2019.
+
+3. PyConES 
+``````````
+ El proceso de organización de la PyConES está yendo más despacio de lo esperado. 
+ En el momento de celebración de esta reunión de la Junta se han recibido menos charlas que en años anteriores pero la llamada a ponencias todavía está abierta. 
+ Para ayudar a mejorar la diversidad, se propone patrocinar una serie de charlas en las cuales la organización de la PyConES invitará a colectivos poco representados. 
+ Mabel se encargará de hablar con la organización local para corroborar que se están abarcando todas las áreas organizativas necesarias para el buen funcionamiento de la conferencia y para solicitar la inclusión de estas charlas patrocinadas.  
+ Con la intención de paliar las dificultades que se han sufrido en la organización de las últimas dos ediciones de la PyConES y teniendo en cuenta la experiencia acumulada, la comisión organizadora de la PyConES impondrá el sistema tecnológico y ayudará a mantenerlo.
+ Esta misma comisión deberá establecer unos mínimos de calidad y trabajará con las futuras organizaciones locales para que se cumplan. 
+
+-------------------------------------------
+
+Sin nada más que añadir se cierra la reunión de la Junta a las 22:59 horas.
+
+La secretaria,
+
+ Maite Giménez
+
+
