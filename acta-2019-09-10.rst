@@ -1,0 +1,62 @@
+Acta Junta Python España 10 de Septiembre de 2019
+==============================================
+
+En la ciudad de Barcelona, London, Madrid, València, y Zürich siendo las 20:00 horas del 10 de septiembre de 2019 y en única convocatoria, se celebra la  reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+1. Aprobación o renovación de nuevas socias
+2. Convocatoria próxima Asamblea General y elecciones a nueva Junta Directiva
+3. Estado de la PyConES
+4. Ruegos y preguntas.
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+ - Juan Luis Cano
+ - Mario Corchero
+ - Marcos Gabarda
+ - Maite Giménez
+
+
+1. Aprobación o renovación de los socios.
+``````````````````````````````````````````
+ Se aprueba por unanimidad el alta del siguiente socio:
+
+ ===============================  ====== 
+    Socia o socio                 Número 
+ -------------------------------  ------ 
+  Eric Eikrem                      103 
+ ===============================  ====== 
+
+2. Convocatoria próxima Asamblea General y elecciones a nueva Junta Directiva
+`````````````````````````````````````````````````````````````````````````````
+ El mandato de la actual Junta Directiva terminará en marzo del 2020 y por lo tanto es el momento de convocar una Asamblea donde de presente y se voten las candidaturas de la próxima etapa.
+ La secretaria a mandato del presidente convocará la asamble en Discourse y en la lista de socias. 
+ La convocatoria incluirá el capítulo IV de los estatutos que regula los órganos de representación de la Asociación de Python España, así como el lugar (el salón de actos de la Universidad de Alicante), la fecha y la hora (sábado 5 de Octubre a las 19:30 horas).
+
+
+3. Estado de la PyConES.
+````````````````````````
+ En estos últimos días se van cerrando los últimos detalles como: 
+  - El catering que incluirá opciones veganas
+  - El merchandising que este año consistirá en un termo como iniciativa para reducir el consumo de plásticos durante la conferencia.
+  - La guardería.
+  - El canal de Telegram que permitirá difundir anuncios y poner en contacto a participantes de la PyConES.
+
+
+4. Ruegos y preguntas.
+``````````````````````
+ - Juanlu ha pedido presupuestos a tres corredurías de seguros y estamos en contacto con ellas. Se nos ha recomendado asegurar la PyConES independientemente.
+ - Además ha llegado una propuesta para celebrar la PyConES en 2020 en Barcelona.
+
+-------------------------------------------
+
+Sin nada más que añadir se cierra la reunión de la Junta a las 22:59 horas.
+
+La secretaria,
+
+ Maite Giménez
+
+
+
