@@ -5,11 +5,11 @@ En la ciudad de Málaga siendo las 19:00 horas del 6 de octubre de 2018 y en ún
 
 Orden del día
 ~~~~~~~~~~~~~
- 1. Propuesta para integrar nuevos [niveles](https://github.com/python-spain/actas/pull/4) de miembros de la asociación.
+ 1. Propuesta para integrar nuevos `niveles <https://github.com/python-spain/actas/pull/4>`_ de miembros de la asociación.
  2. Creación de grupos de trabajo.
   2.1. PyConES.
   2.2. Web
-  2.3. [Canales de comunicación](https://github.com/python-spain/actas/blob/master/acta-2018-05-08-comunicacion.rst)
+  2.3. `Canales de comunicación <https://github.com/python-spain/actas/blob/master/acta-2018-05-08-comunicacion.rst>`_
  3. Integración con diversas asociaciones locales.
  4. Ruegos y preguntas.
 
@@ -25,7 +25,7 @@ Asisten los miembros de la Junta Directiva:
 
  Juntos con socios y socias presentes en la PyConES.
 
-1. Propuesta para integrar nuevos [niveles](https://github.com/python-spain/actas/pull/4) de miembros de la Asociación.
+1. Propuesta para integrar nuevos `niveles <https://github.com/python-spain/actas/pull/4>`_ de miembros de la Asociación.
 ```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
  La Junta propone añadir un nuevo nivel de membresía a la asociación. 
  Tras la modificación pertinente en los estatutos, una persona podría ser miembro o socia. 
@@ -58,7 +58,7 @@ Asisten los miembros de la Junta Directiva:
  Los grupos de trabajo estarán constituidos por miembros o socias encargadas de tareas específicas como por ejemplo:
   2.1. La organización de la PyConES en colaboración con la organización local.
   2.2. El desarrollo de la web
-  2.3. La gestión de los [canales de comunicación](https://github.com/python-spain/actas/blob/master/acta-2018-05-08-comunicacion.rst)
+  2.3. La gestión de los `canales de comunicación <https://github.com/python-spain/actas/blob/master/acta-2018-05-08-comunicacion.rst>`_
  Durante el debate se propuso estudiar cómo se estructuran los grupos de trabajo para el PyCamp en Argentina, así como los grupos de trabajo cómo se organizan ciertos PyDays y los sprints. 
  Se aprueba por unanimidad con 29 votos y 2 abstenciones.
 
