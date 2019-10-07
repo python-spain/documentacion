@@ -1,0 +1,49 @@
+Acta Junta Python España 26 de Junio de 2019
+==============================================
+
+En la ciudad de Barcelona, London, Madrid, València, y Zürich siendo las 21:00 horas del 26 de junio de 2019 y en única convocatoria, se celebra la  reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+1. Aprobación del acta del mes de mayo de 2019
+2. Estado de la PyConES
+3. Llamada a sedes para la PyConES 2020
+4. Ruegos y preguntas
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+ - Juan Luis Cano
+ - Marcos Corchero
+ - Mabel Delgado
+ - Marcos Gabarda
+ - Pablo Galindo
+ - Maite Giménez
+
+1. Aprobación del acta del mes de mayo de 2019
+``````````````````````````````````````````````
+ Se aprueba por unanimidad el acta del mes de mayo de 2019.
+
+
+2. Estado de la PyConES.
+````````````````````````
+ 2.1. Edición de 2019
+ ````````````````````````
+  La web del evento se ha estado desarrollando muy despacio, pero la gente ha respondido muy bien a la petición de colaboración que hizo Juanlu en Discourse. Actualmente en la web están colaborando tanto voluntarios a nivel individual como APSL y Kaleidos. Este esfuerzo ha dado un gran empujón a la web.
+  Con respecto a la asociación local están hablando con agencias de viajes para ayudar a los asistentes a planear sus viajes y obtener descuentos. 
+  Además se está buscando un intérprete de lenguaje de signos. Mabel está colaborando con ellos.
+  En relación a la selección de charlas, se han terminado las revisiones y se intentará notificar a los ponentes a finales de mes. Asimismo, se están reservando entradas tanto para los ponentes como para patrocinadores. 
+  Juanlu se está encargando de la gestión de las becas, la guardería y de los keynote speakers.
+  Para aumentar la diversidad, en caso de que sea necesario, se propone crear una serie de charlas patrocinadas para aumentar la diversidad.
+
+ 2.2. Edición de 2020 
+ ````````````````````````
+ Se está empezando a trabajar en la llamada a sedes de 2020 con el nuevo grupo de trabajo que será el responsable de la organización.
+ Para futuras ediciones se trabajará en hacer una distribución más racional del trabajo de modo que el grupo local se encargue de la organización local y el grupo de trabajo de la PyConES se encargue de temas más generales (web, selección de charlas, etc.)
+ Se busca tener unas expectativas y responsabilidades claras de cada uno de los agentes organizadores (la organización local y el grupo de trabajo). Idealmente, el grupo de trabajo podría tener un protocolo general para ayudar al grupo local. 
+
+Sin nada más que añadir se cierra la reunión de la Junta a las 22:14 horas.
+
+La secretaria,
+
+ Maite Giménez
