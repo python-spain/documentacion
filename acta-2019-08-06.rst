@@ -1,0 +1,109 @@
+Acta Junta Python España 6 de Agosto de 2019
+=====================================================================================
+
+En la ciudad de Barcelona, London, Madrid, València, y Zürich siendo las 20:00 horas del 6 de agosto de 2019 y en única convocatoria, se celebra la  reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+1. Aprobación o renovación de nuevas socias.
+2. Estado de la PyConES.
+3. Estado de los grupos de trabajo.
+4. Convocatoria próxima Junta Directiva.
+5. Domiciliación de pagos
+6. Seguro de responsabilidad civil.
+7. Revisión de objetivos de la candidatura.
+8. Ruegos y preguntas
+
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+ - Juan Luis Cano
+ - Marcos Corchero
+ - Mabel Delgado
+ - Marcos Gabarda
+ - Pablo Galindo
+ - Maite Giménez
+
+
+1. Aprobación o renovación de los socios.
+-----------------------------------------
+ Se aprueba por unanimidad el alta de los siguiente socios:
+
+ ===============================  ====== 
+    Socia o socio                 Número 
+ -------------------------------  ------ 
+  Alberto Fernandez Valiente        100 
+  Juan Biondi Pérez                 101
+  Israel Saeta Pérez                102
+ ===============================  ====== 
+
+
+2. Estado de la PyConES.
+------------------------
+ En este momento ya se han seleccionado tanto las charlas como los tallerres y APSL está generándo la agenda. En esta edición habrán 5 tracks. 
+ Además se está trabajando para conseguir presupuestos de audiovisuales y los patrocinadores están enviando las facturas mientras se están consiguiendo nuevos patrocinios.
+ A menos de dos meses entramos en la recta final de los preparativos del evento. Dani ha hecho un balance de las cuentas y todo está en orden.
+ Finalmente, Freewear confirma que pondrá un stand durante la conferencia.
+
+3. Estado del grupo de trabajo de la PyConES 2020.
+--------------------------------------------------
+ Se ha celebrado la primera reunión del grupo de trabajo de la PyConES y ha sido muy positiva. De esta reunión ha salido la convocatoria de la llamada a sedes para el próximo año. 
+ La idea inicial del grupo de trabajo es reutilizar la web y el sistema de selección de charlas.
+
+4. Convocatoria próxima Junta Directiva.
+----------------------------------------
+ El mandato de la actual junta termina en febrero del 2020 y por lo tanto antes de esa fecha habría que haber celebrado elecciones. Lo ideal sería realizar la votación presencialmente en Alicante durante la PyConES, sino se pospondría hasta que hubierán candidatuaras.
+ Juanlu escibirá un post en Discourse animando a la presentación de candidaturas.
+
+5. Domiciliación de pagos.
+--------------------------
+ Marcos está haciendo pruebas con Paypal y nos pondremos en contacto con Python Canarias que tiene un sistema de pagos on-line para preguntarles como lo han implemantaod por si pudieramos aplicarlo a nuestro caso. Asimismo, Juanlu propone tambien estudiar si OpenCollective se adapta a nuestras necesidades.
+
+6. Seguro de responsabilidad civil.
+-----------------------------------
+ Hasta ahora no se ha tenido un seguro de responsabilidad civil.
+ Juanlu ha estado en contacto con distintas corredurías de seguros y el precio oscila entre 200 y 300 euros. 
+ Otras asociaciones tienen un seguro de ámbito nacional para todos los eventos. En nuestro caso cubriría también PyConES y PyDays. Colaborando con los grupos locales y proporcionando un valor añadido a la Asociación de Python España.
+ Considerando el impacto que podría tener estar asegurados, o en su defecto continuar sin estarlo, y teniendo en cuanta que hay fondos se aprueba por unanimidad la contratación de un seguro de responsabilidad civil.
+
+7. Revisión de objetivos de la candidatura.
+--------------------------------------------
+ 7.1. Web de socias
+  Este punto quedará pendiente para la siguiente candidatura porque va ligado a la domiciliación de pagos, con la creación de una base de datos de proveedores y socias así como con la actualización de la nueva web que todavía se están desarrollando.
+
+ 7.2. Recetario para eventos y comunidades 
+  Mario ha desarrollado un `recetario <https://github.com/python-spain/asociacion/issues/14>`_ para la creación de nuevos eventos y comunidades y lo ha publicado en `discourse <https://comunidad.es.python.org/t/plantilla-para-eventos-de-python/174>`_.
+
+ 7.3. Acercamiento con la PSF 
+  En este punto nos planteamos `acercarnos a la PSF como a otras comunidades <https://github.com/python-spain/asociacion/issues/11>`_
+  Mario ha estado en contacto con la PSF y ahora tenemos un trato mucho mas cercano, están al tanto de las actividades que llevamos a cabo como la PyConES y en general de las tareas que está realizando la Asociación. Además, ahora hay un canal, coordinado por la PSF para todas las organizaciones, cualquier comunidad puede unirse simplemente escribiendo a la PSF.
+  Hemos hablado y mantenemos contacto con PyConUK, PyCon Balcanes, PyCon Italia, EuroPython y PyConLatam. En estas converaciones hemos intentando compartir experiencias e ideas sobre como funcionan las diferentes asociaciones.
+
+ 7.4. Canales de comunicación
+  Después de estudiar multiples alternativas para racionalizar los `canales de comunicación <https://github.com/python-spain/asociacion/issues/4>`_, Pablo puso en funcionamiento un `Discourse <https://comunidad.es.python.org>`_ que ha sustituido a las listas de correo y que permite tratar temas con más profundidad que Telegram.
+  El canal de Telegram sigue en funcionamiento moderado por Antoni Aloy y un grupo de voluntarios.
+
+ 7.5. Coordinación de los miembros de la comunidad para encuentros en eventos
+  Muchas socias y socios buscan coordinarse para asistir a eventos y nuestro objetivo es ayudar con la `coordinación <https://github.com/python-spain/asociacion/issues/10>`_ para lo cual Mario creó una `categoría <https://comunidad.es.python.org/c/eventos>`_ en Discourse pero sin mucho éxito.
+
+ 7.6. Organizaciones locales
+  Este punto que consitía en `crear un punto de encuentro con las comunidades locales <https://github.com/python-spain/asociacion/issues/9>`_  queda fuera de las posibilidades de esta legislatura.
+
+ 7.7. Facilitar el pago de los meetups locales
+  El pasado 22 de febrero la PSF envió un e-mail al respecto de la beca que otorgó en 2017 para pagar los `meetups <https://github.com/python-spain/asociacion/issues/8>`_ y Juanlu hará el seguimiento de este punto.
+
+
+8. Ruegos y preguntas.
+----------------------
+ Marcos informa que la contabilidad de 2018 está terminada.
+
+
+-------------------------------------------
+
+Sin nada más que añadir se cierra la reunión de la Junta a las 21:01 horas.
+
+La secretaria,
+
+ Maite Giménez
+
