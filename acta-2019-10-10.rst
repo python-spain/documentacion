@@ -1,0 +1,93 @@
+Acta Junta Python España 10 de Octubre de 2019
+===============================================
+
+En la ciudad de Barcelona, Madrid y  València siendo las 20:00 horas del 10 de octubre de 2019 y en única convocatoria, se celebra la  reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+1. Aprobación o renovación de los socios.
+2. Aprobación de las actas anteriores.
+3. Modificación de los estatutos.
+4. Beca FICTIZIA.
+5. Ruegos y preguntas.
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+ - Mario Corchero
+ - Mabel Delgado
+ - Marcos Gabarda
+ - Maite Giménez
+
+1. Aprobación o renovación de los socios.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Se aprueba por unanimidad el alta de los siguientes socios:
+
+ ===============================  ====== 
+    Socia o socio                 Número 
+ -------------------------------  ------ 
+  Manuel Villaverde                 105
+  José Vicente Garcia               106
+  Sergio Soto                       107
+  Jordi Bagot                       108
+ ===============================  ====== 
+
+ así como la renovación del siguiente socio:
+
+ ===============================  ====== 
+    Socia o socio                 Número 
+ -------------------------------  ------ 
+  Matias Luis Gabriel                64
+ ===============================  ======
+
+2. Aprobación de las actas anteriores 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Se aprueban por unanimidad las siguientes actas:
+  - Acta de la Asamblea General de 2018
+  - Acta de septiembre de 2019
+
+3. Modificación de los estatutos
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Se aplaza este punto hasta que pueda asistir Juan Luis Cano a la reunión quien conoce el procedimiento para la modificación de los estatutos.
+
+4. Beca FICTIZIA
+^^^^^^^^^^^^^^^^^^
+ Secretaría contestará a esta beca en la que se ofrecía un descuento para sus cursos. Lamentablemente los plazos para aceptar estas becas se ha pasado en el momento de la celebración de esta reunión, por lo tanto la colaboración no será posible en esta ocasión.
+
+
+5. Ruegos y preguntas.
+^^^^^^^^^^^^^^^^^^^^^^^
+ Juan Luis Cano no pudo asistir a esta reunión de la junta pero nos envía estas actualizaciones.
+
+ 5.1. Asamblea General
+  La Asamblea General fue bien y en breve se publicará el acta de la misma.
+
+ 5.2. PyConES 2019
+  La organización está cerrando la PyConES de 2019, expidiendo certificados de asistencia, cuadrando las cuentas, mandando la encuesta y preparando un informe para que la Universidad de Alicante no nos cobre gastos extra y que al menos el evento quede "a cero" si es que sale a pérdidas.
+  Todavía no hemos tenido tiempo para comparar los resultados de la encuesta con años anteriores, pero mirando por encima el evento sale bastante bien parado en general, con críticas a la falta de sitio en los talleres y a no haber hecho explícitas las pausas entre charlas y alabanzas a un montón de cosas entre ellas la keynote de Pablo Galindo.
+  Además, gnuites ha hecho un repositorio para recopilar los materiales del  `evento <https://github.com/python-spain/PyConES-2019-data/>`_. 
+
+ 5.3. PyConES 2020
+  Se ha creado un Slack para la PyConES 2020 donde la gente de Granada y el grupo de trabajo ya se han puesto a trabajar.
+  Se han acercado posturas con el grupo de Barcelona después de la retirara de su propuesta.
+
+ 5.4. Comunicación con las socias
+  Algunos nuevos socios y socias le indicaron a Juan Luis que no tenían noticias de nosotras. Revisaremos cada caso tesorería, secretaría y presidencia para comprobar que ha ocurrido.
+ 
+ 5.5. PyDays
+   Desde la Rioja han contactado con Juan Luis para celebrar un PyDay en febrero y les ha comunicado nuestra predisposición para ayudar en lo necesario y animado con la organización del evento.
+   La siguiente semana será el PyDay en Barcelon y un Django Girls al que lamentablemente nadie de la junta de la Asociación de Python España puede asistir. 
+
+ 5.6. Beca PSF para Meetup
+  No se han hecho avances con respecto a la beca para los meetups y nos han cargado otros 6 meses.
+
+ 5.7. Seguro de responsabilidad civil
+  Tampoco no se ha avanzado con el seguro de responsabilidad civil.
+
+-------------------------------------------
+
+Sin nada más que añadir se cierra la reunión de la Junta a las 21:47 horas.
+
+La secretaria,
+
+ Maite Giménez
