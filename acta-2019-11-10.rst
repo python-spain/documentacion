@@ -82,7 +82,7 @@ Asisten los miembros de la Junta Directiva por medios telemáticos:
 
 7. Estado del grupo de trabajo pycones 2020.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- Se creó un canal de Slack con las organización local de Granada y el grupo de trabajo de la PyConES. Ahora mismo Granada tiene ya el trabajo bastante avanzado pero el grupo de trabajo está ralentizando un poco el desarrollo.
+ Se creó un canal de Slack con las organización local de Granada y el grupo de trabajo de la PyConES. Ahora mismo Granada tiene ya el trabajo bastante avanzado pero la web, mantenida por el grupo de trabajo, ha tardado un poco más en arrancar.
  Para conocer como podemos ayudar desde la Junta invitaremos a la próxima reunión de Diciembre a al menos dos personas del grupo de trabajo. Juanlu les avisará de esta reunión y Maite enviará un doodle para agendar la reunión un día que todas podamos.
 
 8. Celebración de la PyCena 2020.
@@ -102,5 +102,4 @@ Sin nada más que añadir se cierra la reunión de la Junta a las 20:54 horas.
 La secretaria,
 
  Maite Giménez
-
 
