@@ -1,7 +1,7 @@
 Acta Junta Python España 10 de Noviembre de 2019
 ===============================================
 
-En la ciudad de Madrid y València siendo las 20:00 horas del 10 de octubre de 2019 y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+En la ciudad de Madrid y València siendo las 20:00 horas del 10 de noviembre de 2019 y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
 
 Orden del día
 ~~~~~~~~~~~~~
