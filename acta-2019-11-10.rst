@@ -1,0 +1,105 @@
+Acta Junta Python España 10 de Noviembre de 2019
+===============================================
+
+En la ciudad de Madrid y València siendo las 20:00 horas del 10 de noviembre de 2019 y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+1. Aprobación o renovación de los socios.
+2. Aprobación de las actas anteriores.
+3. Encuestas PyConEs 2019.
+4. Próximos eventos.
+5. Seguro de responsabilidad civil.
+6. Estado de la comunicación con las socias.
+7. Estado del grupo de trabajo PyConES 2020.
+8. Celebración de la PyCena 2020.
+9. Ruegos y preguntas.
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+ - Juan Luis Cano
+ - Mabel Delgado
+ - Marcos Gabarda
+ - Maite Giménez
+
+1. Aprobación o renovación de los socios.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Se aprueba por unanimidad el alta de los siguientes socios:
+
+ ===============================  ====== 
+    Socia o socio                 Número 
+ -------------------------------  ------ 
+  José Salvador                     109
+  Manuel Kaufmann                   110
+ ===============================  ====== 
+
+2. Aprobación de las actas anteriores.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Se aprueban por unanimidad el acta de Junio de 2019.
+
+3. Encuestas PyConEs 2019.
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Como cada año se les ha enviado una encuesta de satisfacción a las asistentes a la PyConES celebrada en Alicante. Como resultado de estas encuestas vemos como ha mejorado la satisfacción general respecto al año pasado.
+ Entre los puntos a mejorar que nos han trasmitido las asistentes están la falta de previsión con el aforo de los talleres que se desbordaron, falta de cartelería que generaba confusión para localizar las salas y a la gente no le gustó mucho la comida que se ofreció.
+ En la encuesta además aparecen un año más quejas por el nivel de las charlas. Es una queja recurrente que no sabemos como abordar. 
+ Asimismo, en el grupo de Telegram creado para la conferencia algunos usuarios hicieron preguntas *troll* pero se contestaron a todos de muy buenas formas. 
+ A pesar de todo esto la logistica funcionaba mejor que el año anterior pero no al nivel de Cáceres 2017. 
+
+4. Próximos eventos.
+^^^^^^^^^^^^^^^^^^^^
+ 4.1. PyDay Granada
+  Desde Granada solicitan 300 € para realizare el evento y se aprueba por unanimidad la concesión de esa ayuda.
+
+ 4.2. PyDay Canarias
+  La organización de Canarias nos escribió para informarnos de que está organizando el evento pero no han solicitado ninguna ayuda por parte de la Asociación de Python España.
+
+ 4.3. PyDay BCN 
+  El evento se retrasó por los disturbios y se celebrará el día 16 de noviembre. Han conseguido muchos patrocinadores y están muy contentos y nosotras con ellas. 
+
+ 4.4. PyCamp BCN
+  Desde la organización del PyCamp BCN en primavera del 2020 y nos piden ayuda para organizar el evento. Fundamentalmente solicitan:
+   - Ayuda con el seguro de responsabilidad civil: Estamos consultando las posibilidades de la contratación de un seguro que cumbra tanto este como otros eventos y cuando sepamos más podremos saber en que medida podemos colaborar en este punto.
+   - Asesoramiento y gestión de facturas: Este punto es un servicio que proporcionamos rutinariamente a todos los eventos con los que colaboramos y en este caso también se llevará a cabo. 
+   - Envío de merchandising: Se les envirá *merchandising* que tenemos para apoyar a las asociaciones locales.
+   - Ayuda económica: en función de lo que necesiten y de la disposición de capital en tesorería se les ayudará.
+
+ 4.5. PyDay en la Rioja
+  Estan organizando un PyDay en la Rioja para ferbreroy nos ofrecimos para asesorarles pero no nos han pedido nada formalmente. 
+
+5. Seguro de responsabilidad civil.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Hemos recibido los presupuestos de varios seguros, pero tenemos dudas sobre que tipo de requisitos necesitamos que cumplan dichos seguros. Una de las corredurías de seguros nos aconsejaba que dependiendo de las coberturas podríamos tener un evento para la PyConEs, que es el evento más grande que más riesgo conlleva y otro para el resto de eventos.
+ Mabel apunta que posiblemente la gestoría pueda ayudar en este tema así que Juan Luis reeviará los presupuestos a Marcos y él se encargará de seleccionar el más adecuado.
+
+6. Estado de los socias.
+^^^^^^^^^^^^^^^^^^^^^^^^
+ En la última PyConES algunas nuevas socias informaron que no habían recibido noticias de si alta en la asociación, de modo que nos pusimos a investigar que había sucedido. 
+ El alta de las socias es un procedimiento manual que implica a la tesorería y a la secretaría de la asociación. 
+ Ahora mismo hay un procedimiento por el cual se envía un correo desde secretaria avisándoles que se les va a dar de alta en la siguiente reunión de la Junta y que una vez estén aprobadas su número de socia aparecerá en el acta de la reunión y a partir de ese momento son socias de pleno derecho. Durante la reunión de la Junta, tesorería verifica que el pago es correcto y la mayoría simple de los miembros de la Junta aprueban a las nuevas socias. A continuación, tesoería les da de alta en el Discourse de la Asociación como socias y el acta sale publicada en el repositorio de la asociación.
+ El problema fundamental de este procedimiento es que los correos que se envían desde *secretaria@es.python.org* están siendo filtrados como spam y con la configuración actual esto segurá pasando.
+ Juan Luis creará una lista de correo en *Mailchimp* para intentar paliar este problema y Marcos exportará la lista de socias para que secretaría pueda enviar correos a las socias sin que estos acaben en spam.
+
+7. Estado del grupo de trabajo pycones 2020.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Se creó un canal de Slack con las organización local de Granada y el grupo de trabajo de la PyConES. Ahora mismo Granada tiene ya el trabajo bastante avanzado pero la web, mantenida por el grupo de trabajo, ha tardado un poco más en arrancar.
+ Para conocer como podemos ayudar desde la Junta invitaremos a la próxima reunión de Diciembre a al menos dos personas del grupo de trabajo. Juanlu les avisará de esta reunión y Maite enviará un doodle para agendar la reunión un día que todas podamos.
+
+8. Celebración de la PyCena 2020.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Se propone repetir la celebración de la PyCena en febrero del 2020 en Madrid y aprovechar para celebrar la Asamblea Extraordinaria donde las socias votarán a la siguiente Junta. 
+ Mabel se encargará de buscar un sitio en Madrid donde poder celebrarla y Maite enviará un doodle para concretar que fin de semana nos vendría mejor. De forma tentativa se propone celebrarlo el día 29 de febrero.
+
+9. Ruegos y preguntas.
+^^^^^^^^^^^^^^^^^^^^^^
+ No hay ningun ruego o pregunta.
+
+
+-------------------------------------------
+
+Sin nada más que añadir se cierra la reunión de la Junta a las 20:54 horas.
+
+La secretaria,
+
+ Maite Giménez
+
