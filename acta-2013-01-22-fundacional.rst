@@ -97,13 +97,13 @@ Acuerdan:
 
 2. Aprobar los Estatutos que se incorporan a este Acta Fundacional como anexo y
    cuyo documento en formato rst tiene como suma de verificación sha1
-   b37d1beafcef7f75138a9502f329d5215d452356, por los que se va a regir la
+   b37d1beafcef7f75138a9502f329d5215d452356¹, por los que se va a regir la
    entidad, que fueron leídos en este mismo acto y aprobados por unanimidad de
    los reunidos.
 
 3. Aprobar reglamento interno que se incorporan a este Acta Fundacional como
    anexo y cuyo documento en formato rst tiene como suma de verificación sha1
-   9171d3728ee11c838881cbd592b2b4ca6519f56f, que fue leído en este mismo
+   9171d3728ee11c838881cbd592b2b4ca6519f56f¹, que fue leído en este mismo
    acto y aprobado por unanimidad de los reunidos.
 
 4. Designar a la Junta Directiva de la entidad, cuya composición es la siguiente:
@@ -128,3 +128,4 @@ fecha.
    El hash SHA1 del acta original es
    :kbd:`005e003541ca3e750a4ef3f01cfd6701595cd4dd`.
 
+¹ Estos hashes sha1 ya no son válidos ya que los documentos se han copiado desde las fuentes originales, pero los mantenemos en el documento para no alterarlo.
