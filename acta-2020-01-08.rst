@@ -1,0 +1,63 @@
+Acta Junta Python España 8 de Enero de 2019
+===============================================
+
+En la ciudad de Cáceres, Madrid, London y València siendo las 20:30 horas del 8 de enero de 2019 y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+1. Aprobación o renovación de los socios.
+2. PyCena.
+3. Convocatoria de la Asamblea General.
+4. Cambio en los Estatutos y el Reglamento Interno.
+5. Ruegos y preguntas.
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+ - Juan Luis Cano
+ - Mario Corchero
+ - Marcos Gabarda
+ - Maite Giménez
+
+
+1. Aprobación o renovación de los socios
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Se aprueba por unanimidad la renovación del siguiente socio:
+
+ ===============================  ====== 
+    Socia o socio                 Número 
+ -------------------------------  ------ 
+  Juan vicente Trujillo              42
+ ===============================  ====== 
+
+
+2. PyCena
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Por sencillez se propone celebrar la Asamblea General antes de la cena, por ejemplo en las oficinas de Kaleidos que generosamente las han ofrecido, y después ir a cenar. Eso simplificará los requisitos del lugar donde vayamos a cenar después. 
+ Juanlu hablará con David para concretar los detalles para organizar la Asamblea General en Kaleidos y Mabel buscará el lugar de la cena. 
+
+3. Convocatoria de la Asamblea General
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ La Asamblea general debe convocarse antes del 17 de enero. Esta convocatoria la hará la secretaría en el  de la asociación `Discourse de la Asociación <https://comunidad.es.python.org/>`_.
+ Un par de días antes del día de la Asamblea General la Junta Directiva compartirá la memoria de actividades y cuentas con las personas asociadas.
+
+4. Cambio en los Estatutos y el Reglamento Interno
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Juanlu ha abierto un `issue <https://github.com/python-spain/documentacion/issues/28>`_ para cambiar el lenguaje de los Estatutos y del Reglamento Interno por un lenguaje inclusivo.
+ Esta Junta intentará cambiarlo antes del final de la candidatura o al menos dejarlo lo más adelantado posible, simplificando el trabajo para la siguiente Junta Directiva.
+
+
+5. Ruegos y preguntas
+^^^^^^^^^^^^^^^^^^^^^
+ Juanlu nos informa de que se están gestionando los videos de la PyConES 2019 y el desarrollo de la PyConEs ha cogido muy buen ritmo, desarrollando el logo y la web.
+ Además Juanlu está gestionando el seguro de responsabilidad civil.
+
+
+-------------------------------------------
+
+Sin nada más que añadir se cierra la reunión de la Junta a las 21:27 horas.
+
+La secretaria,
+
+ Maite Giménez
+
