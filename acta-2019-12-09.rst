@@ -1,0 +1,75 @@
+Acta Junta Python España 9 de Diciembre de 2019
+================================================
+
+En la ciudad de Madrid, València y Alicante siendo las 19:00 horas del 9 de diciembre de 2019 y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+1. Aprobación de actas
+2. PyConES 2020.
+3. Celebración de la PyCena 2020.
+4. Convocatoria de la Asamblea.
+5. Ruegos y pregunta
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+ - Juan Luis Cano
+ - Mabel Delgado
+ - Marcos Gabarda
+ - Maite Giménez
+
+Además asisten los miembros del grupo de trabajo de la PyConES por medios telemáticos:
+ - Antoni Aloy
+ - Antonia Tugores
+ - Edu Herraiz
+ - Kiko Correoso
+
+
+1. Aprobación o renovación de los socios.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Se aprueba por unanimidad el acta de Octubre y Noviembre.
+
+
+2. PyConES 2020.
+^^^^^^^^^^^^^^^^
+ Hasta el momento el grupo de trabajo PyConES ha tenido un solape completo con la Junta Directiva. La idea es desacoplar estas dos tareas manteniendo reuniones periódicas que promuevan la colaboración entre el grupo de trabajo de la PyConEs y la Junta Directiva.
+ El estado actual del desarrollo de la PyCones es el siguiente:
+  - **Web**: la web ya está operativa a nivel de despliegue a partir del código del año pasado, pero todavía quedan algunos aspectos por desarrollar y poder hacerla pública, en particular el se debería desarrollar el *front-end*. El grupo local de Granada ya tiene el logotipo y se va a trabajar para coordinar los esfuerzos y poder avanzar para tener una versión pública para finales de año.
+  - **Imagen Gráfica**: El grupo local ya tiene el logotipo listo.
+  - **Comunicación**: El grupo local se encargará de la comunicación por Twitter y están preparando un post para el blog de la Asociación de Python España.
+  - **Hoteles**: El grupo local está haciendo un trabajo preliminar para buscar opciones de alojamiento. 
+  - **Patrocinios**: El grupo de trabajo y el grupo local han acordado dejar los niveles de patrocinio en los mismos niveles y se está trabajando en el folleto de patrocinadores.
+  - **Correo**: los correos desde el dominio de la Asociación son problemáticos porque por diversos motivos acaban muy frecuentemente como *spam*. Se buscarán soluciones para este problema.
+  - **Ponentes**: Se plantea la posibilidad de pedir las presentaciones previamente a los y las ponentes.
+ La Junta Directiva hará un guión con las tareas a hacer y las prioridades para ayudar tanto al grupo de trabajo como al grupo local. 
+ La Junta Directiva organizará la primera reunión entre el grupo de trabajo y el grupo local. Mabel propone que estas reuniones sean periódicas y el resto de las y los presentes están de acuerdo. Antonia propone que se una también gente que organizó la PyConES 2019 para compartir su valiosa experiencia; Juanlu les preguntará si se quieren involucrar y compartirá el exhaustivo informe económico que elaboró Dani sobre la PyConES 2019.
+
+
+3. Celebración de la PyCena 2020.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ La secretaría comunicará en Discourse que se celebrará la PyCena el 1 de febrero en Madrid.
+
+
+4. Convocatoria de la Asamblea.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ La Asamblea General se celebrará el 1 de febrero haciéndola coincidir con el día de la PyCena. En la Asamblea General se votará a nueva Junta Directiva.
+ En esta Asamblea se presentará la memoria de trabajo y la memoria económica de la actual Junta Directiva.
+
+
+5. Ruegos y preguntas
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Marcos nos informa de que está trabajando en el balance del año con la asesoría.
+Asimismo Marcos también está trabajando en la integración de las domiciliaciones de los pagos de las socias.
+Finalmente, Marcos está rehaciendo las facturas de entradas que se pidieron.
+
+
+-------------------------------------------
+
+Sin nada más que añadir se cierra la reunión de la Junta a las 20:30 horas.
+
+La secretaria,
+
+ Maite Giménez
+
+
