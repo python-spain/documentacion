@@ -1,0 +1,94 @@
+Acta Junta Python España 11 de Febrero de 2020
+=====================================================
+
+En la ciudad de Barcelona, Madrid, Valencia y Ordino siendo las 18:30 horas del 11 de febrero de 2020 y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+1. Fecha de reuniones periódica.
+2. Inscripción de cambio de Junta en Registro Nacional de Asociaciones.
+3. Buzones de correo.
+4. Proceso de Alta de nuevos Socios.
+5. Aprobación de nuevos socios.
+6. Estado de PyCon ES 2020.
+7. Cambio en los Estatutos y el Reglamento Interno.
+8. Ruegos y preguntas.
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+ - Israel Saeta
+ - Xavier Torelló
+ - Marcos Gabarda
+ - Raúl Cumplido
+ - Yamila Moreno
+
+1. Fecha de reuniones periódica
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Se decide que se realizarán las reuniones de la junta el primer martes de cada mes a las 19:00.
+
+
+2. Inscripción de cambio de Junta en Registro Nacional de Asociaciones
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Para tener permisos legales lo primero que debemos realizar es el cambio de junta y la Inscripción en
+ el Registro Nacional de Asociaciones.
+ Se han rellenado los formularios correspondientes para realizar el cambio de junta.
+ Marcos preguntará a la gestoría por el coste de los trámites y como realizar las firmas.
+
+3. Buzones de correo
+^^^^^^^^^^^^^^^^^^^^
+ Después de discutir la problemática existente con las cuentas de correo se decide como primer paso
+ conseguir tener acceso a las cuentas de correo actuales. Xavi y Yamila se encargarán de hablar con
+ Jesús Cea para esta gestión.
+ El plan inicial es entender la gestión actual, el tipo de cuentas y cuál es la problemática. Una vez se
+ conozcan los detalles tomaremos una decisión de como mejorar el sistema actual o resolver los problemas
+ actuales.
+
+4. Proceso de Alta de nuevos Socios.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Se discute el proceso de alta existente y se plantea la posibilidad de gestionar el alta sin necesidad
+ de aprobación por parte de la junta. Raúl se encargará de buscar como realizar éste proceso. Se discute
+ la herramienta actual de gestión de socias y la voluntad de migración a infraestructura de la asociación
+ y mejora del sistema.
+ Marcos se encargará de dar acceso a secretario y presidente al sistema actual.
+
+5. Aprobación o renovación de los socios
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Se aprueba por unanimidad el alta de los siguientes socios:
+
+ ===============================  ====== 
+    Socia o socio                 Número 
+ -------------------------------  ------ 
+  Francisco Urquízar                111
+  Xavi Francisco                    112  
+ ===============================  ====== 
+
+
+6. Estado de PyCon ES 2020
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Yamila realiza un resumen de la situación actual después de haber consultado con Jesús Bameda.
+ Surgen varias preguntas sobre el grupo de trabajo y la situación actual.
+ Yamila se encargará de trasladar esas preguntas al grupo de trabajo.
+
+7. Cambio en los Estatutos y el Reglamento Interno
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Después de comprobar que la junta anterior no presentó el último cambio de estatutos aprobados se
+ decide que una vez el proceso de registro de la nueva junta se encuentre finalizado se procederá a
+ hablar con la gestoría para presentar el cambio de Estatutos.
+ La Junta desestima esperar a presentar ese cambio hasta aprobar un nuevo cambio para añadir un lenguaje
+ más inclusivo ya que se debería esperar a una nueva aprobación en asamblea y nos situaría fuera de plazo.
+ Sigue siendo objetivo de la junta realizar un cambio de Estatutos para modificar el lenguaje y que sea
+ más inclusivo.
+
+
+8. Ruegos y preguntas
+^^^^^^^^^^^^^^^^^^^^^
+ No hay ruegos ni preguntas.
+
+-------------------------------------------
+
+Sin nada más que añadir se cierra la reunión de la Junta a las 20:07 horas.
+
+El secretario entrante,
+
+ Raúl Cumplido
