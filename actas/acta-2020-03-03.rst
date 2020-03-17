@@ -1,0 +1,189 @@
+Acta Junta Python España 3 de Marzo de 2020
+=====================================================
+
+En la ciudad de Barcelona, Madrid, Valencia, Sineu y Ordino siendo las 19:00 horas del 3 de marzo de 2020 y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+ 
+1. Aprobación acta reunión Junta anterior.
+2. Aceleración proceso alta nuevos socios.
+3. Aprobación de nuevos socios.
+4. Alta de registro de socios como base de datos de cara a LOPD.
+5. Estado traspaso poderes de la Junta. Inscripción en el RNA.
+6. Propuesta documento ayuda comunidades locales.
+7. Seguro de responsabilidad civil.
+8. Estado de la PyConES.
+9. Activación de la figura de miembro.
+10. Grupos de trabajo.
+11. Buzones de correo electrónico.
+12. Inventario de servicios.
+13. Uso Telegram/lista correo/issues GH/Discourse.
+14. Ruegos y preguntas.
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+- Xavi Torelló
+- Marcos Gabarda
+- Raul Cumplido
+- Israel Saeta
+- Yamila Moreno
+- David Barragán
+- Maria Antonia
+
+
+1. Aprobación acta reunión Junta anterior.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Se aprueba por unanimidad.
+
+
+2. Aceleración proceso alta nuevos socios.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Se acuerda que la aprobación de socios se haga directamente entre Secretaría y Tesorería cuando se compruebe que la persona ha pagado. También quedarán en acta en las reuniones de Junta.
+
+Tareas:
+
+- Raúl y Marcos actualizarán la wiki detallando el proceso
+- Raúl y Marcos revisarán dónde llegan los correos de alta@es…. 
+
+
+3. Aprobación de nuevos socios.
+^^^^^^^^^^^^^^^^^^^^
+No hay nuevos socios.
+
+
+4. Alta de registro de socios como base de datos de cara a LOPD.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Se discute si es necesario dar de alta el fichero de datos de socios de cara a la LOPD. Se acuerda preguntar a la asesoría y, en caso afirmativo, darlo de alta una vez hayamos decidido si mantener el sistema actual (enviar un e-mail) o utilizar un formulario.
+
+
+5. Estado traspaso poderes de la Junta. Inscripción en el RNA.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Marcos está recopilando todas las firmas de la gente de la Junta entrante y saliente y las enviará a la gestoría una vez estén todas las posibles.
+
+Una vez el trámite anterior esté realizado:
+
+- Israel tramitará conseguir la firma electrónica de representante.
+- Se cambiarán los apoderados en el banco.
+
+
+6. Propuesta documento ayuda comunidades locales.
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+Se presenta un documento donde se describen diferentes formas en las que Python España puede ayudar a las comunidades locales, condiciones y procedimientos.
+
+Se aprueba con las siguientes propuestas de modificaciones significativas:
+
+- Python España sí podrá contribuir económicamente a eventos:
+
+  - Hasta un monto de 200€/anuales por comunidad local, se podrá aprobar directamente por Tesorería. 
+  - Si supera este monto, se requerirá aprobación por parte de la Junta.
+- La difusión de eventos relacionados no requerirá petición de aprobación por parte de la Junta, sino que será suficiente contactar a las personas encargadas de la difusión en la Asociación por redes sociales (TWitter).
+
+Tareas:
+
+- Marcos añadirá dos o tres ejemplos de conceptos que la Asociación ya ha financiado, para que sirvan de referencia.
+- Maria Antònia revisará el documento y generará la redacción final.
+- Israel y David harán pública esta información a través de los canales de información: Discourse, web, Twitter y Telegram.
+- Marcos preparará unos presupuestos anuales de la asociación que faciliten el seguimiento de las ayudas económicas.
+
+
+7. Seguro de responsabilidad civil.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Se explica que ya disponemos de presupuestos de un par de aseguradoras, que enviaron a la Junta anterior, aunque pueden no ser válidos ya. Se expone que, dependiendo de la comunidad autónoma y aforo, legalmente se necesita un capital asegurado diferente. Se plantea que quizá lo más razonable es coger un seguro que vale para toda España para eventos de unas 300 personas, y contratar uno exclusivo para la PyConES (ajustándonos a las normas de la comunidad donde se celebre).
+
+Se plantea la posibilidad de que el seguro de la Universidad donde se celebra la PyConES ya conceda cobertura, pero no está claro.
+
+Tareas:
+
+- David indagará si la Universidad donde se celebrará la PyConES pondrá su propio seguro de RC.
+- Israel pedirá de nuevo presupuestos a las anteriores aseguradoras y presentará una propuesta para su aprobación en la próxima reunión de Junta.
+
+
+8. Estado de la PyConES.
+^^^^^^^^^^^^^^^^^^^^^
+Se expone que el Call for Proposals ya está abierto y que se ha iniciado el contacto con patrocinadores y posibles keynoters.
+
+David explica que hay una implicación desigual de cada persona del grupo de trabajo. Plantea que es necesaria más gente con involucración activa para que se responsabilice de grandes bloques de tareas de la organización, trabajando de forma proactiva y no únicamente reactiva. Es decir, más gente realmente involucrada antes que recursos puntuales para tareas concretas.
+
+Algunos bloques que podrían requerir ayuda:
+
+- Búsqueda de keynoters.
+- Gestión de becas de la PSF.
+- Voluntariado para la revisión y selección del Call for Proposals.
+- Web.
+ 
+Se decide esperar a ver la evolución actual del grupo en las próximas semanas antes de pedir más ayuda abiertamente.
+
+Se comenta la posibilidad de valorar repetir la celebración de la PyConES en una misma ciudad durante dos años consecutivos para aprovechar recursos experiencias. Se decide que se tratará este tema más adelante en el Grupo de Trabajo PyConES.
+
+Tareas:
+
+- Yamila hablará con Kaleidos para ver si pueden ayudar con la web.
+- David enviará la convocatoria de reunión del grupo de preparación de la PyConESGRX a toda la Junta, por si pueden ayudar. La siguiente reunión será el 16/03.
+- Israel y David comenzarán la redacción del documento de llamada a sedes para PyConES 2021, con la idea de publicarlo a finales de marzo/abril y dejar más tiempo de interacción con los equipos de las diferentes candidaturas.
+
+
+9. Activación de la figura de miembro.
+^^^^^^^^^^^^^^^^^^^^^
+Se plantea la prioridad de comenzar a activar la figura de miembro, que se fijó como uno de los objetivos de la Junta actual.
+
+Tareas:
+
+- Xavi creará un hilo en la lista de correo para discutir cómo llevar y dinamizar esto. 
+
+
+10. Grupos de trabajo.
+^^^^^^^^^^^^^^^^^^^^^
+Israel expone una propuesta de grupos de trabajo que comenzar a montar, con algunas ideas de tareas que podrían desarrollar. Se acuerda la creación de los siguientes:
+
+- Infraestructura. Lidera Yamila. Posibles participantes: Edu Herraiz, Xavi, Marcos, Jesús C.
+- Comunicación externa/interna. Lidera David. Posibles participantes: Isra, Xavi, Jesús C.
+- Relación con comunidades locales. Lidera Xavi. Posibles participantes: Maria Antònia.
+- Diversidad. Lidera Maria Antònia. Posibles participantes: Xavi, Yamila, Raúl.
+
+Tareas:
+
+- Por cada grupo de trabajo, la persona que lo lidera se encargará de fijar sus objetivos y su hoja de ruta, por ejemplo, con una reunión con las personas interesadas.
+- David pedirá a Jesús C. la transferencia de la propiedad de la cuenta de Twitter de la asociación.
+
+
+11. Buzones de correo electrónico.
+^^^^^^^^^^^^^^^^^^^^^
+Se explican los avances en la gestión de los buzones de e-mail: mejoras para evitar que los correos salientes se consideren SPAM y nuevo límite de tamaño para archivos adjuntos.
+
+Se acuerda:
+
+- Activar el protocolo POP3 para los buzones, para que se puedan consumir desde servicios de terceros que no admiten IMAP, tales como GMail o Discourse.
+- Traspasar vocalia@... a las personas de vocalía de la Junta entrante
+- Asegurarnos de que vocalia@... forme parte de contacto@..., para que todo el mundo reciba los mails que llegan a este buzón.
+
+Tareas:
+
+- Xavi se encargará de pedir a Jesús C. lo anterior.
+
+
+12. Inventario de servicios.
+^^^^^^^^^^^^^^^^^^^^^
+Se presenta un documento donde se ha comenzado un inventario de los servicios actuales de la asociación, de cara a saber qué tenemos disponible para tomar decisiones de qué herramientas utilizar en el futuro.
+
+Tareas:
+
+- Todo el mundo revisará el inventario y añadirá lo que crea conveniente.
+
+
+13. Uso Telegram/lista correo/issues GH/Discourse.
+^^^^^^^^^^^^^^^^^^^^^
+Se plantea que se ha discutido por la lista de correo y por una conversación en GitHub algunas propuestas de herramientas de comunicación interna/externa y gestión de tareas. No obstante, no toda la Junta ha participado de momento en la conversación.
+
+Tareas para cuando tengamos el anterior "inventario de servidios" más avanzado:
+
+- Xavi dinamizará el hilo de la lista de correo sobre herramientas, para que podamos tener varias propuestas
+- Xavi buscará una fecha para un monográfico sobre este tema, si se ve necesario.
+
+-------------------------------------------
+
+Sin nada más que añadir se cierra la reunión de la Junta a las 21:20 horas.
+
+El secretario,
+Raúl Cumplido
