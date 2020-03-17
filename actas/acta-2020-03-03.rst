@@ -1,7 +1,7 @@
 Acta Junta Python España 3 de Marzo de 2020
 =====================================================
 
-En la ciudad de Barcelona, Madrid, Valencia y Ordino siendo las 18:30 horas del 11 de febrero de 2020 y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+En la ciudad de Barcelona, Madrid, Valencia, Sineu y Ordino siendo las 19:00 horas del 3 de marzo de 2020 y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
 
 Orden del día
 ~~~~~~~~~~~~~
@@ -45,7 +45,7 @@ Se acuerda que la aprobación de socios se haga directamente entre Secretaría y
 Tareas:
 
 - Raúl y Marcos actualizarán la wiki detallando el proceso
-- Raúl y marcos revisarán dónde llegan los correos de alta@es…. 
+- Raúl y Marcos revisarán dónde llegan los correos de alta@es…. 
 
 
 3. Aprobación de nuevos socios.
