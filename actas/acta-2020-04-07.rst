@@ -17,6 +17,7 @@ Orden del día
 -------------------------------------------
 
 Asisten los miembros de la Junta Directiva por medios telemáticos:
+
 - Xavi Torelló
 - Marcos Gabarda
 - Raul Cumplido
@@ -61,6 +62,7 @@ Tareas:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Después de varios meses trabajando la nueva junta ha encontrado los siguientes problemas con la gestión actual
 de la infraestructura:
+
 - Gestión dependiente una única persona.
 - Tareas que debido a falta de disponibilidad se retrasan. (ejemplo: mails de alta@ llegan a cuentas personales)
 - Infraestructura en máquinas privadas a las que no se tiene acceso.
