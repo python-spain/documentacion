@@ -1,0 +1,112 @@
+Acta Junta Python España 7 de Abril de 2020
+=====================================================
+
+En la ciudad de Barcelona, Madrid, Valencia, Sineu y Ordino siendo las 19:00 horas del 7 de abril de 2020
+y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Aprobación contratación seguro Responsabilidad Civil anual.
+2. Propuesta dinamización figura miembro.
+3. Propuesta de mover servicios de mail y DNS bajo control de la asociación accesible
+   por múltiples personas.
+4. Revisión objetivos JD e iniciativas.
+5. Ruegos y preguntas.
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Xavi Torelló
+- Marcos Gabarda
+- Raul Cumplido
+- Israel Saeta
+- Yamila Moreno
+- David Barragán
+- Maria Antonia
+
+
+1. Aprobación contratación seguro Responsabilidad Civil anual.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Desde la Junta anterior se contactó con las corredoras de seguros Seryes y Arç cooperativa.
+Ambas están ligadas a proyectos de seguros solidarios. 
+El presidente contactó con las dos, pero sólo ha obtenido respuestas de Arç cooperativa.
+La Junta discute los precios y las coberturas. El presidente preguntará a la corredora de seguros
+sobre como poder utilizar el seguro de responsabilidad civil en eventos organizados por
+las diferentes comunidades locales.
+Se aprueba por unanimidad una vez resueltas las dudas esperar al levantamiento del confinamiento
+para realizar la contratación.
+
+
+2. Propuesta dinamización figura miembro.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+La figura de miembro se aprobó en la última Asamblea General con el cambio de estatutos.
+Se han realizado varias propuestas sobre como dinamizar y atraer miembros.
+Entre ellas:
+
+- Abrir discourse para que sea accesible por miembros. Se discute si se debería ser totalmente abierto.
+- Se discute crear una página para que nuevos miembros puedan inscribirse y darse de baja.
+  Dando consentimiento expreso para recibir notificaciones de la asociación.
+- Queremos tener una forma de que la gente se inscriba.
+  Se discute reutilizar el formulario de alta de socios para darse de alta de miembros.
+
+Tareas:
+
+- David comprobará si podemos usar un formulario para inscribir socios y miembros en la web.
+  Ver si este formulario se puede conectar con listas de mailchimp o la app de socios.
+  Marcos colaborará en el proceso.
+
+
+3. Propuesta de mover servicios de mail y DNS bajo control de la asociación accesible por múltiples personas.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Después de varios meses trabajando la nueva junta ha encontrado los siguientes problemas con la gestión actual
+de la infraestructura:
+
+- Gestión dependiente una única persona.
+- Tareas que debido a falta de disponibilidad se retrasan. (ejemplo: mails de alta@ llegan a cuentas personales)
+- Infraestructura en máquinas privadas a las que no se tiene acceso.
+
+La junta acuerda que la gestión del email, el DNS y la cuenta de Twitter deberían formar parte de los grupos
+de trabajo de Infraestructura y comunicaciones respectivamente.
+Se discute que se deberían realizar copias de seguridad de Listas de correo anteriores para la migración.
+
+Tareas:
+
+- David intenta que se cambie el email de Twitter a su cuenta personal hasta que tengamos el email gestionado
+  por el grupo de trabajo de Infraestructura en el que se utilizará comunicaciones@es.python.org
+- Xavi habla con Jesús para comentarle que el grupo de trabajo de Infraestructura va a hacerse cargo de
+  la gestión y deberá haber una migración.
+- Yamila trata de hacer una propuesta para transición a servicios gestionados por la asociación de DNS y correo.
+
+
+
+4. Revisión objetivos JD e iniciativas.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+En la candidatura se propusieron unos objetivos de Junta se propone hacer un seguimiento de los mismos.
+Se propone crear un calendario con hitos sobre objetivos propuestos en la candidatura para poder hacer
+seguimiento de los mismos y no perder de vista los objetivos.
+Se propone realizar una reunión excepcional para crear ese calendario. La fecha de la reunión propuesta
+es el día 21 de Abril a las 19:00h.
+
+
+
+5. Ruegos y preguntas.
+^^^^^^^^^^^^^^^^^^^^^^
+- Raúl pregunta por el estado de la transición y el registro de la junta en el registro de asociaciones.
+Debido al estado de alarma los procedimientos administrativos se encuentran parados.
+El cambio de Junta está presentado pero en espera.
+
+- Israel pregunta por requisitos de registro por posesión de datos de socios debido a LOPD.
+Raúl enviará un email a la gestoría para preguntar sobre el tema.
+
+- Se pregunta por el estado del documento de ayuda a las comunidades locales.
+Se acuerda que toda la Junta revisará el documento para aprobar y poder comunicar a socios en la siguiente reunión de junta.
+Antonia, Yamila y Marcos se encargan de añadir algunos ejemplos de ocasiones en las que Python España ha colaborado con las
+comunidades locales a este documento.
+
+
+Sin nada más que añadir se cierra la reunión de la Junta a las 20:50 horas.
+
+El secretario,
+Raúl Cumplido
