@@ -12,7 +12,7 @@ Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nue
 
 * Demostrar empatía y amabilidad ante otras personas
 * Respeto a diferentes opiniones, puntos de vista y experiencias
-* Dar y aceptar adecuadamente retroalimentación constructiva
+* Dar y aceptar adecuadamente críticas constructivas
 * Aceptar la responsabilidad y disculparse ante quienes se vean afectados por nuestros errores, aprendiendo de la experiencia
 * Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad en general
 
@@ -28,9 +28,9 @@ Ejemplos de comportamiento inaceptable:
 * Otras conductas que puedan ser razonablemente consideradas como inapropiadas en un
   entorno profesional
 
-## Aplicación de las responsabilidades
+## Cumplimiento
 
-La administración de la comunidad es responsable de aclarar y hacer cumplir nuestros estándares de comportamiento aceptable y tomarán acciones apropiadas y correctivas de forma justa en respuesta a cualquier comportamiento que consideren inapropiado, amenazante, ofensivo o dañino.
+La administración de la comunidad es responsable de aclarar y hacer cumplir nuestros estándares de comportamiento aceptable y tomará acciones apropiadas y correctivas de forma justa en respuesta a cualquier comportamiento que consideren inapropiado, amenazante, ofensivo o dañino.
 
 La administración de la comunidad tendrá el derecho y la responsabilidad de eliminar, editar o rechazar mensajes, comentarios, _commits_, código, ediciones de páginas de wiki, tickets y otras contribuciones que no se alineen con este código de conducta, y comunicará las razones para sus decisiones de moderación cuando sea apropiado.
 
@@ -40,19 +40,19 @@ Así mismo, la administración tendrá el derecho a expulsar temporal o permanen
 
 Este código de conducta es aplicable a todas las personas que participen en espacios de la comunidad de Python España, ya sean en línea o presenciales. También se aplica a espacios públicos donde una persona esté en representación de la comunidad. Ejemplos de esto último incluyen el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos en línea o no.
 
-## Aplicación
+## Denuncia
 
-Los casos de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser reportados a las personas administradoras de la comunidad responsables del cumplimiento:
+Los casos de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser denunciados a las personas administradoras de la comunidad responsables del cumplimiento:
 
-* Si es un evento presencial, ponte en contacto directamente con las personas organizadoras del evento.
+* Si es un evento presencial, ponte en contacto directamente con las personas organizadoras del evento. Es muy probable que hayan publicando un código de conducta específico del evento con instrucciones de a quién acudir; te proporcionarán un espacio seguro para ayudarte.
 * Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio.
-  * En el foro de Discourse puedes reportar publicaciones individuales o contactar con el [grupo de moderadores](https://comunidad.es.python.org/groups/moderadores).
+  * En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el [grupo de moderadores](https://comunidad.es.python.org/groups/moderadores).
   * En Telegram, a la persona propietaria del grupo u otras administradoras.
 * Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en [contacto@es.python.org](mailto:contacto@es.python.org).
 
-Todas las quejas serán evaluadas e investigadas de una manera puntual y justa.
+Todas las denuncias serán evaluadas e investigadas de una manera puntual y justa.
 
-Todas las personas administradoras de la comunidad están obligadas a respetar la privacidad y la seguridad de quienes reporten incidentes.
+Todas las personas administradoras de la comunidad están obligadas a respetar la privacidad y la seguridad de quienes denuncien incidentes.
 
 ## Atribución
 
