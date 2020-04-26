@@ -26,12 +26,12 @@ Nuestros estándares
 Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nuestra comunidad:
 
 * Demostrar empatía y amabilidad ante otras personas. No insultes o humilles a otros asistentes. Recuerda que las bromas sexistas, racistas o discriminatorias no son apropiadas. Nunca lo son
-* Respeto a diferentes opiniones, puntos de vista y experiencias
+* Respetar las diferentes opiniones, puntos de vista y experiencias
 * Dar y aceptar adecuadamente críticas constructivas
 * Aceptar la responsabilidad y disculparse ante quienes se vean afectados por nuestros errores, aprendiendo de la experiencia
 * Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad en general
-* Usa un lenguaje inclusivo y que de cabida a una audiencia diversa
-* Presta especial atención a las personas que recién llegan a la comunidad
+* Usar un lenguaje inclusivo y que dé cabida a una audiencia diversa
+* Prestar especial atención a las personas que recién llegan a la comunidad
 
 Ejemplos de comportamiento inaceptable:
 
