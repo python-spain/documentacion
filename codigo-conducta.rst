@@ -1,112 +1,75 @@
 Código de conducta
 ==================
 
-{{ evento }} es una conferencia de comunidad pensada para la comunicación y la
-colaboración dentro de la comunidad de desarrolladores.
+Python España, como asociación en torno a la que se organizan eventos de distintos tipos, quiere asegurar que todas las personas que participen en dichos eventos o comunicaciones tengan una experiencia profesional y positiva de aprendizaje, colaboración u ocio. Para ello, se espera que quien participe en la comunidad muestre respeto y cortesía hacia el resto.
 
-Valoramos la participación de cada miembro de la comunidad Python y queremos
-que todos los asistentes tengan una experiencia entretenida y satisfactoria.
-Para ello, se espera que todos los asistentes muestren respeto y cortesía
-hacia el resto durante la conferencia y todos los eventos relacionados con
-ella, estén oficialmente hospedados por {{ evento }} o no.
+Al participar en la comunidad de Python España, te comprometes a fomentar una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, minusvalía visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual.
 
-Para aclarar lo que se espera, todos los delegados, conferenciantes,
-expositores y voluntarios en cualquier evento de {{ evento }} deberán aceptar
-el siguiente Código de Conducta. Los organizadores cuidarán el cumplimiento de
-este código durante el evento.
+Este Código de Conducta detalla qué comportamientos se esperan, cuáles se rechazan y qué mecanismos hay para ayudar a una persona que esté siendo objeto de comportamientos inadecuados.
 
-Código de conducta
-------------------
+¿Por qué un código de conducta?
+-------------------------------
 
-{{ evento }} tiene como misión proporcionar una experiencia en la conferencia
-libre de acoso o discriminación para todos, sin distinción de género,
-orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia
-o religión. No se tolerará la discriminación de los participantes de la
-conferencia de ninguna forma.
+Siguiendo con el zen de Python, *explícito mejor que implícito*. Explicitar qué se espera del ambiente en cualquier evento de Python España:
 
-Todo el contenido debería ser el apropiado para una audiencia profesional
-incluyendo a personas procedentes de diferentes sectores. El lenguaje y las
-imágenes de contenido sexual no son apropiados para la conferencia, incluyendo
-las charlas.
+- favorece que más personas sepan que son bienvenidas
+- evita ambigüedades
+- construye un clima de confianza, donde si alguien quiere reportar un incidente, sabrá que no empezaremos por cuestionarle (*victim blaming*).
 
-Sé amable con los demás. No insultes o humilles a otros asistentes. Compórtate
-de manera profesional. Recuerda que las bromas sexistas, racistas o
-discriminatorias no son apropiadas para {{ evento }}.
+Alcance
+--------
+Este código de conducta es aplicable a todas las personas que participen en espacios de la comunidad de Python España, ya sean en línea o presenciales. También se aplica a espacios públicos donde una persona esté en representación de la comunidad. Ejemplos de esto último incluyen el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos en línea o no.
+ 
+Nuestro estándares
+-------------------
 
-Los asistentes que incumplan estas reglas podrán ser sancionados o se les
-podrá pedir que abandonen la conferencia sin derecho a reembolso a discreción
-de los organizadores.
+Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nuestra comunidad:
 
-Por acoso se entiende comentarios ofensivos relacionados con género,
-orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia o
-religión, pornografía en espacios públicos, intimidación deliberada, acecho,
-persecución, acoso por fotografías o grabaciones, constante interrupción de
-charlas u otros eventos, contacto físico inapropiado y atención sexual
-no deseada.
+* Demostrar empatía y amabilidad ante otras personas. No insultes o humilles a otros asistentes. Recuerda que las bromas sexistas, racistas o discriminatorias no son apropiadas. Nunca lo son
+* Respeto a diferentes opiniones, puntos de vista y experiencias
+* Dar y aceptar adecuadamente críticas constructivas
+* Aceptar la responsabilidad y disculparse ante quienes se vean afectados por nuestros errores, aprendiendo de la experiencia
+* Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad en general
+* Usa un lenguaje inclusivo y que de cabida a una audiencia diversa
+* Presta especial atención a las personas que recién llegan a la comunidad
 
-Los participantes que sean apercibidos por acoso deberán abstenerse de
-continuar inmediatamente.
+Ejemplos de comportamiento inaceptable:
 
-Los expositores, las casetas o pabellones de patrocinadores o empresas y
-actividades similares también están sujetas a la política antiacoso. En
-particular, los expositores no deberían utilizar material o llevar a cabo
-actividades sexistas. El personal de las casetas (incluyendo voluntarios) no
-deberían utilizar uniformes o vestimentas sexistas, puesto que se crearía un
-ambiente sexualizado.
+* El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo
+* Comentarios despectivos (_trolling_), insultantes o derogatorios, y ataques personales o políticos
+* Bromas racistas, sexistas o excluyentes
+* El acoso en público o privado
+* Publicar información privada de otras personas, tales como direcciones físicas o de correo
+  electrónico, sin su permiso explícito
+* Otras conductas que puedan ser razonablemente consideradas como inapropiadas en un
+  entorno profesional
 
-Sé cuidadoso al seleccionar las palabras. Recuerda que las bromas sexistas,
-racistas y excluyentes en general pueden ser ofensivas para los demás. El
-exceso de palabras malsonantes o bromas ofensivas no son apropiados para
-{{ evento }}.
+Por acoso se entiende comentarios ofensivos relacionados con género, orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia o religión, pornografía en espacios públicos, intimidación deliberada, acecho, persecución, acoso por fotografías o grabaciones, constante interrupción de charlas u otros eventos, contacto físico inapropiado y atención sexual no deseada.
 
-Si un participante se comportara de forma que violase este Código de Conducta,
-los organizadores de la conferencia podrán tomar las medidas que ellos
-consideren adecuadas, incluyendo el apercibimiento o expulsión sin derecho a
-reembolso.
+Cumplimiento
+-------------
 
-Información de contacto
------------------------
+La administración de la comunidad es responsable de aclarar y hacer cumplir este código de conducta; en caso de que se determine un comportamiento inadecuado, tomará las acciones que considere oportunas. Éstan van desde exigir el cese del comportamiento, hasta la expulsión de una persona de la Asociación.
 
-Si estás siendo objeto de acoso, notas que alguien está siendo acosado, o
-tienes cualquier otra preocupación, por favor ponte en contacto con un miembro
-del personal de la conferencia. El personal de la conferencia vestirá camisetas
-con la inscripción «Personal {{ evento }}». Además puedes hablar con el
-personal del lugar y pedir que se te ponga en contacto con el responsable de la
-conferencia - {{ responsable }}.
+La administración de la comunidad tendrá el derecho y la responsabilidad de eliminar, editar o rechazar mensajes, comentarios, _commits_, código, ediciones de páginas de wiki, tickets y otras contribuciones que no se alineen con este código de conducta, y comunicará las razones para sus decisiones de moderación cuando sea apropiado.
 
-{# Opcional } Si el asunto es especialmente urgente, por favor contacta con
-cualquiera de estas personas:
-
-{# Lista de personas de contacto, incluyendo el responsable, con números de
-teléfono }
-
-El personal de la conferencia ayudará con gusto a los participantes para que se
-pongan en contacto con el personal de seguridad del lugar o la policía local,
-proporcionar custodia, o de alguna manera asistir a aquellos que sean objeto de
-acoso para puedan sentirse seguros mientras dure la conferencia. Nosotros
-valoramos tu asistencia.
-
-Gracias por hacer de este un evento abierto a la comunidad y amistoso.
-
-Procedimientos para casos de acoso
+Denuncia e información de contacto
 ----------------------------------
 
-* Procedimiento para los asistentes {{ url }}
-* Procedimiento para el personal {{ url }}
+Los casos de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser denunciados a las personas administradoras de la comunidad responsables del cumplimiento:
 
-Licencia
---------
+* Si es un evento presencial, ponte en contacto directamente con las personas organizadoras del evento. Es muy probable que hayan publicando un código de conducta específico del evento con instrucciones de a quién acudir; te proporcionarán un espacio seguro para ayudarte.
+* Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio.
+  * En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el [grupo de moderadores](https://comunidad.es.python.org/groups/moderadores).
+  * En Telegram, a la persona propietaria del grupo u otras administradoras.
+* Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en [contacto@es.python.org](mailto:contacto@es.python.org).
 
+Todas las personas administradoras de la comunidad están obligadas a respetar la privacidad y la seguridad de quienes denuncien incidentes.
 
-Este Código de Conducta se basa en los códigos de conducta de PyCon US 2013
-(https://us.pycon.org/2013/about/code-of-conduct/) y PyConAr 2012
-(http://ar.pycon.org/2012/conference/diversity/), y está disponible bajo una
-`licencia Creative Commons Atribución 3.0 España`__.
+Atribución
+----------
 
-.. image:: cc_by88x31.png
-   :alt: Licencia Creative Commons
-   :align: center
+Este código de conducta extiende el ya existente con aportaciones de otros códigos:
 
-.. _licencia: http://creativecommons.org/licenses/by/3.0/es/deed.es
-
-__ licencia_
+- la versión en español del [Contributor Covenant][homepage], versión 2.0, disponible en https://www.contributor-covenant.org/es/version/2/0/code_of_conduct/ [homepage]: https://www.contributor-covenant.org
+- el código de conducta de [DjangoCon Europe 2020](https://2020.djangocon.eu/conduct/code_of_conduct/) 
