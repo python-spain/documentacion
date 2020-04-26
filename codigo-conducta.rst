@@ -20,7 +20,7 @@ Alcance
 --------
 Este código de conducta es aplicable a todas las personas que participen en espacios de la comunidad de Python España, ya sean en línea o presenciales. También se aplica a espacios públicos donde una persona esté en representación de la comunidad. Ejemplos de esto último incluyen el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos en línea o no.
  
-Nuestro estándares
+Nuestros estándares
 -------------------
 
 Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nuestra comunidad:
