@@ -3,7 +3,7 @@ Código de conducta
 
 Python España, como asociación en torno a la que se organizan eventos de distintos tipos, quiere asegurar que todas las personas que participen en dichos eventos o comunicaciones tengan una experiencia profesional y positiva de aprendizaje, colaboración u ocio. Para ello, se espera que quien participe en la comunidad muestre respeto y cortesía hacia el resto.
 
-Al participar en la comunidad de Python España, te comprometes a fomentar una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, minusvalía visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual.
+Al participar en la comunidad de Python España, te comprometes a fomentar una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, discapacidad visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual.
 
 Este Código de Conducta detalla qué comportamientos se esperan, cuáles se rechazan y qué mecanismos hay para ayudar a una persona que esté siendo objeto de comportamientos inadecuados.
 
