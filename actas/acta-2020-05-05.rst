@@ -84,7 +84,7 @@ Tareas:
 - Isra se encarga de difusión de el reglamento en Telegram de Socios.
 - Xavi se encarga de difusión en Discourse.
 - David se encarga de difusión en Web y Twitter.
-- Maria Antonia se encarga de subir el nuevo reglament a Github.
+- Maria Antonia se encarga de subir el nuevo reglamento a Github.
 
 
 6. Revisión propuestas con más apoyo y asignación de líderes.
@@ -101,7 +101,7 @@ Se decide lo siguiente:
 
 7. Ruegos y preguntas.
 ^^^^^^^^^^^^^^^^^^^^^^
-Sin Ruegos ni preguntas.
+Sin ruegos ni preguntas.
 
 
 Sin nada más que añadir se cierra la reunión de la Junta a las 21:10 horas.
