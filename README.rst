@@ -6,7 +6,7 @@ En este repositorio se ecuentran la documentación de la asociación Python Espa
 
 **actas/**
   Actas de las reuniones de las juntas y asambleas que se han celebrado hasta la fecha.
-**dodigo_de_conducta.rst**
+**codigo_conducta.rst**
   Código de conducta de la asociación
 **estatutos.rst**
   Estatutos de la asociación
