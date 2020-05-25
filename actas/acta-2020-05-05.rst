@@ -19,12 +19,12 @@ Orden del día
 
 Asisten los miembros de la Junta Directiva por medios telemáticos:
 
-- Xavi Torelló
-- Marcos Gabarda
-- Raúl Cumplido
-- Israel Saeta
-- Yamila Moreno
-- David Barragán
+- Xavi Torelló (@XaviTorello)
+- Marcos Gabarda (@marcosgabarda)
+- Raúl Cumplido (@raulcd)
+- Israel Saeta (@dukebody)
+- Yamila Moreno (@yamila-moreno)
+- David Barragán (@bameda)
 
 
 1. Raṕida revisión de tareas anteriores.
@@ -44,7 +44,7 @@ La Junta aprueba por unanimidad adherirse a la campaña propuesta en discourse.
 Tareas:
 
 - El grupo de trabajo de comunicación se encargará de darle visibilidad.
-- Isra se encarga de contactar con la campaña.
+- @dukebody se encarga de contactar con la campaña.
 
 
 3. Código de conducta comunidad Python España.
@@ -54,9 +54,9 @@ Se aprueba por unanimidad el nuevo código de conducta.
 
 Tareas:
 
-- Isra cambiará o añadirá en Telegram el nuevo código de conducta
-- Xavi se encargará de Discourse
-- David se encargará de la Web y Twitter
+- @dukebody cambiará o añadirá en Telegram el nuevo código de conducta
+- @XaviTorello se encargará de Discourse
+- @bameda se encargará de la Web y Twitter
 
 
 4. Gestiones necesarias para LOPD/RGPD, pasos a seguir.
@@ -71,8 +71,8 @@ Después de la comunicación con la gestoría la Junta decide:
 
 Tareas:
 
-- Yamila enviará información sobre experiencias previas a Raúl.
-- Raúl investiga más sobre requisitos y necesidades.
+- @yamila-moreno enviará información sobre experiencias previas a Raúl.
+- @raulcd investiga más sobre requisitos y necesidades.
 
 
 5. Aprobación reglamento apoyo a comunidades locales.
@@ -81,10 +81,10 @@ La Junta aprueba el nuevo reglamento por unanimidad.
 
 Tareas:
 
-- Isra se encarga de difusión de el reglamento en Telegram de Socios.
-- Xavi se encarga de difusión en Discourse.
-- David se encarga de difusión en Web y Twitter.
-- Maria Antonia se encarga de subir el nuevo reglamento a Github.
+- @dukebody se encarga de difusión de el reglamento en Telegram de Socios.
+- @XaviTorello se encarga de difusión en Discourse.
+- @bameda se encarga de difusión en Web y Twitter.
+- @atugores se encarga de subir el nuevo reglamento a Github.
 
 
 6. Revisión propuestas con más apoyo y asignación de líderes.
