@@ -5,16 +5,19 @@ REGLAMENTO PARA EL APOYO DE PYTHON ESPAÑA A EVENTOS PROMOVIDOS POR GRUPO DE PER
 
 **Artículo 2** El apoyo al evento se podrá dar de las siguientes maneras:
 
-a. Difusión del evento en los canales oficiales de la Asociación
-b. Utilización del CIF y el nombre de la Asociación cuando se requiera la identificación como persona jurídica delante de terceros (administraciones públicas, por ejemplo) ``[*]``
-c. Emisión de facturas desde la Asociación para recibir patrocinios del evento, uso de la cuenta bancaria de la Asociación para recibir donaciones finalistas para el evento y realizar pagos de gastos del evento con el uso del CIF de la Asociación en las facturas de terceros ``[*]``
-d. Pago de la cuota de Meetup a través de la Red Pro de la Python Software Foundation
-e. Kit de merchandising para el evento o grupos de eventos ``[*]``
-f. Seguro de Responsabilidad Civil ``[*]``
-g. Contribución económica ``[*]``
-h. Ayuda en la búsqueda de colaboradores (miembros/socios) así como creación de Grupos de Trabajo si la magnitud del evento lo requiere
+1. Difusión del evento en los canales oficiales de la Asociación
+2. Utilización del CIF y el nombre de la Asociación cuando se requiera la identificación como persona jurídica delante de terceros (administraciones públicas, por ejemplo) ``[*]``
+3. Emisión de facturas desde la Asociación para recibir patrocinios del evento, uso de la cuenta bancaria de la Asociación para recibir donaciones finalistas para el evento y realizar pagos de gastos del evento con el uso del CIF de la Asociación en las facturas de terceros ``[*]``
+4. Pago de la cuota de Meetup a través de la Red Pro de la Python Software Foundation
+5. Kit de merchandising para el evento o grupos de eventos ``[**]``
+6. Seguro de Responsabilidad Civil ``[*]``
+7. Contribución económica ``[**]``
+8. Ayuda en la búsqueda de colaboradores (miembros/socios) así como creación de Grupos de Trabajo si la magnitud del evento lo requiere
 
-``[*] (b, c, e, f, g) - Python España debería aparecer como organizadora o co-organizadora del evento.``
+``[*] (2, 3, 6) - Python España debería aparecer como organizadora o co-organizadora del evento.``  
+
+``[**] (5, 7) - Python España debería aparecer como patrocinadora o colaboradora del evento.``  
+
 
 **Artículo 3** El evento deberá estar relacionado con la comunidad de Python, deberá contar con al menos una socia de la Asociación Python España en su organización y en el evento deberá regirse por el código de conducta aprobado en Python España o uno compatible con el mismo adaptado al evento en particular.
 
