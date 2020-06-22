@@ -1,0 +1,118 @@
+Acta Junta Python España 5 de Mayo de 2020
+=====================================================
+
+En la ciudad de Barcelona, Madrid, Valencia y Ordino siendo las 19:00 horas del 5 de Mayo de 2020
+y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Raṕida revisión de tareas anteriores.
+2. Adhesión a la campaña FSF "Public Money, Public Code".
+3. Código de conducta comunidad Python España.
+4. Gestiones necesarias para LOPD/RGPD, pasos a seguir.
+5. Aprobación reglamento apoyo a comunidades locales.
+6. Revisión propuestas con más apoyo y asignación de líderes.
+7. Ruegos y preguntas.
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Xavi Torelló XaviTorello_
+- Marcos Gabarda marcosgabarda_
+- Raúl Cumplido raulcd_
+- Israel Saeta dukebody_
+- Yamila Moreno yamila-moreno_
+- David Barragán bameda_
+
+
+1. Raṕida revisión de tareas anteriores.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Se realiza una revisión rápida de las tareas realizadas por la Junta sobre el acta anterior.
+A destacar:
+
+- Dudas sobre el seguro de responsabilidad civil resueltas.
+- Cambio de email de cuenta de Twitter.
+- Grupo de trabajo de infraestructura trabajando en propuestas.
+
+
+2. Adhesión a la campaña FSF "Public Money, Public Code".
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+La Junta aprueba por unanimidad adherirse a la campaña propuesta en discourse.
+
+Tareas:
+
+- El grupo de trabajo de comunicación se encargará de darle visibilidad.
+- dukebody_ se encarga de contactar con la campaña.
+
+
+3. Código de conducta comunidad Python España.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Se revisan las propuestas realizadas sobre los nuevos códigos de conducta.
+Se aprueba por unanimidad el nuevo código de conducta.
+
+Tareas:
+
+- dukebody_ cambiará o añadirá en Telegram el nuevo código de conducta
+- XaviTorello_ se encargará de Discourse
+- bameda_ se encargará de la Web y Twitter
+
+
+4. Gestiones necesarias para LOPD/RGPD, pasos a seguir.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Después de la comunicación con la gestoría la Junta decide:
+
+- Seguir investigando las acciones necesarias para cubrir con la legalidad vigente en materia
+  de protección de datos.
+- Anotamos el servicio propuesto por la Asesoría pero de momento no encargamos un estudio,
+  se decide seguir trabajando en ello.
+- La Junta priorizará las tareas relacionadas.
+
+Tareas:
+
+- yamila-moreno_ enviará información sobre experiencias previas a Raúl.
+- raulcd_ investiga más sobre requisitos y necesidades.
+
+
+5. Aprobación reglamento apoyo a comunidades locales.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+La Junta aprueba el nuevo reglamento por unanimidad.
+
+Tareas:
+
+- dukebody_ se encarga de difusión de el reglamento en Telegram de Socios.
+- XaviTorello_ se encarga de difusión en Discourse.
+- bameda_ se encarga de difusión en Web y Twitter.
+- atugores_ se encarga de subir el nuevo reglamento a Github.
+
+
+6. Revisión propuestas con más apoyo y asignación de líderes.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Se decide lo siguiente:
+
+- Se realizará de forma asíncrona.
+- Cada una de nosotras nos autoasignamos en las issues que se hayan priorizado para liderarlas.
+- Mejor trabajar en pocas tareas pero con un compromiso firme.
+- Si hay más de una persona resolvemos / balanceamos en la siguiente Junta.
+- Se validará el trabajo realizado en la próxima reunión de Junta.
+
+
+
+7. Ruegos y preguntas.
+^^^^^^^^^^^^^^^^^^^^^^
+Sin ruegos ni preguntas.
+
+
+Sin nada más que añadir se cierra la reunión de la Junta a las 21:10 horas.
+
+El secretario,
+Raúl Cumplido
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda)
+.. _atugores: https://github.com/atugores)
