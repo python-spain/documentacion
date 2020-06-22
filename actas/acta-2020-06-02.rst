@@ -1,0 +1,172 @@
+Acta Junta Python España 2 de Junio de 2020
+=====================================================
+
+En la ciudad de Barcelona, Madrid, Valencia y Ordino siendo las 19:00 horas del 2 de Junio de 2020
+y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Raṕida revisión de tareas anteriores.
+2. Resumen rápido reuniones con comunidades locales.
+3. Estado cuentas de correo.
+4. Próxima Asamblea General extraordinaria.
+5. Revisión documento Ayudas a Eventos de Grupos de Socias.
+6. Revisión LOPD/RGPD.
+7. Estado traducción documentación oficial.
+8. Estado de pago de dominio a Python Guadalajara.
+9. Black Lives Matter.
+10. Ruegos y preguntas.
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Xavi Torelló XaviTorello_
+- Marcos Gabarda marcosgabarda_
+- Raúl Cumplido raulcd_
+- Israel Saeta dukebody_
+- Yamila Moreno yamila-moreno_
+- David Barragán bameda_
+
+
+1. Raṕida revisión de tareas anteriores.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Se realiza una revisión rápida de las tareas realizadas por la Junta sobre el acta anterior.
+A destacar:
+
+- Adhesión campaña FSFE.
+- Publicación nuevo Code Of Conduct y nuevo reglamento apoyo a comunidades locales.
+- Formulario inscripción socias
+
+Tareas:
+
+- bameda_ Seguir trabajando en forulario inscripción de socias.
+
+
+2. Resumen rápido reuniones con comunidades locales.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Hay varias tareas relacionadas con listar y contactar comunidades en nuestros objetivos:
+
+- https://github.com/python-spain/asociacion/issues/64 - Identificar todas las comunidades.
+- https://github.com/python-spain/asociacion/issues/61 - Recabar necesidades de las comunidades locales.
+- https://github.com/python-spain/asociacion/issues/56 - Presentación de comunidades locales.
+
+dukebody_ expone el documento creado con la documentación sobre las comunidades locales.
+Breve resumen de las reuniones mantenidas hasta la fecha:
+
+- Python Sevilla - 2020-05-11
+- Python Vigo - 2020-05-13
+- Python Canarias - 2020-05-21
+- Python Málaga - 2020-05-28
+
+Se ha comunicado al resto de comunidades herramientas que utilizamos (Discourse).
+Las comunidades ven positivamente las reuniones. Se decide crear un espacio de intercambio
+común de comunicación (Canal de Telegram).
+
+Varias comunidades interesadas en utilizar los canales de comunicación de la Asociación para
+conseguir mayor difusión.
+
+Algunas comunidades exponen si se podría hacer una unión de cuotas o empezar a ser parte
+automáticamente de varias de las Asociaciones. Se decide no seguir discutiendo sobre ello para
+minmizar el tiempo de la reunión. Se decide que cuando se haya contactado con más comunidades
+locales se puede realizar una reunión para tratar los puntos que aparezcan.
+
+Tareas:
+
+- dukebody_ se encarga de seguir contactando con comunidades locales.
+
+
+3. Estado cuentas de correo.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+XaviTorello_ cuenta que se han migrado los dominios es.python.org y es.pycon.org.
+Así como todas las cuentas de correo.
+La Junta acuerda que utilizará para su comunicación los siguientes:
+
+- Tareas: Las tareas se gestionarán en Github y en sus Projects en GH.
+- Discusiones: Discourse. 
+- Informal: Grupo Telegram.
+- Exterior: junta@es.python.org
+
+Se acuerda dar por cerrada la migración.
+
+
+4. Próxima Asamblea General extraordinaria.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Debido a la excepcionalidad del año en que nos encontramos y no realizar una PyCon ES
+presencial éste año, se discute la realización de la Asamblea General Extraordinaria.
+
+Se aprueba por unanimidad realizar una Asamblea Extraordinaria ya que no va a realizarse una PyCon ES.
+La idea sería exponer las tareas realizadas a las socias.
+Discutiremos más adelante la fecha de realización en caso de que pueda coincidir con algún otro evento remoto.
+
+
+5. Revisión documento Ayudas a Eventos de Grupos de Socias.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Debido a una conversación en el canal de Telegram con las socias se aprueba
+modificar el reglamento para que la asociación aparezca como colaboradora o
+patrocinadora en los supuestos que se comentaron.
+
+Tareas:
+
+- bameda_ se encarga de modificar el documento actual.
+
+
+6. Revisión LOPD/RGPD
+^^^^^^^^^^^^^^^^^^^^^
+No hay avances.
+
+Tareas:
+
+- raulcd_ se encarga de crear documento con información actual.
+
+
+7. Estado traducción documentación oficial.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Se ha publicado la documentación en la página oficial de Python.
+
+https://docs.python.org/es/3/
+
+
+8. Estado de pago de dominio a Python Guadalajara.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Existe un pago por el dominio Python Guadalajara. Se comprueba si se está utilizando
+para darlo de baja en caso contrario.
+
+Tareas:
+
+- yamila-moreno_ y bameda_ se encargan de seguir el tema.
+
+
+9. Black Lives Matter.
+^^^^^^^^^^^^^^^^^^^^^^
+Se decide por unanimidad unirnos a la comuncación de la PSF.
+
+Tareas:
+
+- yamila-moreno_ traduce el comunicado de la PSF.
+- dukebody_ twittea.
+
+
+
+10. Ruegos y preguntas.
+^^^^^^^^^^^^^^^^^^^^^^^
+dukebody_ comenta que algunas páginas antiguas aparecen caídas.
+
+Tareas:
+
+- XaviTorello_ Prueba de concepto para scrapping de páginas antiguas + dump estático.
+
+
+Sin nada más que añadir se cierra la reunión de la Junta a las 20:15 horas.
+
+El secretario,
+Raúl Cumplido
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda)
+.. _atugores: https://github.com/atugores)
