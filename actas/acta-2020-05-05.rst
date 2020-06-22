@@ -19,12 +19,12 @@ Orden del día
 
 Asisten los miembros de la Junta Directiva por medios telemáticos:
 
-- Xavi Torelló [(@XaviTorello)](https://github.com/XaviTorello)
-- Marcos Gabarda [(@marcosgabarda)](https://github.com/marcosgabarda)
-- Raúl Cumplido [(@raulcd)](https://github.com/raulcd)
-- Israel Saeta [(@dukebody)](https://github.com/dukebody)
-- Yamila Moreno [(@yamila-moreno)](https://github.com/yamila-moreno)
-- David Barragán [(@bameda)](https://github.com/bameda)
+- Xavi Torelló (@XaviTorello_)
+- Marcos Gabarda (@marcosgabarda_)
+- Raúl Cumplido (@raulcd_)
+- Israel Saeta (@dukebody_)
+- Yamila Moreno (@yamila-moreno_)
+- David Barragán (@bameda_)
 
 
 1. Raṕida revisión de tareas anteriores.
@@ -44,7 +44,7 @@ La Junta aprueba por unanimidad adherirse a la campaña propuesta en discourse.
 Tareas:
 
 - El grupo de trabajo de comunicación se encargará de darle visibilidad.
-- [(@dukebody)](https://github.com/dukebody) se encarga de contactar con la campaña.
+- @dukebody_ se encarga de contactar con la campaña.
 
 
 3. Código de conducta comunidad Python España.
@@ -54,9 +54,9 @@ Se aprueba por unanimidad el nuevo código de conducta.
 
 Tareas:
 
-- [(@dukebody)](https://github.com/dukebody) cambiará o añadirá en Telegram el nuevo código de conducta
-- [(@XaviTorello)](https://github.com/XaviTorello) se encargará de Discourse
-- [(@bameda)](https://github.com/bameda) se encargará de la Web y Twitter
+- @dukebody_ cambiará o añadirá en Telegram el nuevo código de conducta
+- @XaviTorello_ se encargará de Discourse
+- @bameda_ se encargará de la Web y Twitter
 
 
 4. Gestiones necesarias para LOPD/RGPD, pasos a seguir.
@@ -71,8 +71,8 @@ Después de la comunicación con la gestoría la Junta decide:
 
 Tareas:
 
-- [(@yamila-moreno)](https://github.com/yamila-moreno) enviará información sobre experiencias previas a Raúl.
-- [(@raulcd)](https://github.com/raulcd) investiga más sobre requisitos y necesidades.
+- @yamila-moreno_ enviará información sobre experiencias previas a Raúl.
+- @raulcd_ investiga más sobre requisitos y necesidades.
 
 
 5. Aprobación reglamento apoyo a comunidades locales.
@@ -81,10 +81,10 @@ La Junta aprueba el nuevo reglamento por unanimidad.
 
 Tareas:
 
-- [(@dukebody)](https://github.com/dukebody) se encarga de difusión de el reglamento en Telegram de Socios.
-- [(@XaviTorello)](https://github.com/XaviTorello) se encarga de difusión en Discourse.
-- [(@bameda)](https://github.com/bameda) se encarga de difusión en Web y Twitter.
-- [(@atugores)](https://github.com/atugores) se encarga de subir el nuevo reglamento a Github.
+- @dukebody_ se encarga de difusión de el reglamento en Telegram de Socios.
+- @XaviTorello_ se encarga de difusión en Discourse.
+- @bameda_ se encarga de difusión en Web y Twitter.
+- @atugores_ se encarga de subir el nuevo reglamento a Github.
 
 
 6. Revisión propuestas con más apoyo y asignación de líderes.
@@ -108,3 +108,11 @@ Sin nada más que añadir se cierra la reunión de la Junta a las 21:10 horas.
 
 El secretario,
 Raúl Cumplido
+
+.. _@XaviTorello: https://github.com/XaviTorello
+.. _@marcosgabarda: https://github.com/marcosgabarda
+.. _@raulcd: https://github.com/raulcd
+.. _@dukebody: https://github.com/dukebody
+.. _@yamila-moreno: https://github.com/yamila-moreno
+.. _@bameda: https://github.com/bameda)
+.. _@atugores: https://github.com/atugores)
