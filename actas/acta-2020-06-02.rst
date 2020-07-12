@@ -94,7 +94,7 @@ Se acuerda dar por cerrada la migración.
 4. Próxima Asamblea General extraordinaria.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Debido a la excepcionalidad del año en que nos encontramos y no realizar una PyCon ES
-presencial éste año, se discute la realización de la Asamblea General Extraordinaria.
+presencial este año, se discute la realización de la Asamblea General Extraordinaria.
 
 Se aprueba por unanimidad realizar una Asamblea Extraordinaria ya que no va a realizarse una PyCon ES.
 La idea sería exponer las tareas realizadas a las socias.
