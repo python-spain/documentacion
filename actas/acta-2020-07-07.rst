@@ -59,7 +59,7 @@ Acordamos: Hibernamos discusión, buscaremos otras maneras de que la gente se in
 
 Isra ha sugerido en varias ocasiones a comunidades locales que Python España les podría ayudar con el pago de alguna herramienta para eventos remotos. Por ejemplo, Python Canarias y Python Madrid han usado una versión de pago de Zoom. Otras comunidades han usado OBS directamente que es gratuito. Python Sevilla tenía interés en probar StreamYard.
 
-Discutimos si tiene sentido ofrecer pagar por alguna cuenta de alguna herramienta que puedan utilizar varias comunidades (e.g. StreamYard), o si es mejor recomendar el suo de Jitsi. Se comenta que podría ser útil algún tutorial de cómo montar eventos con Jitsi+OBS+YouTube u otras herramientas.
+Discutimos si tiene sentido ofrecer pagar por alguna cuenta de alguna herramienta que puedan utilizar varias comunidades (e.g. StreamYard), o si es mejor recomendar el uso de Jitsi. Se comenta que podría ser útil algún tutorial de cómo montar eventos con Jitsi+OBS+YouTube u otras herramientas.
 
 Decisión: abiertos a que las comunidades nos propongan patrocinios, pero apostamos por recomendar que miren el hilo de Discourse. De momento no movemos ficha.
 
