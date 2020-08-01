@@ -1,0 +1,101 @@
+Acta Junta Python España 7 de Julio de 2020
+=====================================================
+
+En la ciudad de Madrid, Valencia y Ordino siendo las 19:00 horas del 7 de Julio de 2020
+y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Rápida revisión de tareas del último CD
+2. Revisión de en qué tareas estamos metidos en la JD
+3. Discusión fusión cuota Python España + Asociación Local
+4. Discusión sobre financiación de herramientas para eventos remotos
+5. Kit de merchandising para comunidades locales y eventos
+6. Reuniones con comunidades locales
+7. Status PyConES 2020 - Online Edition
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Xavi Torelló XaviTorello_
+- Marcos Gabarda marcosgabarda_
+- Israel Saeta dukebody_
+- Yamila Moreno yamila-moreno_
+- David Barragán bameda_
+
+Dado que secretario Raúl Cumplido no está, Yamila Moreno se encarga de esta acta en su nombre.
+
+
+1. Rápida revisión de tareas anteriores.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Se realiza una revisión rápida de las tareas realizadas por la Junta sobre el acta anterior.
+A destacar:
+
+- David ha hecho avances con el formulario de alta de socios/miembros. Está en esta tarea con Marcos.
+- Xavi hizo una prueba de concepto de *scrapear* webs antiguas de PyConES de https://archive.org con la idea de poder colgar una versión estática que no requiera mantenimiento. Acordamos llevarlo adelante y delegarlo al GT Infra siguiendo como base el procedimiento descrito en [esta issues](https://github.com/python-spain/asociacion/issues/99)
+- Xavi iba a mirar cómo activar interacción por mail con Discourse, pero no ha podido hacerlo y lo va a delegar al GT de infra.
+
+- Raúl Cumplido está con temas de GDPR pero al no asistir no hubo actualización.
+
+2. Revisión de en qué tareas estamos metidos en la JD
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Hicimos una revisión de en qué tareas de medio o largo recorrido y qué previsiones tenemos. La herramienta sobre la que lo gestionamos es [este kanban](https://github.com/python-spain/asociacion/projects/3).
+
+3. Discusión fusión cuota Python España + Asociación Local
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Isra comenta que Python Canarias ofrece una cuota de 45€ para asociarse conjuntamente a Python Canarias y Python España. Pero no tenemos claro el mecanismo que usan para dar de alta en la asociación.
+Propuesto a Python Barcelona y en todo caso contemplan que Python España haga reducción de su cuota.
+
+Propuesta (Isra): reducción de cuota Python España de 30€ a 15€ si se es socio de otra asociación del estado, presentando justificante de pago de la cuota de la otra asociación. Yamila comenta que parece requerir mucha gestión en el primer año y seguimiento en los siguientes para el servicio que realmente da.
+
+Acordamos: Hibernamos discusión, buscaremos otras maneras de que la gente se integre y participe en Python España desde asociaciones locales.
+
+4. Discusión sobre financiación de herramientas para eventos remotos
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Isra ha sugerido en varias ocasiones a comunidades locales que Python España les podría ayudar con el pago de alguna herramienta para eventos remotos. Por ejemplo, Python Canarias y Python Madrid han usado una versión de pago de Zoom. Otras comunidades han usado OBS directamente que es gratuito. Python Sevilla tenía interés en probar StreamYard.
+
+Discutimos si tiene sentido ofrecer pagar por alguna cuenta de alguna herramienta que puedan utilizar varias comunidades (e.g. StreamYard), o si es mejor recomendar el uso de Jitsi. Se comenta que podría ser útil algún tutorial de cómo montar eventos con Jitsi+OBS+YouTube u otras herramientas.
+
+Decisión: abiertos a que las comunidades nos propongan patrocinios, pero apostamos por recomendar que miren el hilo de Discourse. De momento no movemos ficha.
+
+5. Kit de merchandising para comunidades locales y eventos
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Ver [este hilo](https://comunidad.es.python.org/t/kit-merchandising-comunidades-locales/296) para más información.
+
+Stickermule, freewear, Redbubble, +otra con sede en ESP …
+
+Decisión: queremos ofrecer stickers y rollups a las comunidades para sus eventos. Contactaremos con empresas de stickers (StickerMule, Freewear, Redbuble, Printgrafic) para que nos hagan presupuesto. Se encargan @xavi + @isra
+
+Acordamos integrarlo dentro del “GT Comunidades locales”
+
+6. Reuniones con comunidades locales
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Isra nos hace un breve resumen de qué reuniones ha tenido hasta la fecha.
+- En [este hilo](https://comunidad.es.python.org/t/que-podemos-aportar-a-las-comunidades/263) se ofrece la posibilidad de crear listas de correos para grupos locales `xxx@es.python.org`; de momento se han pedido los Google Group de Madrid y Córdoba.
+- En [este hilo](https://comunidad.es.python.org/t/canales-de-comunicacion-para-las-comunidades/276/13) se habla de la posibilidad de crear un grupo de `announces@es.python.org` que facilite redirigir avisos entre listas. Como parece que ha tenido buena acogida, se acuerda poner el grupo en marcha con la idea de que sirva para reenviar eventos de interés para la comunidad PyES & Comunidades Locales.
+
+7. Status PyConES 2020 - Online Edition
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+David nos da el status: se está viendo de hacer un evento online, en las mismas fechas (probablemente, solo el sábado), charlas pre-grabadas que se publican en youtube + algún sistema para poder hacer preguntas. Posibilidad de hacer Asamblea General Ordinaria.
+
+Se ha abierto el C4P y aún no han llegado propuestas. A la vez contactaron varias empresas queriendo sponsorizar el evento (se está evaluando si se les puede ofrecer algo: logo en los vídeos, link de la empresa en la descripción del vídeo, descuento para la siguiente pycones).
+
+Se consulta a la JD la opinión: de las posibles contrapartidas para un patrocinio, creemos que descuento en próximos eventos no tiene sentido por la incertidumbre respecto a la PyConES 2021. En paralelo, la asociación ahora mismo tiene liquidez suficiente para el hipotético caso de que no llegasen patrocinadores para un evento online.
+
+Sin nada más que añadir se cierra la reunión de la Junta a las 21:00 horas.
+
+Yamila Moreno, vocal
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda
