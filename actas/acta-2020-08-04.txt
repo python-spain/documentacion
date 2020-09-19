@@ -1,0 +1,92 @@
+Acta Junta Python España 4 de Agosto de 2020
+=====================================================
+
+En la ciudad de Madrid, Valencia, Barcelona y Ordino siendo las 19:00 horas del 4 de Agosto de 2020
+y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Revisión de tareas anteriores
+2. Update PyConES Pandemic Edition
+3. Propuesta evento online Hacktoberfest
+4. Migración de todo el contenido de PyES a unidad compartida
+5. Asamblea Extraordinaria 
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Xavi Torelló XaviTorello_
+- Marcos Gabarda marcosgabarda_
+- Israel Saeta dukebody_
+- Yamila Moreno yamila-moreno_
+- David Barragán bameda_
+- Raúl Cumplido raulcd_
+
+
+1. Rápida revisión de tareas anteriores.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Se realiza una revisión rápida de las tareas realizadas por la Junta sobre el acta anterior.
+A destacar:
+
+- David ha hecho avances con el formulario de alta de socios/miembros. Está en esta tarea con Marcos.
+- Raúl asume asíncronamente la tarea de adecuación RGPD/LOPD. Se propone realizar un monográfico sobre el tema.
+- Yamila asume consolidar el mecanismo para generar las webs de pycones antiguas a gh-pages.
+- Yamila lidera realizar una reunión del grupo de infraestructura
+- Xavi e Isra lideran inventariar posibles proveedores para el kit de merchandising. Esperaremos a Septiembre a tomar una decisión.
+- Isra sigue liderando contacto con comunidades locales.
+
+2. Update PyConES Pandemic Edition
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Se discute lo siguiente:
+
+- Call for papers extendido hasta el 16 de Agosto
+- Falta trabajo en la web. Se está encargando Edu y María Antonia. En caso de requerir ayuda David avisará.
+- Falta logo. Yamila propone trtar de trabajar con Kaleidos para recibir ayuda.
+- Técnico streaming. En prinicipio se habla de Antoni Aloy. Se realizará una actualización en la próxima reunión.
+- Preguntas durante la conferencia. Kiko Correoso está montando herramienta
+- Se está intentando gestionar un Django Girls día anterior
+
+3. Propuesta evento online Hacktoberfest
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Isra propone intentar mover un día/semana de sprint. En proyectos Open Source / tareas de la asociación.
+Isra tratará de moverlo para las fechas de la PyConES.
+Se medirá pulso con comunidades locales y socios y en función de eso se intentará seguir movilizando.
+
+
+4. Migración de todo el contenido de PyES a unidad compartida
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Se acuerda mover la documentación a la unidad compartida de PyES
+Xavi crea unidad compartida PyConES y David meverá la documentación cuando acabe el C4P.
+Yamila mueve documentos antiguos a la unidad compartida.
+
+5. Asamblea Extraordinaria 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Se discuten los plazos en caso de realizar la asamblea Extraordinaria durante la PyConES. Se aprueba por unanimidad realizar la asamblea.
+
+- Se debe convocar la asamblea antes del 3 de Septiembre.
+- Se convocará para el mismo día que la PyConES, 3 de Octubre a las 19:00
+- Raúl crea draft mail de conv
+
+6. Ruegos y preguntas.
+^^^^^^^^^^^^^^^^^^^^^^
+
+Sin ruegos ni preguntas.
+
+Se cierra la reunión de la Junta a las 21:04 horas.
+
+El secretario,
+Raúl Cumplido
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda)
+.. _atugores: https://github.com/atugores)
