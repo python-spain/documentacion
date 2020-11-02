@@ -1,0 +1,108 @@
+Acta Junta Python España 1 de Septiembre de 2020
+=====================================================
+
+En la ciudad de Madrid, Valencia y Barcelona siendo las 19:00 horas del 1 de Septiembre de 2020
+y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Asamblea Extraordinaria durante PyConES
+2. Esta proceso traspaso poderes nueva junta
+3. Evento PyConES 2020
+4. Evento Hacktoberfest 2020
+5. Estado adecuación RGPD
+6. Grupo de trabajo infraestructura
+7. Ruegos y preguntas
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Marcos Gabarda marcosgabarda_
+- Israel Saeta dukebody_
+- Yamila Moreno yamila-moreno_
+- David Barragán bameda_
+- Raúl Cumplido raulcd_
+
+
+1. Asamblea Extraordinaria durante PyConES.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Se aprueba el borrador del orden del día para la Asamblea Extraordinaria.
+Se aprueba crear una presentación basada en documento previo.
+Se reparten los puntos del día a tratar.
+
+- David envía el e-mail aprobado a socias
+- Isra copia template de slides asamblea 2019 y lo pasa a todas
+- Todas fecha límite para primer borrador de slides 20 de septiembre.
+
+2. Estado proceso traspaso poderes nueva junta
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+La nueva Junta se encuentra registrada en el Registro Nacional de Asociaciones.
+El representante se ha actualizado al nuevo presidente en hacienda.
+Se confirma que la dirección fiscal está fijada a la misma dirección
+que la sede social según la asesoría.
+
+- Marcos pregunta a gestoría si el presupuesto recibido  de 40€ de gestoría nos ahorra trámite presencial para gestión de nuevo certificado digital.
+- Isra da seguimiento para cambiar dirección sobre correspondencia recibida del Ayuntamiento de Barcelona.
+- Isra gestiona con el banco para aparecer como apoderado en la cuenta.
+
+
+3. Evento PyConES 2020
+^^^^^^^^^^^^^^^^^^^^^^
+
+El call for papers y la evaluación de las charlas ha terminado.
+Constará de 14 charlas + charlas de 5 minutos.
+Las preguntas para charlas se realizarán en discourse.
+
+- David está mirando tema subtítulos. Enviará presupuesto cuando lo reciba.
+
+
+4. Evento Hacktoberfest 2020
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Existe un hilo en discourse con personas interesadas en colaborar.
+El equipo de la traducción oficial de Python al castellano está interesado en colaborar.
+
+
+5. Estado adecuación RGPD
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Se realizo un monográfico para dividir tareas.
+Se sigue trabajando el las diferentes áreas.
+
+- Marcos gestiona NDA con gestoría.
+- Marcos añade coletilla RGPD a facturas.
+- Isra envía documento de confidencialidad de voluntarios a grupos de trabajo PyConES, Infraestructura y Junta Directiva.
+
+El formulario de inscripción de socias se encuentra en stand-by hasta que acabe PyConES.
+
+
+6. Grupo de trabajo infraestructura
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Se realizó reunión inaugural.
+Intentar mover posibles tareas con grupo de Pyladies e intentar crear grupo para Hacktoberfest.
+
+
+7. Ruegos y preguntas
+^^^^^^^^^^^^^^^^^^^^^^
+
+La siguiente reunión periódica de la Junta se celebrará según calendario previsto aunque hagamos
+la Asamblea Extraordinaria.
+
+Decidimos parar tema pegatinas y freewear hasta que se vuelvan a hacer reuniones presenciales.
+
+Se cierra la reunión de la Junta a las 20:33 horas.
+
+El secretario,
+Raúl Cumplido
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda)
+.. _atugores: https://github.com/atugores)
