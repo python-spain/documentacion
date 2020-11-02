@@ -29,7 +29,7 @@ Asisten los miembros de la Junta Directiva por medios telemáticos:
 1. Update transición nueva Junta.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Ya tenemos firma digital.
-- Hay que ir al banco presencialmente para poder al presidente de apoderado.
+- Hay que ir al banco presencialmente para poner al presidente de apoderado.
 - El domicilio fiscal consta como la vivienda particular del anterior presidente.
 - Se decide cambiar a la misma que el domicilio social.
 
@@ -41,7 +41,7 @@ Asisten los miembros de la Junta Directiva por medios telemáticos:
 
 - PyCampES se anunció en PyConES 2019 en lightning talk.
 - Varios socios y miembros de la Junta son parte de la organización.
-- Python España apoya con seguro de responsabilidad civial y reservando el venue, aportando el dinero para la paga y señal.
+- Python España apoya con seguro de responsabilidad civil y reservando el venue, aportando el dinero para la paga y señal.
 - Debido a la pandemia se postpuesto hasta 2021.
 - Se discute el apoyo al evento en la situación de incertidumbre debido a la pandemia actual.
 - La Junta acuerda que desde Python España no daremos soporte a eventos presenciales hasta que no se decida lo contrario en junta.
