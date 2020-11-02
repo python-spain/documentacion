@@ -1,0 +1,107 @@
+Acta Junta Python España 13 de Octubre de 2020
+=====================================================
+
+En la ciudad de Madrid, Valencia, Barcelona y Ordino siendo las 19:00 horas del 13 de Octubre de 2020
+y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Update transición nueva Junta
+2. Discusión PyCampES 2021 y política eventos presenciales
+3. Adecuación RGPD
+4. Comentarios/valoración PyConES 2020
+5. Discusión propuestas Asamblea General
+6. Turno abierto
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Xavi Torelló XaviTorello_
+- Marcos Gabarda marcosgabarda_
+- Israel Saeta dukebody_
+- Yamila Moreno yamila-moreno_
+- David Barragán bameda_
+- Raúl Cumplido raulcd_
+
+
+1. Update transición nueva Junta.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Ya tenemos firma digital.
+- Hay que ir al banco presencialmente para poder al presidente de apoderado.
+- El domicilio fiscal consta como la vivienda particular del anterior presidente.
+- Se decide cambiar a la misma que el domicilio social.
+
+- Marcos busca documentación a aportar para banco.
+- Isra habla con gestoría para cambiarlo.
+
+2. Discusión PyCampES 2021 y política eventos presenciales
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- PyCampES se anunció en PyConES 2019 en lightning talk.
+- Varios socios y miembros de la Junta son parte de la organización.
+- Python España apoya con seguro de responsabilidad civial y reservando el venue, aportando el dinero para la paga y señal.
+- Debido a la pandemia se postpuesto hasta 2021.
+- Se discute el apoyo al evento en la situación de incertidumbre debido a la pandemia actual.
+- La Junta acuerda que desde Python España no daremos soporte a eventos presenciales hasta que no se decida lo contrario en junta.
+
+- Isra convocará al equipo organizador PyCamp para discutir posición de Python España.
+
+3. Adecuación RGPD
+^^^^^^^^^^^^^^^^^^
+
+-Se expona la creación de un documento combinado para recoger la información de los datos de socias y el compromiso de confidencialidad.
+-Se creara un Google Form para enviar a socias actuales.
+
+- Isra y Raúl crearán Google Form para enviar mail.
+
+4. Comentarios/valoración PyConES 2020
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Felicitaciones al equipo de PyConES y revisión de valoraciones recibidas de la comunidad.
+
+5. Discusión propuestas Asamblea Extraordinaria
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- La Junta discute si merece la pena estudiar el alcance temporal de la Junta.
+    - Se decide que se prefiere trabajar en reducir el tiempo de transición en el cambio tratando de hacer el proceso más sencillo, accesible.
+- El formato Online de la Asamblea funcionó muy bien, tiene sentido hacerla siempre así?
+    - La Asamblea Ordinaria se realizará Online.
+    - La Asamblea Extraordinaria será presencial con la PyConES
+- Debemos realizar eventos Online organizados por Python España?
+    - Python España no planea hacer eventos Online propios (aparte de PyCon ES)
+    - El trabajo de Python España debería ser difundir eventos de comunidades locales y crear foros para comunicación y organización entre ellas.
+- Durante la Asamblea Extraordinaria había interés en el grupo de comunicación.
+    - Se decide organizar reunión inicial y create tareas iniciales.
+- Hubo comentarios sobre la sostenibilidad de la Asociación, misma gente desde el inicio, captación de nuevas socias.
+    - Potenciar la figura de miembro como paso intermedio para nuevos socios.
+    - Invitar a comunidades locales a hacerse socias.
+    - En términos de sostenibilidad, cosas que se pagan con la cuota:
+        - Seguro de responsabilidad civil 
+        - Gestoría 
+        - Cobertura PyConES
+        - Infraestructura de la asociación
+        - Además de las becas y ayudas a eventos 
+
+
+- David convoca reunión inicial grupo de comunicación.
+- Isra manda mail a comunidades locales sobre la posibilidad de hacerse socias.
+
+6. Ruegos y preguntas.
+^^^^^^^^^^^^^^^^^^^^^^
+
+Sin ruegos ni preguntas.
+
+Se cierra la reunión de la Junta a las 20:10 horas.
+
+El secretario,
+Raúl Cumplido
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda)
+.. _atugores: https://github.com/atugores)
