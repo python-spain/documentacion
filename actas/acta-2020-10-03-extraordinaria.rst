@@ -49,10 +49,10 @@ Objectivos de la Junta
 ------------------------------------------------
 - **Python España como espacio de encuentro de las comunidades locales**
     - Relación con comunidades locales y eventos pequeños
-        - 14 reunones realizadas con comunidades locales
-        - Estimulado la creación de nuevas comunidades: Navarra, Castilla y León, Murcia
+        - 14 reuniones realizadas con comunidades locales
+        - Hemos estimulado la creación de nuevas comunidades: Navarra, Castilla y León, Murcia
         - Espacio dedicado en PyConES 2020 para presentación de comunidades locales
-        - Creación de foro y grupo de Telegam dedicado a comunidades locales
+        - Creación de foro y grupo de Telegram dedicado a comunidades locales
         - Lista de correo de difusión de eventos para comunidades locales (announce)
         - Formalización del proceso para solicitar subvenciones y otras ayudas a la asociación
         - Buzones colaborativos (comunidad-x@es.python.org)
@@ -60,14 +60,14 @@ Objectivos de la Junta
 - **Sostenibilidad del trabajo de la asociación**
     - Captura de tareas en issues Github en repositorio abierto
     - Organización en Github Projects de los objetivos y tareas de la asociación
-    - Apertra de la mayoría de categorías de foro Discourse para todo el mundo
+    - Apertura de la mayoría de categorías de foro Discourse para todo el mundo
     - Documentación procesos de alta de socios/as, cambio de Junta y gestión de domiciliaciones bancarias
     - Creación y desarrollo de grupos de trabajo
         - Infraestructura
         - PyConES (existente)
         - Apoyo y promoción del trabajo de la documentación oficial de Python al Español
     - Tareas realizadas dentro grupo de trabajo de Infraestructura
-        - Migración de buzones de correo y documentos a Google siguiente
+        - Migración de buzones de correo y documentos a Google suite
         - Migración webs PyConES antiguas a estático (sprint de colaboración en el Hacktoberfest)
         - Creación del grupo de trabajo y reunión inaugural
         - Configuración de Freshpings (~pingdom)
@@ -78,7 +78,7 @@ Objectivos de la Junta
         - Ha organizado el evento alternativo PyConES 2020 Pandemic Edition
         - Actualmente es un grupo reducido
             - Nos encantaría que más gente se anime a formar parte
-    - Traducción Documentation oficial
+    - Traducción documentación oficial
         - Integrantes de la junta han colaborado a título individual.
         - Colaboración con el equipo de traducción (Inicio de la traducción, Hacktoberfest)
         - Proyecto de traducción iniciado partiendo del trabajo previo realizado por:
@@ -96,7 +96,7 @@ Objectivos de la Junta
 
 3. Ruegos y preguntas
 ^^^^^^^^^^^^^^^^^^^^^
-    - Pregunta sobre el proceso de renovación de la Junta y como agilizarlo
+    - Pregunta sobre el proceso de renovación de la Junta y cómo agilizarlo
         - El proceso de renovación ha tardado bastante
         - Administraciones han tenido problemas por covid
         - Se ha intentado documentar el proceso
