@@ -1,0 +1,132 @@
+Acta Junta Python España 3 de Noviembre de 2020
+===============================================
+
+En la ciudad de Madrid, Valencia y Barcelona siendo las 19:00 horas del 3 de Noviembre de 2020
+y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Nuevos socios y nuevo proceso
+2. Invitación - V Congreso de Investigación - Ecuador
+3. Resumen HacktoberfestES
+4. Próximos Eventos impulsados
+5. Estrategia comunicación otros colectivos
+6. Girls In tech
+7. Regalos digitales para que comunidades repartan en sus directos
+8. RGPD
+9. Ruegos y preguntas
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Marcos Gabarda marcosgabarda_
+- Israel Saeta dukebody_
+- Yamila Moreno yamila-moreno_
+- David Barragán bameda_
+- Raúl Cumplido raulcd_
+
+
+1. Nuevos socios y nuevo proceso.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Se ha validado en Junta la nueva alta con número 114.
+
+Tesorería se encarga del proceso de alta ya que el email se envia directamente desde la herramienta.
+- Tesorería validará pago y dará de alta en la herramienta.
+- Como el mail de bienvenida se envía directamente desde la herramienta se aprueba en Junta que secretaría no esté de involucrada en el alta.
+
+2. Invitación - V Congreso de Investigación - Ecuador
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- El congreso no parece tener nada que ver con la asociación. Se decide ignorar.
+
+3. Resumen HacktoberfestES
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- 4 directos en YouTube
+  - Apertura presentación proyectos + tutorial sobre iniciación en git
+  - Orientación laboral
+  - Git intermedio
+  - Cierre resumen de los proyectos + entrevista a Pablo Galindo + premios
+- 8 proyectos, 160+ PRs, 100+ participantes en Discord, 66 canciones en Spotify (y + en Discord) entre otros
+- Varias sesiones de proyectos con tutoriales, trabajo conjunto
+- Retrospectiva pendiente
+
+En resumen un exito de evento.
+
+4. Próximos Eventos impulsados
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+La Junta discute si debemos impulsar eventos desde la Junta o apoyar eventos en las comunidades locales.
+Algunos de los puntos que se discuten:
+- Ayudar en un sprint de python-docs-es
+- Agrupar meetups de las comunidades
+- Apoyar eventos que se estén realizando desde la comunidad en vez de crear eventos nuevos.
+- Apoyar comunidades que empiezan para encontrar ponentes
+- Dar visibilidad a mensaje para que la gente se apunte para dar charlas online.
+
+
+5. Estrategia comunicación otros colectivos
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+En linea con los objetivos iniciales la Junta discute como conseguir comunicarnos con otras comunidades.
+Algunas de las ideas:
+
+- Seguir hablando con las comunidades locales Python
+- Intentar conectar con otras comunidades que promueven diversidad a nivel nacional (Python u otros)
+- Contactar con comunidades Python estatales de otros países, especialmente hispanohablantes
+- Contactart con comunidades tecnológicas de otros lenguajes / tecnologías a nivel estatal (pysurf comunidades no pythónicas)
+- Yamila comenta sobre antiguos contactos con comunidad que se encargaba de poner en contacto comunidades.
+- Se preguntara a Juanlu si recuerda contactos
+- Isra se pondra en contact con betabeers, commit-conf
+
+6. Girls In tech
+^^^^^^^^^^^^^^^^
+
+Girls In Tech se puso en contacto con la Junta para pedir colaboración.
+- Yamila explica lo que se realizó en una reunión inicial.
+- Se necesitan mentoras / mentores con experiencia en data. Pediremos en nuestros canales de comunicación.
+- Necesitan ponente.
+- Nos envían un código de seguimiento de canales
+- Pediremos algo más de información para mentoras y para charlas
+- Se le dará difusión en Twitter y Discourse
+
+
+7.  Regalos digitales para que comunidades repartan en sus directos
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Se discute la posibilidad de dar regalos y se lanzan algunas ideas
+
+- Pedir a editoriales, cursos, licencias
+- Poner X dinero?
+- Mirar tema esponsorización O’Reilly
+
+- Preguntar a Xavi a ver si sabe algo de cuando realizamos la transición sobre O’Reilly
+- Marcos crea hilo en discourse preguntando a las comunidades si estarían interesadas y en qué estarían interesadas.
+
+
+8. RGPD
+^^^^^^^
+
+- Raúl y Isra se juntan para formulario.
+
+9. Ruegos y preguntas
+^^^^^^^^^^^^^^^^^^^^^
+
+- Se ha cambiado el domicilio fiscal.
+- Se habla de los pagos de cuotas atrasadas de socios.
+
+
+Se cierra la reunión de la Junta a las 20:35 horas.
+
+El secretario,
+Raúl Cumplido
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda)
+.. _atugores: https://github.com/atugores)
