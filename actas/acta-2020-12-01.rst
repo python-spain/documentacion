@@ -101,6 +101,7 @@ GT Infra:
 - Isra comenta si podemos actualizar discourse
 
 GT RGPD:
+
 - David mandará datos de conexión de mailjet a Raúl para mandar mail de RGPD
 
 
