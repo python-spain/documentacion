@@ -1,0 +1,148 @@
+Acta Junta Python España 12 de Enero de 2021
+============================================
+
+En la ciudad de Barcelona, Madrid, Valencia y Ordino siendo las 19:00 horas del 12 de Enero de 2021
+y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Confirmación altas y bajas
+2. Repaso tareas pendientes
+3. PyCon ES 2021
+4. Iniciativa Aporta
+5. Reunión con comunidades tecnológicas de España para promover diversidad
+6. Asamblea Ordinaria
+7. Repaso Objetivos de Legislatura y tareas para el trimestre
+8. Ruegos y preguntas
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Marcos Gabarda marcosgabarda_
+- Xavi Torelló XaviTorello_
+- Israel Saeta dukebody_
+- Yamila Moreno yamila-moreno_
+- David Barragán bameda_
+- Raúl Cumplido raulcd_
+
+
+1. Confirmación altas y bajas
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Se han validado en Junta las nuevas altas con número 117 y 118.
+Se ha validado en Junta la baja con número 111.
+
+Tesorería (Marcos) gestionará las cuotas pendientes de pago y las domiciliaciones del año 2021.
+Marcos documenta el nuevo procedimiento de baja. Discourse, Telegram y Domiciliaciones.
+
+2. Repaso tareas pendientes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- El cambio de apoderados en el banco sigue pendiente. Gestionando con el banco la documentación enviada.
+- Raúl crea actas de Diciembre y Enero en github.
+- Se revisa el acta de Noviembre.
+- Se acuerda pausar la tarea relacionada con la revisión de la relación con O'Reilly.
+- Para los nuevos correos @es.python.org Xavi se encarga de:
+  - Crear form en unidad compartida para solicitar el correo
+  - Comunicar en Telegram/Discourse
+  - Modificar el texto informativo de altas
+- Tareas GT Infra. Se pasan un par de web a estático y se actualiza Discourse.
+- David sigue trabajando en el formulario de alta
+- Raúl debe mandar mail con RGPD
+
+
+3. PyCon ES 2021
+^^^^^^^^^^^^^^^^
+
+Maribel deja su cargo como directora de OSLUGR.
+
+Isra hablará con el nuevo director para confirmar compromismo con PyCon ES.
+La postura actual de Python España es que no hay eventos presenciales.
+
+4. Iniciativa Aporta
+^^^^^^^^^^^^^^^^^^^^
+
+Se decide que el objeto del correo no es a lo que nos dedicamos y no contestamos.
+Python España no se dedica a reutilizar datos.
+
+
+5. Reunión con comunidades tecnológicas de España para promover diversidad
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Isra expone que el 14 de Enero habá una reunión con diversas comunidades tecnológicas
+para intentar crear un evento conjunto.
+
+6. Asamblea Ordinaria
+^^^^^^^^^^^^^^^^^^^^^
+
+Se discute realizarla  y se decide el 10 de Abril como fecha inicial.
+Se discute y propone cómo hacer que la Asamblea sea más participativa.
+Israel Saeta se encarga de crear propuesta de orden del día para fomentar participación.
+
+- Recordar en Junta de Febrero poner fechas para cerrar acta
+- Recordar en Junta de Marzo convocar asamblea
+
+
+
+7. Repaso Objetivos de Legislatura y tareas para el trimestre
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+La Junta trata de proponer temas en los que involucrarse durante el primer trimestre
+de 2021. Por integrantes de la Junta:
+
+- Yamila
+  - Paso webs estáticas
+  - Actualizar Discourse
+  - Correos para socios
+  - Reescritura estatutos lenguaje inclusivo
+
+- Marcos
+  - Resumen cuentas año pasado
+  - Presupuestos año que viene
+  - Pasar cuotas domiciliación este año y gestionar morosidad
+  - Documentación proceso domiciliación
+
+- Raúl
+  - Mandar mail RGPD
+  - Involucración reunión comunidades tecnológicas y posibles eventos
+
+- Xavi
+  - Correo para socios (junto a Yamila)
+  - Reuniones semestrales periódicas comunidades locales. Puede desembocar en mesas redondas
+  - Listado de comunidades con sus webs, RRSS, etc.
+  - Proyecto agregador calendario común (test.comunitats.cat)
+
+- David
+  - PyConES org
+  - GT Comunicación
+  - Discord para hispanohablantes
+  - Dar difusión a lo que hacemos desde la Junta y diferentes GT en newsletter
+  - Web socios
+
+- Isra
+  - Reuniones con otras comunidades (+ tabularConf), migracode y posibles talleres
+  - (sostenibilidad) reestructurar la web de la asociación (hacerla más útil para distintos perfiles)
+  - (diversidad) re-escritura de los estatutos
+
+
+8. Ruegos y preguntas
+^^^^^^^^^^^^^^^^^^^^^
+
+- Se ha creado un Moodle para PyLadies desde el GT de Infraestructura.
+- David pasará la web de Python España oficial a GH pages y GH actions en vez de travis
+
+
+Se cierra la reunión de la Junta a las 21:00 horas.
+
+El secretario,
+Raúl Cumplido
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda)
+.. _atugores: https://github.com/atugores)
