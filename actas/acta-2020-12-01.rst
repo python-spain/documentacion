@@ -1,0 +1,127 @@
+Acta Junta Python España 1 de Diciembre de 2020
+===============================================
+
+En la ciudad de Barcelona, Madrid, Valencia, Sineu y Ordino siendo las 19:00 horas del 1 de Diciembre de 2020
+y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Apoderados cuenta bancaria de la Asociación
+2. Preparación PyCon ES y política de eventos presenciales
+3. Reunión con otras comunidades. CommitConf
+4. Regalos Digitales
+5. Propuesta correo de la asociación para socias
+6. Estado de actividades y grupos de trabajo
+7. Ruegos y preguntas
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Xavi Torelló XaviTorello_
+- Israel Saeta dukebody_
+- Maria Antonia Tugores atugores_
+- Yamila Moreno yamila-moreno_
+- David Barragán bameda_
+- Raúl Cumplido raulcd_
+
+
+1. Apoderados cuenta bancaria de la Asociación.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Se aprueba en Junta dar de baja al antiguo presidente (Juanlu) como apoderado de la cuenta bancaria
+y dar de alta al presidente (Isra).
+
+Se aprueba en Junta modificar la modalidad del acceso de las cuentas a mixta.
+
+- Solidaria para cantidades menores o iguales a 2000€
+- Mixta para cantidades mayores de 2000€ (requiera firma de tesorería y presidencia)
+
+Isra se encarga del proceso y los formularios.
+
+2. Preparación PyCon ES y política de eventos presenciales
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Se propone retrasar la decisión sobre el evento (online vs presencial) a Enero.
+- En caso de que el grupo de trabajo local considere que se debería realizar la reserva
+  de los espacios en la universidad para no tener problemas en el futuro, la Junta acuerda
+  que se reserven los espacios siguiendo sus consejos, siempre que no conlleven pago,
+  pero teniendo en cuenta que en los próximos meses se tomará la decisión de si el evento
+  seguirá adelante de forma presencial o no.
+- David convocará una reunión del grupo de trabajo de la PyCon ES en Enero
+  para discutir el tipo de evento que se acabará realizando.
+
+
+3. Reunión con otras comunidades. CommitConf
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Isra contactó con las listas de correo de la CommitConf y se ha agendado una reunión
+para el 2 de Diciembre.
+
+4. Regalos Digitales
+^^^^^^^^^^^^^^^^^^^^
+
+En el hilo de discourse las comunidades pidieron también regalos no digitales.
+
+- La junta acuerda que quiere dar la oportunidad a las comunidades de pedir regales.
+- Se acuerda también que mientras no se estén promoviendo eventos presenciales debido
+  a la pandemia los regalos deebrán poder ser entregados de forma digital o el envío
+  deberá compensar el regal. Tratamos de evitar tener que enviar 200 pegatinas a direcciones
+  diferentes.
+- Una vez se puedan realizar eventos presenciales se propone retomar el crear pegatinas,
+  chapas, camisetas de la asociación para que se den en las comunidades locales.
+
+Xavi comprueba la relación del estado con O'Reilly.
+
+Se propone un presupuesto de unos 200 euros para regalos/premios para la TabularConf.
+Isra mantendrá al resto de la Junta informada.
+
+
+5. Propuesta correo de la asociación para socias
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Se propone crear cuentas de correo individualizadas para todas.
+Marcos modificará correo de bienvenida para indicarlo a nuevas altas.
+Xavi define procedimiento de creación el GSuite.
+
+Se propone abrir thread en discourse cuando el procedimiento esté claro.
+
+6. Estado de actividades y grupos de trabajo
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+GT Comunicación:
+
+- Puntos de encuentro entre comunidades
+- Comunicación interna dentro de la asociación, Newsletter.
+- Reuniones mensuales
+
+GT Infra:
+
+- Quedan un par de páginas para generar estáticas.
+- Isra comenta si podemos actualizar discourse
+
+GT RGPD:
+- David mandará datos de conexión de mailjet a Raúl para mandar mail de RGPD
+
+
+7. Ruegos y preguntas
+^^^^^^^^^^^^^^^^^^^^^
+
+- Asamblea ordinaria. Raúl mira si se puede retrasar la asamblea ordinaria para
+  hacerla 6 meses después de la extraordinaria ya que no han pasado muchas cosas
+  desde la extraordinaria.
+- Se decide que la próxima reunión sea el 12 de Enero para no coincidir con la víspera de Reyes.
+
+
+Se cierra la reunión de la Junta a las 21:05 horas.
+
+El secretario,
+Raúl Cumplido
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda)
+.. _atugores: https://github.com/atugores)
