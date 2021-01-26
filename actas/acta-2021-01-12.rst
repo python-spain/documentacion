@@ -93,28 +93,33 @@ La Junta trata de proponer temas en los que involucrarse durante el primer trime
 de 2021. Por integrantes de la Junta:
 
 - Yamila
+
   - Paso webs estáticas
   - Actualizar Discourse
   - Correos para socios
   - Reescritura estatutos lenguaje inclusivo
 
 - Marcos
+
   - Resumen cuentas año pasado
   - Presupuestos año que viene
   - Pasar cuotas domiciliación este año y gestionar morosidad
   - Documentación proceso domiciliación
 
 - Raúl
+
   - Mandar mail RGPD
   - Involucración reunión comunidades tecnológicas y posibles eventos
 
 - Xavi
+
   - Correo para socios (junto a Yamila)
   - Reuniones semestrales periódicas comunidades locales. Puede desembocar en mesas redondas
   - Listado de comunidades con sus webs, RRSS, etc.
   - Proyecto agregador calendario común (test.comunitats.cat)
 
 - David
+
   - PyConES org
   - GT Comunicación
   - Discord para hispanohablantes
@@ -122,6 +127,7 @@ de 2021. Por integrantes de la Junta:
   - Web socios
 
 - Isra
+
   - Reuniones con otras comunidades (+ tabularConf), migracode y posibles talleres
   - (sostenibilidad) reestructurar la web de la asociación (hacerla más útil para distintos perfiles)
   - (diversidad) re-escritura de los estatutos
