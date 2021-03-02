@@ -1,0 +1,102 @@
+Acta Junta Python España 2 de Febrero de 2021
+=============================================
+
+En la ciudad de Barcelona, Madrid, Valencia y Ordino siendo las 19:00 horas del 2 de Febrero de 2021
+y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Repaso tareas pendientes
+2  Reunión comunidades tecnológicas España para propuesta de talleres promoción diversidad
+3. Asamblea Ordinaria
+4. Feedback TabularConf
+5. PyCon ES 2021
+6. Reunión 4geeks
+7. Ruegos y preguntas
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Marcos Gabarda marcosgabarda_
+- Xavi Torelló XaviTorello_
+- Israel Saeta dukebody_
+- Yamila Moreno yamila-moreno_
+- David Barragán bameda_
+- Raúl Cumplido raulcd_
+
+
+1. Repaso tareas pendientes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Estado domiciliaciones y pagos pendientes. Marcos se encarga de seguir el tema.
+- Documentar proceso de baja. Marcos se encarga.
+- Apoderados banco pendiente Triodos, revisarán quién trató el correo certificado enviado por Isra en diciembre.
+  - Isra lo seguirá y en caso de que no den más información pedirá cita.
+- Actas previas:
+  - Hechas
+- Correos para socias @es.python.org
+  - Aprobado formulario en Junta.
+  - Mover comunicaciones para socias. Xavi se encarga.
+- La reunión con el nuevo director de OSLUGR fue bien
+- Raúl debe mandar mail con RGPD
+
+2. Reunión comunidades tecnológicas España para propuesta de talleres promoción diversidad
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Se creó un canal de slack y lista de correo y se creó un documento con propuestas a realizar entre las diferentes comunidades.
+- Isra-Raúl moverán intentar montar una reunión para definir qué hacer sobre las propuestas realizadas.
+
+3. Asamblea Ordinaria
+^^^^^^^^^^^^^^^^^^^^^
+
+- Se decide que la fecha sea el 10 de Abril.
+- En Junta de Marzo acabar de cerrar temas para poder:
+  - Aprobar email
+  - Aprobar Agenda
+    - Confirmar si hay cambio estatutario
+    - Confirmar si hay retro/prospectiva
+
+4. Feedback TabularConf
+^^^^^^^^^^^^^^^^^^^^^^^
+
+La retro se realizará el 3 de Febrero, el feedback general es muy positivo.
+
+
+5. PyCon ES 2021
+^^^^^^^^^^^^^^^^
+
+Memória publicada de PyCon ES 2020.
+Para 2021 se ha convocado reunión de brainstorming para 8 de Febrero
+
+6. Reunión 4geeks
+^^^^^^^^^^^^^^^^^
+
+Después del contact con 4Geeks discutimos posibles cosas con las que podemos colaborar.
+
+- 4 Geeks es un bootcamp full-stack con Python
+- Podemos darles merchandising + info de la asociación
+  - Descuento primer año para nuevos socios?
+  - Explicar nuestros grupos de trabajo
+- Podemos crear una beca de la asociación?
+- Ver en la reunión, ¿qué puede hacer 4geeks por la asociación?
+
+7. Ruegos y preguntas
+^^^^^^^^^^^^^^^^^^^^^
+
+- Se pregunta sobre los patrocinadores en la web.
+  - Se decide eliminar No Starch press, github y O'Reilly, ya que no tenemos contacto.
+
+Se cierra la reunión de la Junta a las 20:35 horas.
+
+El secretario,
+Raúl Cumplido
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda)
+.. _atugores: https://github.com/atugores)
