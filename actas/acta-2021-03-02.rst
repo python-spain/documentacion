@@ -29,39 +29,63 @@ Asisten los miembros de la Junta Directiva por medios telemáticos:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Estado domiciliaciones y pagos pendientes.
+
   - Se han pasado las domiciliaciones
+
     - Problema con cuentas extranjeras (UK), podemos preguntar si nos podemos ahorrar los 16€ de comisión del banco.
+
   - Se ha enviado mail a socios que estaban al pendiente de pago
+
     - Se pueden mandar mails desde la aplicación en caso de:
+
       - Falta la cuota anual
+
       - Llevas X años sin pagar
+
   - Siguiente paso sería: Poder gestionar remesas desde app de socias.
+
 - Apoderados banco pendiente Triodos, revisarán quién trató el correo certificado enviado por Isra en diciembre.
+
   - Se han enviado los documentos con firmas manuscritas. Se han enviado a Marcos y luego se mandarán a Triodos.
+
 - Correos @es.python.org para socias
+
   - Falta enviar comunicaciones
+
 - Reuniones con comunidades tecnológicas
+
   - Se está organizando una mesa redonda para finales de Marzo sobre diversidad en procesos de selección
+
 - Reunión con 4Geeks
-  - Yamila va a poner en contacto a isra y david con 4geeks para el proyecto de la web
+
+  - Yamila va a poner en contacto a Isra y David con 4geeks para el proyecto de la web
 
 2. RGPD
 ^^^^^^^
 
 - Email enviado
+
   - 37 respuestas únicas
+
   - TODO: Raúl envía mail recordatorio.
+
 - Mail sobre usar google.
+
   - TODO: Raúl contestar explicando las herramientas actuales y las decisiones que tomó la Junta. Utilizar sistemas de google para no depender de una única persona.
 
 3. Convocatoria Asamblea General Ordinaria
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Se confirma que habrá retrospectiva.
+
 - Se confirma que se votará cambio estatutario.
+
 - Se aprueba el documento de la agenda.
+
 - Se aprueba el email de convocatoria.
+
   - Enviar email el 18 de Marzo
+
   - Hacer lock de cambio de estatutos el 1 de Abril
 
 4. Colaboración Migracode
@@ -78,6 +102,7 @@ Sin ruegos ni preguntas.
 Se cierra la reunión de la Junta a las 20:43 horas.
 
 El secretario,
+
 Raúl Cumplido
 
 .. _XaviTorello: https://github.com/XaviTorello
