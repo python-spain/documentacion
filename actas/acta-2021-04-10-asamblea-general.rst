@@ -52,8 +52,6 @@ Algunas de las tareas realizadas:
 
    - Puesta al día de socias y socios con cuotas atrasadas.
 
-   - Puesta al día de socias y socios con cuotas atrasadas.
-
    - Gestión y puesta al día RGPD
 
 - Grupo de trabajo de infraestructura.
@@ -88,7 +86,7 @@ Algunas de las tareas realizadas:
 
    - Creación infra GT Comm (lista correo, telegram, unidad compartida)
 
-   - Participación en la creación de la comunidad “Python en Español” en Discord.
+   - Participación en la creación de la comunidad `“Python en Español” <https://hablemospython.dev>`_ en Discord.
 
 - Diversidad.
 
@@ -177,7 +175,7 @@ Me ha gustado mucho
 - La inclusión de las comunidades locales
 - Relación con otras comunidades
 - PyConEs online
-- Que hayamos sobrevivido a la pandémia aprovechando la tecnología y haciendo la PyConES online.
+- Que hayamos sobrevivido a la pandemia aprovechando la tecnología y haciendo la PyConES online.
 - Todas las iniciativas para mejorar la Diversidad :)
 - Modificación de los estatutos 
 - Pasar las webs de la Pycones a estático y conservar el histórico
