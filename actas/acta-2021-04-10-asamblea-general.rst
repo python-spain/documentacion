@@ -22,7 +22,7 @@ Orden del día
 1. Revisión de tareas realizadas por la Junta en los últimos meses
 ------------------------------------------------------------------
 
-La Junta presenta las tareas realizadas durante los últimos meses. Las tareas realizadas estan alienadas con los objetivos iniciales de la Junta en las siguientes areas:
+La Junta presenta las tareas realizadas durante los últimos meses. Las tareas realizadas estan alineadas con los objetivos iniciales de la Junta en las siguientes areas:
 
 - Python España como espacio de encuentro de las comunidades locales
 
@@ -34,7 +34,7 @@ Algunas de las tareas realizadas:
 
 - Espacio de encuentro entre comunidades locales.
 
-   - Cuenta basic de Streamyard para uso de todas las comunidades locales.
+   - Contratación de cuenta basic de Streamyard para uso de todas las comunidades locales.
 
    - Celebración de TabularConf en enero 2020 - Python Málaga, Salamanca, Valladolid, Canarias, RLadies Madrid, RLadies Canarias (11 charlas, música en directo, concursos, sorteos, ~200 espectadores simultáneos)
 
@@ -101,14 +101,14 @@ Algunas de las tareas realizadas:
 2. Estado de cuentas de la Asociación
 -------------------------------------
 
-Se presentan las cuentas actuales de la Asociación por tesorería.
+Se presentan las cuentas actuales de la Asociación por parte de tesorería.
 
-Hay un pequeño comentario sobre si el impuesto de sociedades es necesario o no. El tesorero y el anterior presidente comentan la experiencia al respecto de conversaciones con la gestoría.
+Hay un pequeño comentario sobre si el impuesto de sociedades es necesario o no. El tesorero y el anterior presidente comentan la experiencia al respecto de conversaciones con la gestoría y la necesidad actual de pagarlo.
 
 3. Cambio de estatutos para utilizar un lenguaje más inclusivo
 --------------------------------------------------------------
 
-La Junta presenta la `propuesta de cambio de estatutos <https://github.com/python-spain/documentacion/pull/48>`_ para utilizar un lenguaje más inclusivo en los mismos.
+La Junta presenta la `propuesta de cambio de estatutos <https://github.com/python-spain/documentacion/pull/48>`_ para utilizar un lenguaje más inclusivo.
 
 Durante la presentación se discute sobre la utilización de la forma neutra (**socies**) pero se desestima al no tener claro la validez legal en los estatutos y los posibles problemas con traductores automáticos.
 
@@ -125,7 +125,8 @@ Utilizamos la herramienta `metroretro <https://metroretro.io/board/LB4SHPH49EYW>
 
 Las tareas que han aparecido durante la sesión:
 
-## Me gustaría empezar
+Me gustaría empezar
++++++++++++++++++++
 
 ¿Qué proyectos te gustaría que comenzase la asociación o la Junta Directiva?
 
@@ -143,7 +144,8 @@ Las tareas que han aparecido durante la sesión:
 - Un grupo de trabajo para crear material de aprendizaje (Sin tanto marketing ni otras cosas)
 - Un grupo de trabajo de discusión técnica del lenguaje y poder ayudar a que más gente contribuya a CPython.
 
-## Me gustaría mejorar
+Me gustaría mejorar
++++++++++++++++++++
 
 ¿Qué sucede ahora en la comunidad que habría que mejorar o puede causar preocupación?
 
@@ -166,7 +168,8 @@ Las tareas que han aparecido durante la sesión:
 - Centralizar métodos de comunicación
 - La web necesita amor
 
-## Me ha gustado mucho
+Me ha gustado mucho
++++++++++++++++++++
 
 ¿Qué cosas se han hecho que te han gustado mucho?
 
