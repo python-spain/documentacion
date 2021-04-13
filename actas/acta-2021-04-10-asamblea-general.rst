@@ -119,7 +119,7 @@ Con 20 votos a favor, 0 en contra y 0 abstenciones se aprueba la propuesta de ca
 4. Retro-prospectiva
 --------------------
 
-Utilizamos la herramienta `metroretro <https://metroretro.io/board/LB4SHPH49EYW>`_ para recoger feedback y posibles tareas a realizar por la junta, las socias y los grupos de trabajo.
+Utilizamos la herramienta `metroretro <https://metroretro.io>`_ para recoger feedback y posibles tareas a realizar por la junta, las socias y los grupos de trabajo.
 
 Las tareas que han aparecido durante la sesión:
 
