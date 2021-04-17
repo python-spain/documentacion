@@ -1,0 +1,96 @@
+Acta Junta Python España 13 de Abril de 2021
+============================================
+
+En la ciudad de Barcelona, Madrid y Valencia siendo las 19:00 horas del 13 de Abril de 2021
+y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Repaso tareas pendientes
+2. Cambio de estatutos aprobados en Asamblea General
+3. Publicar estado cuentas Asociación
+4. Impresiones última Asamblea General
+5. Ruegos y preguntas
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Marcos Gabarda marcosgabarda_
+- Israel Saeta dukebody_
+- Yamila Moreno yamila-moreno_
+- David Barragán bameda_
+- Raúl Cumplido raulcd_
+
+
+1. Repaso tareas pendientes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Estado de apoderados del banco sigue pendiente de respuesta de Triodos.
+
+  - Marcos irá a la oficina a tratar de gestionarlo presencialmente.
+
+  - Preguntar a Triodos por la dirección de envío de la nueva tarjeta.
+
+- Estado de direcciones de correo @es.python.org para socias.
+
+  - Se ha enviado la comunicación.
+
+  - Se han recibido varias solicitudes. David se encarga de darlas de alta.
+
+  - Se acuerda que se permitirán peticiones de cuenta de correo siempre que tengan que ver con el nombre/apellidos de las socias que lo solicitan.
+
+- Estado RGPD
+
+  - Raúl se encarga de enviar mail recordatorio.
+
+- `Migracode colaboración <https://comunidad.es.python.org/t/colaboracion-con-migracode-para-workshop-de-introduccion-a-python/520/5>`_
+
+  - Se ha enviado texto, se sigue buscando gente para generar el contenido del curso y para impartirlo.
+
+  - Se comenta si podemos reutilizar material de algún curso o tutorial que se haya impartido en las comunidades locales.
+  
+  - Marcos escribe en el Telegram de comunidades locales para ver si tienen algo/quieren colaborar.
+
+
+2. Cambio de estatutos aprobados en Asamblea General
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Se comenta que la sede de la Asociación deberá cambiar debido a la empresa amiga cambiando de domicilio.
+
+- Se acuerda modificar ya los estatutos con los cambios aprobados y modificar la sede una vez se tengan más datos. Actualmente no se recibe prácticamente correspondencia y se puede cambiar la sede en hacienda en cuanto tengamos nuevo domicilio fiscal sin requerir cambio de estatutos.
+
+- Marcos se pone en contacto con la gestoría para gestionar el cambio de estatutos aprobados en la Asamblea General.
+
+3. Publicar estado cuentas Asociación
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Se acuerda publicar en la web el estado de cuentas de la Asociación similar al que se expuso en la Asamblea General.
+
+4. Impresiones última Asamblea General
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Todas en la Junta revisaremos las tareas e ideas que aparecieron en metroretro en la Asamblea General.
+
+- En la próxima reunión de Junta revisaremos las diferentes tareas para en base a las tareas que estamos realizando actualmente y los objetivos iniciales de la Junta priorizar nuevos objetivos que podríamos realizar.
+
+
+5. Ruegos y preguntas
+^^^^^^^^^^^^^^^^^^^^^
+
+Israel pregunta por la Newsletter. David da un update del estado y el trabajo que está realizando el grupo de trabajo. Será muy parecido a lo que se presentó en la Asamblea General y las personas involucradas han tenido otras tareas. Se sigue trabajando en la Newsletter.
+
+Se cierra la reunión de la Junta a las 20:24 horas.
+
+Secretaría,
+
+Raúl Cumplido
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda)
+.. _atugores: https://github.com/atugores)
