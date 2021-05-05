@@ -1,0 +1,153 @@
+Acta Junta Python España 4 de Mayo de 2021
+===========================================
+
+En la ciudad de Barcelona, Madrid y Valencia siendo las 19:00 horas del 4 de Mayo de 2021
+y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Repaso tareas anteriores
+2. Email recibido para colaboración con API Addicts
+3. Definición objetivos de la Asociación Q2-Q3
+4. Ruegos y preguntas
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Marcos Gabarda marcosgabarda_
+- Israel Saeta dukebody_
+- Yamila Moreno yamila-moreno_
+- David Barragán bameda_
+- Raúl Cumplido raulcd_
+
+
+1. Repaso tareas pendientes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Estado de apoderados del banco sigue pendiente de respuesta de Triodos.
+
+  - marcosgabarda_ ha enviado la documentación que había pendiente.
+
+  - Cuando dukebody_ esté de alta, Juanlu cancela su tarjeta y se emite la nueva.
+
+- Estado de direcciones de correo @es.python.org para socias.
+
+  - bameda_ sigue gestionando las nuevas solicitudes.
+
+- `Migracode colaboración <https://comunidad.es.python.org/t/colaboracion-con-migracode-para-workshop-de-introduccion-a-python/520/5>`_
+
+  - Se ha creado un grupo de Telegram donde se está gestionando.
+
+- Grupo de trabajo de Infraestructura
+  
+  - Se han documentado las máquinas que se utilizan de la Infraestructura actual y el motivo por el que no se puede reducir.
+
+  - Falta documentar Github pages actuales.
+
+  - Para documentar quien tiene acceso a la infraestructura, se acuerda rotar las claves y passwords y se le dará únicamente a las personas que necesiten acceso.
+
+
+2. Email recibido para colaboración con API Addicts
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Se ha recibido un email para una colaboración con API Addicts.
+
+Se discute al no tener claro si los cursos que organizan tienen ánimo de lucro y si hay una empresa detrás de la Asociación.
+
+Se acuerda darle difusión a los eventos que nos parezcan interesantes para nuestra comunidad.
+
+Si quieren ponernos como colaboradores en su web nos parece ok ya que hemos colaborado en eventos de DiversIT.
+
+3. Definición objetivos de la Asociación Q2-Q3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Durante la última Junta decidimos revisar el metroretro que realizamos durante la Asamblea General y definir los objetivos de los próximos meses.
+
+Hacemos una pequeña lluvia de ideas. Los integrantes de la Junta definen algunos objetivos en los que podríamos trabajar.
+
+Objetivos propuestos por dukebody_:
+
+- Curso con Migracode (colaboran marcosgabarda_, raulcd_, dukebody_)
+
+- Documentar procedimientos (colaboran yamila-moreno_, marcosgabarda_)
+
+  - Alta/Baja socias, domiciliaciones de cuots.
+
+  - Consultoría, facturación
+
+  - Infraestructura: DNS, mail, etc.
+
+- Participación >50% comunidades locales en organización PyConES (colaboran dukebody_)
+
+  - Por ejemplo, revisando C4P o dando difusión. 
+
+- Rediseño web con 4geeks (colaboran dukebody_, bameda_)
+
+- Comenzar a organizar algún evento común pequeño extra. Muchas comunidades están sin mucha actividad y puede ir bien aunar fuerzas.
+
+Objetivos propuestos por raulcd_:
+
+- Difusión / Formación (colaboran raulcd_)
+
+  - En línea con el trabajo de Migracode.
+
+  - Crear grupo de trabajo para generar contenido para cursos.
+
+- Consolidar socias actuales. (colaboran yamila-moreno_, dukebody_, raulcd_)
+
+  - Proponer un calendly para tener reuniones con socias para hacer la asociación más participativa.
+
+- Incluir formulario RGPD como parte de alta de socios.
+
+Objetivos propuestos por bameda_:
+
+- Mejorar comunicación Interna/Externa (colaboran bameda_)
+
+  - Newsletter
+
+  - Web de socies
+
+Objetivos propuestos por marcosgabarda_:
+
+- Mejorar la documentación de procesos internos (colaboran marcosgabarda_, yamila-moreno_)
+
+  - Cambio de apoderados en el banco
+
+  - Gestión de domiciliaciones y la integración con la web de socies
+
+  - Aplicación de gestión de socies. Dar de alta, importar fichero de remesas, enviar notificaciones de cuotas, correo de bienvenida, etc.
+
+- Formulario de inscripción de miembro (colaboran dukebody_, marcosgabarda_)
+
+- Gestión de socies que no están al corriente de pago (colaboran marcosgabarda_)
+
+  - Intentar recuperar y averiguar el motivo por el que dejaron de pagar
+
+Objetivos propuestos por yamila-moreno_:
+
+- Documentar procesos para PyConES (Libro blanco PyConES) (colaboran dukebody_, yamila-moreno_)
+
+- Enviar actas de la Junta a Telegram (colaboran yamila-moreno_, raulcd_)
+
+- Invitar socies a las reuniones de la Junta (colaboran yamila-moreno_, raulcd_)
+
+4. Ruegos y preguntas
+^^^^^^^^^^^^^^^^^^^^^
+
+Sin ruegos ni preguntas.
+
+Se cierra la reunión de la Junta a las 20:38 horas.
+
+Secretaría,
+
+Raúl Cumplido
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda)
+.. _atugores: https://github.com/atugores)
