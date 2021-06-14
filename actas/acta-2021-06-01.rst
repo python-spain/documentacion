@@ -1,0 +1,109 @@
+Acta Junta Python España 1 de Junio de 2021
+===========================================
+
+En la ciudad de Barcelona, Madrid, Ordino y Valencia siendo las 19:00 horas del 1 de Junio de 2021
+y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Repaso tareas anteriores
+2. Futuros eventos y colaboraciones
+3. Estado grupos de trabajo
+4. Tareas trimestrales
+5. Ruegos y preguntas
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Marcos Gabarda marcosgabarda_
+- Israel Saeta dukebody_
+- David Barragán bameda_
+- Raúl Cumplido raulcd_
+- Xavi Torelló XaviTorello_
+
+
+1. Repaso tareas pendientes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Triodos. Apoderados y nueva tarjeta.
+
+  - Tarjeta: dukebody_ la tiene en su poder. Se encuentra pendiente de activar. La nueva tarjeta sigue a nombre de Juanlu, necesitamos su ayuda para activarla.
+
+  - Para el cambio de apoderados marcosgabarda_ ha entregado toda la documentación. La sucursal tiene los documentos y se encuentra en trámite. La última actualización de Triodos al respecto es del 20 de Mayo.
+
+- Colaboración con Migracode.
+
+  - Equipo trabajando en la preparación del `workshop <https://github.com/python-spain/migracode-workshop>`_.
+
+- Cambio de estatutos
+
+  - dukebody_ y raulcd_ se han puesto de acuerdo en las firmas del documento para mandar a la gestoría.
+
+2. Futuros eventos y colaboraciones
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Se quiere repetir el Hacktoberfest otra vez, se está empezando a organizar de nuevo.
+
+La idea es extenderlo a más lenguajes, más gente, más proyectos, etc.
+
+Se va a animar a diversas comunidades a colaborar con nosotros. dukebody_ lo esta moviendo con la lista de comunidades tecnológicas con las que se han hecho otros eventos como DiversIT.
+
+Colaboración también con grupo de `geovoluntarios <https://geovoluntarios.org/>`_.
+
+Están colaborando con un grupo de bomberos que usan drones en operativos de búsqueda y salvamento de personas. Una de las cosas que querían era utilizar IA para identificar indicios (prendas) del color de la ropa que llevaba la persona desaparecida y han pensado que se podría hacer en Python.
+
+3. Estado grupos de trabajo
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- GT Web
+
+  - Se ha propuesto rehacer la web como proyecto voluntario dentro del bootcamp de 4Geeks.
+
+  - Añadir página a la web para permitir suscribirse a la mailing list
+
+  - Se decide crear un formulario de miembres desvinculado de lista de correo y más parecido al de socies.
+
+- GT Comunicación
+
+  - Se ha enviado la primera Newsletter.
+
+- PyCon ES
+
+  - Se cerró el período de propuestas. Se están buscando revisores para las propuestas, se cerrará la fecha de búsqueda de revisores el 6.
+
+    - Hay 60 propuestas.
+
+    - Hay 28 revisores de momento.
+
+  - Se avisarán las propuestas seleccionadas el mes que viene.
+
+  - Se está mirando el tema de patrocinios ya que hay bastantes interesados.
+
+    - La idea es utilizar los patrocinios para obsequios a ponentes, sorteos, etcetera.
+
+4. Tareas trimestrales
+^^^^^^^^^^^^^^^^^^^^^^
+
+Se han discutido las diferentes issues en `github <https://github.com/python-spain/asociacion/issues?q=is%3Aissue+is%3Aopen+label%3A2021-T2>`_ y hemos actualizado el estado de las mismas.
+
+5. Ruegos y preguntas
+^^^^^^^^^^^^^^^^^^^^^
+
+Marcos comenta que Juanlu le ha contestado sobre la tarjeta durante la reunión 
+y que se pondrá con ello al día siguiente.
+
+Se cierra la reunión de la Junta a las 20:35 horas.
+
+Secretaría,
+
+Raúl Cumplido
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda)
+.. _atugores: https://github.com/atugores)
