@@ -1,0 +1,181 @@
+Acta Junta Python España 6 de Julio de 2021
+===========================================
+
+En la ciudad de Barcelona, Madrid, Ordino y Valencia siendo las 19:00 horas del 6 de Julio de 2021
+y en única convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Revisión tareas anteriores
+2. Hacktoberfest’21
+3. Eventos presenciales
+4. Propuesta de networking
+5. Grupos trabajo
+6. Tareas trimestrales
+7. Ruegos y preguntas
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Marcos Gabarda marcosgabarda_
+- Israel Saeta dukebody_
+- David Barragán bameda_
+- Yamila Moreno yamila-moreno_
+- Xavi Torelló XaviTorello_
+
+
+1. Revisión tareas anteriores
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Triodos
+
+  - Cambio de apoderados: marcosgabarda_ contacta con gestor@ para confirmar si falta algo por parte nuestra
+
+  - yamila-moreno_ avisa que estamos recibiendo facturas domiciliadas en Scaleway, bameda_ confirma lo mismo con Mailjet
+      - marcosgabarda_ confirma que se activó la domi para evitar problemas de pago al no tener la tarjeta correctamente renovada
+
+  - discutimos opciones sobre sí merecería la pena estudiar opciones de cambio de Triodos (herramientas anticuadas, tarifas/comisiones elevadas)
+
+- Colaboración con Migracode.
+
+  - marcosgabarda_ explica que se incorporó una persona más como profe/tutor. El proyecto anda un poco parado pero hay ganas de empujarlo y rematar el temario
+
+- Cambio de estatutos
+
+  - Faltaba pegar imágenes en algún documento.
+  - La documentación está ya presentada. Nos lo confirmarán cuando tengamos la resolución
+
+
+2. Hacktoberfest’21
+^^^^^^^^^^^^^^^^^^^^
+
+dukebody_ ha conseguido reclutar gente dentro de Python España. Pondrá nuestro caso como ejemplo a ver si otras comunidades se animan.
+
+XaviTorello_ confirma que Geeks.CAT tiene intención de participar en el evento. Aún se está decidiendo cómo encaramos los proyectos y no hay nada claro más que tenemos ganas de volver a montar algo.
+
+¿Conocéis más gente que lleve pet projects interesantes? Decidles que escriban en https://github.com/python-spain/asociacion/issues?q=is%3Aissue+is%3Aopen+label%3A2021-T2 .
+
+Discutimos sobre, si la situación lo permite después de verano, dar apoyo a eventos presenciales de comunidades locales a partir de setiembre. Lo tratamos en genérico en el punto 3. Eventos presenciales
+
+
+3. Eventos presenciales
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+Con ganas de estimular que las comunidades locales retomen su actividad presencial con la máxima normalidad posible.
+
+Se plantean algunas propuestas:
+  - destinar una partida para que cada comunidad pueda tirar adelante eventos presenciales (p.e 100€ por evento y comunidad)
+  - preparar merchandising (stickers, …) y mandarlos directamente a las comunidades que prevean tener actividad
+
+Acciones
+  - bameda_ ping a comunidades locales: queremos hacer esto, qué pensáis?
+  - la idea es enfocarlo para después de vacaciones //LA VUELTA AL COLE!
+
+4. Propuesta de networking
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+dukebody_ explica su propuesta:
+
+::
+
+  Una de las motivaciones principales que mencionan nuevos y viejos socios es que se apuntan para conocer gente con intereses comunes y así estar enterado de los últimos avances, pedir ayuda si sabes quién sabe sobre X tema, etc. Es decir, networking.
+
+  En el pasado el networking se hacía más en la PyConES, pero:
+    - Hasta el año que viene las PyConES serán remotas.
+    - Igualmente hay gran parte del año donde estaría guay favorecer más interacción entre socies.
+
+  En mi curro estamos utilizando una herramienta para conocer gente de forma “random” que nos está funcionando relativamente bien: https://www.donut.com/
+
+  Mi propuesta es tratar de replicar esto en una prueba piloto. Crear un formulario donde se ponga:
+    - Nombre completo
+    - Email
+    - Intro sobre ti tamaño tweet (240 caracteres)
+    - Temas de interés (a seleccionar entre una lista)
+
+  Proceso cada 2 (o el periodo que se decida) semanas:
+    - Hacemos pairings pseudo-aleatorios entre la gente que se ha apuntado, tratando de seleccionar preferiblemente gente que tenga temas de interés en común.
+    - Les enviamos un mail a ambos y les decimos que queden para hablar un día por video-conferencia, 15 minutillos o más.
+    - Al final del periodo se les pregunta si se han reunido o no para marcarlo y ver si ha tenido éxito o no.
+ 
+bameda_ lo considera interesante pero plantea cierto miedo de que todo quede en nada y el esfuerzo para dinamizarlo sirva de poco.
+
+yamila-moreno_ propone realizar actividades centralizadas en Discord, que algún dinamizador proponga actividades cada X y que quién quiera/pueda se apunte. “juegos” y actividades como excusa para conocernos. p.e club de lectura, “cadáveres exquisitos”, katas técnicas, ...
+
+Acordamos
+  1. dukebody_ medir interés por la propuesta original
+      - según lo que veamos estudiar el tipo de actividades a dinamizar
+  2. yamila-moreno_ propone que no debería depender de la JD y sea una actividad de la Asociación
+  3. dukebody_ propone hacer los grupos de forma manual
+
+
+5. Update de grupos de Trabajo
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- GT Web
+    - Web 4geeks
+        - Han ido bastante lentos evaluando posibles sistemas para montarla, ya que son muy juniors, pero parece que ya empiezan a coger tracción. En este proyecto están ayudando Cristián Maureira y José Carlos García (quobit)
+        - Problema actual: no conseguimos que se decidan entre Gatsby, Hugo o Pelican ya que ellos controlan más React (Gatsby) pero Hugo (Golang) y Pelican (Python) apenas han tenido tiempo de probarlos porque les cuesta un montón arrancar.
+        - Consejo: Plantearles el factor mantenibilidad futura.
+
+- GT Infra
+    - Documentación finalizada
+        - Crear cuentas gmail para socies
+        - Google Workspace
+        - DNS (CDmon)
+        - Infra (Scaleway)
+    - Documentación pendiente
+        - XaviTorello_ Documentar la transición de JD / GTs
+            - activos y servicios
+            - rotación miembros / owners de los grupos de GWorkspace
+            - rotación claves?
+        - yamila-moreno_ revisar y actualizar inventario servicios-cuentas
+
+- GT Comunicación
+    - bameda_ Poca actividad este mes, solo dos personas acudimos a la reu. La semana que viene hay nueva reunión.
+    - tareas finalizadas
+        - Mensajes provoto PSF → éxito!
+
+    - tareas pendientes
+        - Mejora en el bot Rose de Telegram de @PythonEnEspañol
+            - Sacar todos los contenidos posibles hacia una web estática para referenciarlos directamente en el bot
+        - Pedir a las comunidades locales contenido a difundir en la próxima newsletter
+
+- PyCon ES
+    - Formularios de evaluación cerrados, elaborando agenda (4 personas) y organizando patrocinios (4 personas).
+    - El objetivo es tener la agenda antes de que acabe julio. 
+
+
+6. Tareas trimestrales
+^^^^^^^^^^^^^^^^^^^^^^^
+
+https://github.com/python-spain/asociacion/issues?q=is%3Aissue+is%3Aopen+label%3A2021-T2
+
+Acordamos revisar las issues T2 para sincronizar estado actual y cerrar las que toque.
+
+Acordamos autoasignarnos las issues para el T3, lo revisaremos en la siguiente reunión de JD.
+
+
+7. Ruegos y preguntas
+^^^^^^^^^^^^^^^^^^^^^^^
+
+- Asamblea General Extraordinaria 2021
+    - Acordamos planificarla para realizarla durante la PyConES 2021
+    - Añadiremos nueva tarea para T3-T4 con alcance
+        - definir roadmap para recibir candidaturas
+        - convocar socios para la votación
+
+Se cierra la reunión de la Junta a las 20:36 horas.
+
+Vicepresidencia en nombre de Secretaría,
+
+Xavi Torelló
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda)
+.. _atugores: https://github.com/atugores)
