@@ -20,10 +20,11 @@ mediante comunicación autenticada, por el Presidente de la Junta,
 expresando el lugar, día y hora de la reunión así como el orden
 del día con expresión concreta de los asuntos a tratar. Entre la
 convocatoria y el día señalado para la celebración de la Asamblea
-en primera convocatoria habrán de mediar al menos quince días,
-pudiendo así mismo hacerse constar si procediera, la fecha y hora
-en que se reunirá la Asamblea en segunda convocatoria, sin que
-entre una y otra pueda mediar un plazo inferior a una hora.
+en primera convocatoria habrán de mediar al menos quince días.
+
+Se hará constar también la fecha y hora en que se reunirá la Asamblea
+en segunda convocatoria, sin que entre una y otra pueda mediar un plazo
+inferior a 10 minutos.
 
 Artículo 3.
 La Asamblea General Ordinaria habrá de tratar los siguientes
