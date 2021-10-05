@@ -7,7 +7,7 @@ y a las 19:00 horas en segunda convocatoria se celebra la Asamblea Extraordinari
 Orden del día
 ~~~~~~~~~~~~~
 1. Revisión de tareas realizadas por la Junta y grupos de trabajo en los últimos meses
-2. Cambio del reglamento de régimen interno para reducir el tiempo entre primera y segunda convocatoria de las asambleas a 10 minutos
+2. Cambio del reglamento de régimen interno para reducir el tiempo mínimo entre primera y segunda convocatoria de las asambleas a 10 minutos
 3. Llamada a candidaturas para la renovación de la Junta Directiva
 4. Ruegos y preguntas
 5. Networking entre socies asistentes
@@ -54,14 +54,14 @@ Grupos de trabajo y actividades realizadas
 Se presentan las diversas actividades que se han realizado por la Junta, socies y
 comunidades locales con apoyo de la Asociación.
 
-2. Cambio del reglamento de régimen interno para reducir el tiempo entre primera y segunda convocatoria de las asambleas a 10 minutos 
--------------------------------------------------------------------------------------------------------------------------------------
+2. Cambio del reglamento de régimen interno para reducir el tiempo mínimo entre primera y segunda convocatoria de las asambleas a 10 minutos
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 En la anterior Asamblea general se propuso que se modificara el reglamento
 de régimen interno para modificar el tiempo de espera entre primera
 y segunda convocatoria para las Asambleas.
 
-Se propone reducir el tiempo de espera a un mínimo de 10 minutos de los 30 actuales.
+Se propone reducir el tiempo de espera a un mínimo de 10 minutos en lugar de los 30 actuales.
 
 La propuesta se aprueba de manera unánime con 17 votos a favor, 0 en contra y 0 abstenciones.
 
