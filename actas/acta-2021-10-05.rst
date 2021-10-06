@@ -1,0 +1,110 @@
+Acta Junta Python España 5 de Octubre de 2021
+=============================================
+
+De forma Online siendo las 19:00 horas del 5 de Octubre de 2021 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Ratificación socio de honor otorgado por la Junta
+2. Estado cuenta banco Triodos
+3. Candidaturas próxima Junta
+4. Obsequio único para organizadores PyConES 2021
+5. Abrir Kahoot para comunidades locales
+6. Reactivar ayudas para eventos locales
+7. Migracode
+8. Ruegos y preguntas
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Marcos Gabarda marcosgabarda_
+- Israel Saeta dukebody_
+- David Barragán bameda_
+- Yamila Moreno yamila-moreno_
+- Xavi Torelló XaviTorello_
+- Raúl Cumplido raulcd_
+
+
+1. Ratificación socio de honor otorgado por la Junta
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+La Junta ha decidido dar el título de socio de Honor al expresidente
+Juan Luis Cano, socio número 003, por haber contribuido de modo relevante
+a la dignificación y desarrollo de la Asociación como se estipula en los
+estatutos de la Asociación.
+
+2. Estado cuenta banco Triodos
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Según nuestro conocimiento, el estado no ha cambiado.
+marcosgabarda_ llamará a Triodos par conocer el estado.
+
+
+3. Candidaturas próxima Junta
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+La Junta expone dudas sobre si existirán nuevas candidaturas y que podemos
+hacer para que les socies se apunten a crear candidaturas.
+
+* Mandar comunicación en canal de socies para recordar elecciones. bameda_
+* Hablar con comunidades locales para ver si hay interés. dukebody_
+
+4. Obsequio único para organizadores PyConES 2021
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Se aprueba en Junta que se ofrezca un obsequio a los Organizadores de
+la PyConES. dukebody_ se encarga de elegir el obsequio y la logística.
+
+5. Abrir Kahoot para comunidades locales
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Se discute en Junta si continuar con la suscripción de Kahoot y ofrecerla
+a las comunidades locales.
+
+La Junta está de acuerdo en pagar la suscripción si se utiliza
+pero no tenemos claro si se le dará uso.
+
+Se aprueba en Junta que se ofrezca la cuenta de Kahoot de la organización
+a las comunidades locales y revisaremos en 3 meses si se está utilizando
+o preferimos darlo de baja.
+
+6. Reactivar ayudas para eventos locales
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Se aprueba en Junta reactivar las ayudas a eventos de socies según el
+reglamento de apoyo a eventos.
+
+Se hará una pequeña campaña de comunicación a socies, bameda_ se encarga.
+
+7. Migracode
+^^^^^^^^^^^^
+
+La situación actual es que existe contenido y existen Pull requests añadiendo
+el contenido restante. El contenido está prácticamente terminado.
+
+Hay que dar un repaso al contenido para darle coherencia ya que está
+creado por diferentes personas.
+
+El siguiente paso es dar el taller de Python.
+
+marcosgabarda_ coordina lo que falta por hacer.
+yamila-moreno_ traduce y revisa el contenido actual.
+
+8. Ruegos y preguntas
+^^^^^^^^^^^^^^^^^^^^^
+
+Se cierra la reunión de la Junta a las 20:43 horas.
+
+Secretaría,
+
+Raúl Cumplido
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda)
