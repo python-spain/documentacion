@@ -51,6 +51,7 @@ hacer para que les socies se apunten a crear candidaturas.
 
 * Mandar comunicación en canal de socies para recordar elecciones. bameda_
 * Hablar con comunidades locales para ver si hay interés. dukebody_
+* Añadir en próxima newsletter información sobre las elecciones. bameda_
 
 4. Obsequio único para organizadores PyConES 2021
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
