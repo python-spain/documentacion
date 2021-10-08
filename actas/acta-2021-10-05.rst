@@ -46,7 +46,7 @@ marcosgabarda_ llamará a Triodos par conocer el estado.
 3. Candidaturas próxima Junta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-La Junta expone dudas sobre si existirán nuevas candidaturas y que podemos
+La Junta expone dudas sobre si existirán nuevas candidaturas y qué podemos
 hacer para que les socies se apunten a crear candidaturas.
 
 * Mandar comunicación en canal de socies para recordar elecciones. bameda_
