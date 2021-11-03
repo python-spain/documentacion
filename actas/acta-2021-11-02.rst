@@ -1,5 +1,5 @@
 Acta Junta Python España 2 de noviembre de 2021
-=============================================
+===============================================
 
 De forma Online siendo las 19:00 horas del 2 de noviembre de 2021 y en única
 convocatoria, se celebra la reunión de la Junta Directiva de Python España.
@@ -76,7 +76,6 @@ Acordamos
   3. integrar la rotación de la tarjeta de tesorería dentro de los procedimientos
      relacionados con el cambio de JD
   4. aprovecharemos `4.2)` para definir y documentar el procedimiento marcosgabarda_
-
 
 
 5. Propuestas JD 2022-2023 - Novedades?
