@@ -1,0 +1,105 @@
+Acta Junta Python España 2 de noviembre de 2021
+===============================================
+
+De forma Online siendo las 19:00 horas del 2 de noviembre de 2021 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. PyCampES
+2. Tabularconf
+3. Regalo Chile PyConES
+4. Estado de cambio de apoderados en Triodos
+5. Propuestas JD 2022-2023 - Novedades
+6. Ruegos y preguntas
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Marcos Gabarda marcosgabarda_
+- Israel Saeta dukebody_
+- David Barragán bameda_
+- Xavi Torelló XaviTorello_
+
+
+1. PyCampES
+^^^^^^^^^^^
+
+Votación: Que Python España cubra el grant si PSF/EuroPythonSociety no patrocinan
+($700 / 692.29€) para evitar tener que cambiar precios del evento.
+
+- Posponemos votación a la espera de confirmar si se devolvió el grant y saber cómo hay que proceder
+  (ver punto `1.4)`)
+
+Acordamos
+  1. Revisar si tenemos factura del alojamiento. dukebody_
+  2. Revisar y preparar resumen de pagos - devoluciones. marcosgabarda_ 
+  3. Confirmar si devolvimos el grant de la PSF ($700 / 692.29€). marcosgabarda_
+  4. Hablar con la org del PyCamp para retomar conversaciones sobre el grant, 
+     confirmar si hay que devolverlo o cómo deberíamos proceder. XaviTorello_
+
+
+2. Tabularconf
+^^^^^^^^^^^^^^
+
+Conferencia genérica Data Science. Se organizó este enero de 2021 totalmente 
+virtual, con gente de varias comunidades, buena acogida.
+
+Propuesta año que viene: presencial, con sitio aún por decidir.
+
+Votación: renovar dominio tabularconf.es (~10€)
+  - Acordamos renovar el dominio
+
+Acordamos
+  1. Preparar tw de resumen para poder hacer difusión (sobre el evento y 
+     para encontrar más organizadoras). dukebody_
+
+
+3. Regalo Chile PyConES
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Transferwise nos pide copia de DNIs de toda la junta.
+
+Nos planteamos Paypal cómo alternativa. 
+
+Si no es viable necesitaremos los DNIs de todas.
+
+
+4. Estado de cambio de apoderados en Triodos
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Acordamos
+  1. pedir tarjeta nominal para tesorería. marcosgabarda_
+  2. dar de baja la de Juanlu. marcosgabarda_
+  3. integrar la rotación de la tarjeta de tesorería dentro de los procedimientos
+     relacionados con el cambio de JD
+  4. aprovecharemos `4.2)` para definir y documentar el procedimiento marcosgabarda_
+
+
+5. Propuestas JD 2022-2023 - Novedades?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Breve sincronización de novedades sobre posibles candidaturas y posibles socies con ganas de involucrarse.
+
+
+6. Ruegos y preguntas
+^^^^^^^^^^^^^^^^^^^^^
+
+* Comentamos que sería interesante estimular y facilitar la creación de eventos presenciales. Parece que la escena está un poco parada y cuesta arrancar ahora que la normativa lo permite.
+    * Intentaremos establecer nuevas conversaciones con las demás comunidades locales
+
+
+Se cierra la reunión de la Junta a las 20:34 horas.
+
+Vicepresidencia en nombre de Secretaría,
+
+XaviTorello_
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda)
