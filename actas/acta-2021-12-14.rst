@@ -30,8 +30,7 @@ Asisten los miembros de la Junta Directiva por medios telemáticos:
 
 La sede social y fiscal de la Asociación debe actualizarse a una nueva dirección.
 Hoy en día se encuentra en el anterior domicilio de Kaleidos. Kaleidos ha dejado
-su oficina. Se propone actualizar la dirección temporalmente y, si es posible,
-una vez Kaleidos tenga nueva dirección cambiarla a su sede.
+su oficina y no podemos seguir utilizando esa dirección.
 
 Se preguntará a la gestoría qué trámites hay que realizar. Qué es necesario para cambiar
 la sede social, la fiscal y si podemos utilizar su dirección. marcosgabarda_ les pregunta.
@@ -41,7 +40,7 @@ la sede social, la fiscal y si podemos utilizar su dirección. marcosgabarda_ le
 
 No se ha utilizado desde la Asamblea general y la PyCon ES.
 Desde Octubre no se ha dado uso. Decidimos darlo de baja y en caso de que alguien
-lo solicité lo volvemos a activar.
+lo solicite lo volvemos a activar.
 
 3. Estado cambio de cuenta Triodos
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
