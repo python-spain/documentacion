@@ -1,0 +1,85 @@
+Acta Junta Python España 14 de Diciembre de 2021
+================================================
+
+De forma Online siendo las 19:00 horas del 14 de Diciembre de 2021 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Cambio de sede fiscal / social Python España
+2. Kahoot - Mantener cuenta de pago
+3. Estado cambio de cuenta Triodos
+4. Candidaturas próxima Junta
+5. PyCon ES 2022 Update
+6. Ruegos y preguntas
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Marcos Gabarda marcosgabarda_
+- Israel Saeta dukebody_
+- David Barragán bameda_
+- Yamila Moreno yamila-moreno_
+- Raúl Cumplido raulcd_
+
+
+1. Cambio de sede fiscal / social Python España
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+La sede social y fiscal de la Asociación debe actualizarse a una nueva dirección.
+Hoy en día se encuentra en el anterior domicilio de Kaleidos. Kaleidos ha dejado
+su oficina y no podemos seguir utilizando esa dirección.
+
+Se preguntará a la gestoría qué trámites hay que realizar. Qué es necesario para cambiar
+la sede social, la fiscal y si podemos utilizar su dirección. marcosgabarda_ les pregunta.
+
+2. Kahoot - Mantener cuenta de pago
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+No se ha utilizado desde la Asamblea general y la PyCon ES.
+Desde Octubre no se ha dado uso. Decidimos darlo de baja y en caso de que alguien
+lo solicite lo volvemos a activar.
+
+3. Estado cambio de cuenta Triodos
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Triodos llamó a marcosgabarda_ y comentaron que falta un documento. Estamos a la espera
+de que envien el documento que falta para firmar. En caso de que exista cambio de Junta
+y en la Junta entrante existan miembros que se mantengan en las cuentas deben comunicarse
+en el banco como Junta saliente y como Junta entrante.
+
+
+4. Candidaturas próxima Junta
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Breve sincronización de novedades sobre posibles candidaturas y posibles socies con ganas de involucrarse.
+Se enviará recordatorio sobre el cambio de Junta en la próxima Newsletter.
+Se hará un llamamiento a nuevas Juntas en Telegram.
+
+Se acuerda que la próxima Asamblea General será en Abril. Para que sea un año después de la anterior.
+
+5. PyCon ES 2022 Update
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Se ha realizado la primera reunión para realizar la próxima PyCon ES y se están
+creando grupos de trabajo para empezar a trabajar en la nueva edición.
+
+
+6. Ruegos y preguntas
+^^^^^^^^^^^^^^^^^^^^^
+
+bameda_ comenta los contenidos de la próxima Newsletter.
+
+Se cierra la reunión de la Junta a las 19:58 horas.
+
+Secretaría,
+
+Raúl Cumplido
+
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda)
