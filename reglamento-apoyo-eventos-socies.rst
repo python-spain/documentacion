@@ -21,7 +21,7 @@ REGLAMENTO PARA EL APOYO DE PYTHON ESPAÑA A EVENTOS PROMOVIDOS POR GRUPO DE PER
 
 **Artículo 3** El evento deberá estar relacionado con la comunidad de Python, deberá contar con al menos una socia de la Asociación Python España en su organización y en el evento deberá regirse por el código de conducta aprobado en Python España o uno compatible con el mismo adaptado al evento en particular.
 
-**Artículo 4** El grupo promotor del evento deberá presentar una solicitud de vapoyo a la Junta Directiva de Python España en la que se incluya información básica del evento y del tipo de apoyo que se solicita a través del formulario preparado para tal propósito por mail a la Junta Directiva. Si la solicitud de apoyo fuera únicamente para la colaboración en la difusión del evento, el grupo promotor podrá contactar directamente a través de los canales oficiales de la Asociación (por ejemplo: correo, Twitter o Discourse).
+**Artículo 4** El grupo promotor del evento deberá presentar una solicitud de apoyo a la Junta Directiva de Python España en la que se incluya información básica del evento y del tipo de apoyo que se solicita a través del formulario preparado para tal propósito por mail a la Junta Directiva. Si la solicitud de apoyo fuera únicamente para la colaboración en la difusión del evento, el grupo promotor podrá contactar directamente a través de los canales oficiales de la Asociación (por ejemplo: correo, Twitter o Discourse).
 
 **Artículo 5** La Asociación Python España podrá contribuir económicamente al evento. Bajo petición, contribuciones anuales por comunidad o grupo local de hasta 200€ serán aprobadas directamente por Tesorería. En el caso de solicitar más de 200€ anualmente, la ayuda económica requerirá la aprobación de la Junta Directiva.
 
