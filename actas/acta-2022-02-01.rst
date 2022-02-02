@@ -54,7 +54,7 @@ Acordamos utilizar GoCardless para lanzar las remesas para el cobro de las cuota
 Breve sincronización de novedades sobre posibles candidaturas y posibles socies con ganas de involucrarse.
   - Clara y Johanna ya son socias de Python España
 
-dukebody_ hablará con Clara/Johanna para ofrecer ayuda en lo que podeamos, hacer difusión de la candidatura o lo que sea necesario.
+dukebody_ hablará con Clara/Johanna para ofrecer ayuda en lo que podamos, hacer difusión de la candidatura o lo que sea necesario.
 
 Con el objetivo de facilitar la rotación de Junta Directiva acordamos documentar el proceso de transferencia de Junta Directiva
   1. yamila-moreno_ abre borrador con los puntos identificados en https://docs.google.com/document/d/1dAeyjgMC8uDnhj5joeRdOIiiK9X696CE3oe_4Jhz0fQ/edit?pli=1
