@@ -1,0 +1,87 @@
+Acta Junta Python España 01 de Febrero de 2022
+================================================
+
+De forma Online siendo las 19:00 horas del 01 de Febrero de 2022 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Cambio de sede fiscal / social Python España
+2. Updates bancarios
+3. Candidaturas próxima Junta
+4. Herramientas para gestionar credenciales
+5. Ruegos y preguntas
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Marcos Gabarda marcosgabarda_
+- Yamila Moreno yamila-moreno_
+- Israel Saeta dukebody_
+- David Barragán bameda_
+- Xavier Torelló xavitorello_ (asumiendo el rol de Secretaría)
+
+
+1. Cambio de sede fiscal / social Python España
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+xavitorello_ resume el estado: 
+  1. Tenemos el borrador de explicación del proceso de cambio de sedes listo. 
+  2. Hemos abierto https://comunidad.es.python.org/t/cambio-de-domicilio-s-de-pythones/677 en Discourse para centralizar las conversaciones al respecto.
+
+Acordamos utilizar la lista de socias de Mailjet para la notificación, incluiremos el borrador y el link a Discourse.
+
+Dejaremos hasta el 01 de Marzo de 2022 para recibir feedback.
+
+Con el resultado, prepararemos los cambios estatutarios para que puedan ser revisados y aprobados en Asamblea. Lo revisamos en la siguiente reunión de JD (Marzo'22)
+
+2. Updates bancarios
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+marcosgabarda_ explica
+  1. Ya lo tenemos casi todo listo con Wise, están revisando y validando la última documentación entregada para que activen la cuenta IBAN
+
+Acordamos cambiar alguno de los pagos recurrentes de la Asociación a la tarjeta de Wise para validar el correcto funcionamiento.
+
+Acordamos utilizar GoCardless para lanzar las remesas para el cobro de las cuotas de socio de los miembros de la Junta Directiva, así validamos el proceso de domiciliación GoCardless.
+
+
+3. Candidaturas próxima Junta
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Breve sincronización de novedades sobre posibles candidaturas y posibles socies con ganas de involucrarse.
+  - Clara y Johanna ya son socias de Python España
+
+dukebody_ hablará con Clara/Johanna para ofrecer ayuda en lo que podeamos, hacer difusión de la candidatura o lo que sea necesario.
+
+Con el objetivo de facilitar la rotación de Junta Directiva acordamos documentar el proceso de transferencia de Junta Directiva
+  1. yamila-moreno_ abre borrador con los puntos identificados en https://docs.google.com/document/d/1dAeyjgMC8uDnhj5joeRdOIiiK9X696CE3oe_4Jhz0fQ/edit?pli=1
+  2. se asignan las distintas secciones del borrador para que podamos validarlo en la siguiente reunión de JD (Marzo'22) 
+
+5. Herramientas para gestionar credenciales
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Relacionado con https://github.com/python-spain/asociacion/issues/104
+
+Acordamos crear cuenta gratuita en Bitwarden para gestionar las credenciales de la Asociación. La idea es centralizarlas de forma segura pero sin condicionar a la siguiente JD para que puedan escoger la mejor manera de solucionarlo.
+
+bameda_ lo prepara y empezamos a volcar todas las credenciales
+
+
+6. Ruegos y preguntas
+^^^^^^^^^^^^^^^^^^^^^
+
+Se cierra la reunión de la Junta a las 20:20 horas.
+
+Vicepresidencia en nombre de Secretaría,
+
+xavitorello_ 
+
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda
+.. _xavitorello: https://github.com/xavitorello
