@@ -1,0 +1,90 @@
+Acta Junta Python España 11 de Enero de 2022
+============================================
+
+De forma Online siendo las 19:00 horas del 11 de Enero de 2022 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Presentación candidatura Junta 2022-2023
+2. Cambio de sede social y fiscal Python España
+3. Estado cambio de cuentas Triodos
+4. Apertura de cuenta en entidad bancaria alternativa
+5. Ruegos y preguntas
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Marcos Gabarda marcosgabarda_
+- Israel Saeta dukebody_
+- David Barragán bameda_
+- Yamila Moreno yamila-moreno_
+- Xavi Torelló XaviTorello_
+- Raúl Cumplido raulcd_
+
+Asisten como invitadas:
+
+- Clara Martínez
+- Johanna Sánchez
+
+1. Presentación candidatura Junta 2022-2023
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Asisten invitadas a la reunión posibles candidatas para la próxima Junta Directiva.
+Se realizan presentaciones y la Junta actual explica en que consisten
+los cargos y cuales son las labores que se realizan en la Junta y en la asociación.
+
+2. Cambio de sede social y fiscal Python España
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+La gestoría nos ha comentado que no permiten a la Asociación poner su sede
+fiscal y social en sus oficinas. Nos han comentado que se ponga la
+dirección de alguien de la Asociación.
+
+Para realizar el cambio de sede social se debe realizar un cambio
+de estatutos y votar en Asamblea.
+
+Se preguntará a APSL si se puede utilizar su dirección para sede social.
+
+En caso de que no sea posible se decide no realizar el cambio de la
+sede social para no realizar un cambio de estatutos pero se cambiará
+en la sede electrónica la sede fiscal y la de notificación.
+
+3. Estado cambio de apoderados cuenta Triodos
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Triodos pide actualización en una serie de documentos que se presentaron
+con errores para poder realizar el cambio de apoderados.
+
+Marcos actualiza sobre que es lo que falta y se encarga de recoger
+los documentos necesarios.
+
+4. Apertura de cuenta en entidad bancaria alternativa
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Israel expone la posibilidad de crear una cuenta en otra entidad alternativa
+que facilite la operativa.
+
+Se discute sobre los cambios en las domiciliaciones que se deberían realizar
+y los problemas que podría haber por ellos.
+
+Se decide abrir una cuenta con Wise y realizar una prueba realizando una
+transferencia y un pago.
+
+5. Ruegos y preguntas
+^^^^^^^^^^^^^^^^^^^^^
+
+Se cierra la reunión de la Junta a las 20:40 horas.
+
+Secretaría,
+
+Raúl Cumplido
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda)
