@@ -1,0 +1,107 @@
+Acta Junta Python España 01 de Marzo de 2022
+============================================
+
+De forma Online siendo las 19:00 horas del 01 de Marzo de 2022 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Updates bancarios
+2. Update cuenta Bitwarden
+3. Estado candidatura próxima Junta
+4. Estado documento de transferencia para próxima Junta
+5. Cambio de domicilio Asociación
+6. Convocatoria Asamblea general ordinaria 2022
+7. Ruegos y preguntas
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Marcos Gabarda marcosgabarda_
+- Israel Saeta dukebody_
+- David Barragán bameda_
+- Xavier Torelló xavitorello_
+- Raúl Cumplido raulcd_
+
+
+1. Updates bancarios
+^^^^^^^^^^^^^^^^^^^^
+
+El estado de la cuenta de Triodos se mantiene igual, se encuentra
+pendiente del cambio de nombre. Desde la Junta actual consideramos
+que el cambio de apoderados se debería hacer con la nueva Junta ya que
+se prevé realizar un cambio de Junta en los próximos meses.
+Tesorería comunica que han llegado nuevas condiciones con diferentes
+comisiones para la cuenta.
+
+Se ha creado una cuenta de Wise, se han mandado los DNIs actualizados
+y funciona sin problemas.
+Se ha creado la cuenta de GoCardless y lo hemos empezado a probar.
+
+Se han pasado las domiciliaciones de las cuotas de socies. Ha habido un
+par de fallos de cobro. La Junta aprueba ofrecer GoCardless para los
+cobros fallidos.
+
+marcosgabarda_ documenta como sincronizar pagos y estado de socies en
+el libro de socies con transferencias bancarias y GoCardless.
+
+2. Update estado cuenta Bitwarden
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+La cuenta de Bitwarden funciona y las cuentas están actualizadas.
+bameda_ gestiona acceso para dukebody_
+marcosgabarda_ añade datos de algunas contraseñas bancarias que faltan.
+
+3. Estado candidatura próxima Junta
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Existe una posible nueva candidatura. dukebody_ explica el estado y
+el trabajo que se está realizando.
+
+4. Estado documento de transferencia para próxima Junta
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Se ha creado un documento de transferencia para ayudar a la próxima Junta.
+Se revisan los datos que faltan por actualizar en el documento.
+
+5. Cambio de domicilio Asociación
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Se aprueba seguir con el procedimiento y preparar el cambio de estatutos
+para actualizar la sede social y fiscal en la dirección propuesta por el
+socio Antoni Aloy.
+
+Se votará el cambio estatutario durante la próxima Asamblea general.
+
+xavitorello_ realiza el borrador con los cambios de estatutos.
+
+6. Convocatoria Asamblea general ordinaria 2022
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Se propone convocar la próxima Asamblea de Junta General ordinaria el
+día 23 de Abril a las 17:00.
+
+raulcd_ se encarga de preparar y enviar la convocatoria de la próxima
+Asamblea. Deberá incluir el balance de la Junta actual,
+la propuesta de cambio de estatutos y la votación a la nueva Junta.
+
+Se hablará con la próxima candidatura para que preparen un email para
+enviar su candidatura después de enviar la convocatoria.
+
+7. Ruegos y preguntas
+^^^^^^^^^^^^^^^^^^^^^
+
+Se cierra la reunión de la Junta a las 20:07 horas.
+
+Secretaría,
+
+Raúl Cumplido
+
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda
+.. _xavitorello: https://github.com/xavitorello
