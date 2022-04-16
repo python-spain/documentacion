@@ -1,0 +1,82 @@
+Acta Junta Python España 04 de Abril de 2022
+============================================
+
+De forma Online siendo las 19:00 horas del 04 de Abril de 2022 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Conversación Python Segovia
+2. Update PyConES
+3. Preparación próxima Asamblea General
+4. Preparación transferencia de Junta
+5. Ruegos y preguntas
+
+-------------------------------------------
+
+Asisten los miembros de la Junta Directiva por medios telemáticos:
+
+- Marcos Gabarda marcosgabarda_
+- Yamila Moreno yamila-moreno_
+- Israel Saeta dukebody_
+- David Barragán bameda_
+- Xavier Torelló xavitorello_
+- Raúl Cumplido raulcd_
+
+
+1. Conversación Python Segovia
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+raulcd_ explica al resto de la Junta los mails intercambiados sobre posible
+Grupo en Python Segovia. Se les explicó qué ofrece la Asociación y posibles colaboraciones
+ayudando a poner en contacto otros grupos locales y dar visibilidad a los eventos
+que organicen.
+
+2. Update PyConES
+^^^^^^^^^^^^^^^^^
+
+Se discute sobre el presupuesto actual de la asociación y una posible aportación
+extraordinaria para la PyConES 2022 para becas para entradas/viajes/alojamientos.
+
+Existe un saldo positivo en las cuentas de la asociación gracias a previas PyCon ES
+que la Junta considera excesivo y se acuerda que parte de ese dinero se pueda invertir
+en becas. dukebody_ gestionará con organización PyCon ES 2022 para posible uso de
+ese presupuesto.
+
+También se discute sobre empezar a lanzar el call for venues para la PyConES 2023.
+
+Se acuerda se va a realizar un llamamiento para crear un grupo de voluntaries que gestione
+llamadas a call 4 venues.
+Se va a enviar en Telegram de socies el llamamiento buscando voluntarias para ese grupo.
+bameda_ envía comunicación.
+
+3. Preparación próxima Asamblea General
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Se discute sobre preparación de presentación para la próxima Asamblea General.
+
+Se acuerda que raulcd_ enviará email con datos sobre la candidatura recibida para formar
+la próxima Junta de la Asociación.
+
+4. Preparación transferencia de Junta
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Se ha creado un documento de transferencia para ayudar a la próxima Junta.
+Se revisan los datos que faltan por actualizar en el documento.
+
+5. Ruegos y preguntas
+^^^^^^^^^^^^^^^^^^^^^
+
+Se cierra la reunión de la Junta a las 20:17 horas.
+
+Secretaría,
+
+Raúl Cumplido
+
+.. _marcosgabarda: https://github.com/marcosgabarda
+.. _raulcd: https://github.com/raulcd
+.. _dukebody: https://github.com/dukebody
+.. _yamila-moreno: https://github.com/yamila-moreno
+.. _bameda: https://github.com/bameda
+.. _xavitorello: https://github.com/xavitorello
