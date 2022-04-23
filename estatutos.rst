@@ -9,7 +9,7 @@ Capítulo I - Disposiciones Generales
 
 **Artículo 2.** Esta Asociación se constituye por tiempo indefinido.
 
-**Artículo 3.** La Asociación establece su domicilio social en c/ La botánica 4, 1º, 28028 Madrid, Oficinas de Kaleidos, y su ámbito territorial en el que va a realizar principalmente sus actividades es todo el territorio del Estado español.
+**Artículo 3.** La Asociación establece su domicilio social en c/ Isaac Newton 2, Edificio Naorte, local 11, Parc Bit, 07121, Palma, Oficinas de APSL, y su ámbito territorial en el que va a realizar principalmente sus actividades es todo el territorio del Estado español.
 
 **Artículo 4.** Los fines de esta Asociación son promover el uso del lenguaje de programación Python, servir como punto de encuentro de todas las personas interesadas en el uso de dicho lenguaje, y dar soporte, en la medida de sus posibilidades, a quienes deseen aprender y desarrollar su uso, siempre bajo los principios de diversidad, tolerancia y respeto mutuo.
 
