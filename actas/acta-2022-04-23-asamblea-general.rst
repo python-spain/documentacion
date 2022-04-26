@@ -3,7 +3,7 @@ Acta de la Asamblea General de la Asociación Python España 23 de Abril de 2022
 
 En España (Edición Online), siendo las 17:00 horas del 23 de Abril de 2021 en primera convocatoria, inicia la Asamblea General de la Asociación Python España.
 
-Asisten en primera convocatoria 17 socias. Al no haber el tercio necesario se espera a segunda convocatoria.
+Asisten en primera convocatoria 17 personas socias. Al no haber el tercio necesario se espera a segunda convocatoria.
 
 A las 17:10 en segunda convocatoria con 17 socias se celebra la Asamblea.
 
@@ -33,12 +33,12 @@ que la asociación tenga un certificado de utilidad pública que es muy difícil
 
 Hay un pequeño comentario sobre la necesidad de la Asesoría y posible ahorro de costes. Algunes socies dan el
 histórico de la razón de contratación de la Asesoría pero es a disposición de la Junta tomar decisiones sobre
-la necesidad de la msima.
+la necesidad de la misma.
 
 2. Cambio de estatutos para cambio de sede social
 -------------------------------------------------
 
-La Junta presenta la `propuesta de cambio de estatutos <https://github.com/python-spain/documentacion/pull/71>`_ para realizer el cambio de sede social y el domicilio fiscal.
+La Junta presenta la `propuesta de cambio de estatutos <https://github.com/python-spain/documentacion/pull/71>`_ para realizar el cambio de sede social y el domicilio fiscal.
 
 Se expone la necesidad del cambio debido a que la sede anterior ya no es la dirección actual de la empresa Kaleidos.
 
