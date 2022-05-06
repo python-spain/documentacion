@@ -1,0 +1,91 @@
+Acta Junta Python España 03 de Mayo de 2022
+===========================================
+
+En España (Edición Online), siendo las 19:05 horas del 03 de Mayo de 2022, se celebra la primera reunión de la nueva Junta Directiva de Python España.
+
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Cambio junta: Dudas y tareas pendientes
+2. Primeros pasos hacia nuestros objetivos
+    Python España Meetup
+    PyLadies España
+    Beneficios socies
+3. Solicitudes ayuda/colaboración
+    PyLadies BCN: Taller Django Girls
+    Girls in Tech: Hacking for humanity
+    PyLadies en Español
+4. Presencia en la PyConES
+5. Ruegos y Preguntas
+
+
+1. Cambio junta: Dudas y tareas pendientes
+------------------------------------------
+
+
+Johanna pregunta por el cambio de owner del repo de Git. Israel nos da acceso con nuestros usuarios de github.
+Aplicación django -> Credenciales para todos (Israel) + credenciales de cuentas necesarias para la junta.
+Pregunta Johanna por los espacios de trabajo (aceptados y aprobados del correo de la junta)
+Alberto habla de un pago que ha sido rechazado para la PyconES y está intentando resolverlo (hay que hablar con Triodos). Habría que hablar con Marcos que es el apoderado.
+
+Hablamos del documento que hay que firmar para el cambio de junta (firmado por junta saliente y entrante), y presentar a la asesoría.
+Queda pendiente el cambio de representante ante hacienda y el cambio en el banco, pero el primer paso es el documento mencionado en el apartado anterior que indica el cambio de junta.
+
+Israel nos explica que se usa la cuenta de triodos y otra de Wise (que es más sencilla).
+
+Pregunta Alberto por pagos de alto importe de cara a la Pycon.
+Johanna necesita gestionar la facturación del Pycamp, y la reserva del 2023. Hay que devolver dinero a algunas personas y a lo mejor hace falta que lo gestione Marcos porque será más ágil si corre prisa.
+Jimena propone que se reunan Marcos, Alberto y Johanna para el tema de la reserva del pycamp2023 y dudas sobre el traspaso.
+
+Queda pendiente realizar el cambio de estatuto.
+
+2. Primeros pasos hacia nuestros objetivos
+------------------------------------------
+
+Jimena propone activar el Meetup de Python España para comenzar con alguna actividad mensual, para ello necesitaríamos buscar a una persona responsable que cada mes se encargue de buscar a organizadores, crear el evento, fechas, etc.
+Se baraja la posibilidad de crear un Meetup España online y después moverlo a otras sedes (por ejemplo de otras comunidades). 
+Johana se ofrece como voluntaria para comenzar gestionando este Meetup.
+Alberto propone que el responsable se vaya cambiando entre personas (de otras comunidades). Aunque el objetivo final es que ese Meetup no haga falta porque la idea es que surjan otros meetup en otras comunidades.
+
+Jimena propone agrupar y crear nuevas comunidades para Pyladies. Jimena se puede hacer cargo del Meetup pyladies España, Johanna y Clara también quieren participar.
+Pyladies España ya existe como asociación, pero está parado desde 2016, por lo que sería necesario coger la titularidad de alguna manera. Queda pendiente hablar con Yamila para ver si sabe quién es la persona responsable del grupo.
+Johanna propone solicitar la información por el grupo de Pyladies.
+
+Johanna propone hacer una encuesta a las personas socias para ver qué tipo de beneficios se quieren tener (como por ejemplo, envío de merch, tener entrada garantizada al evento PyConEs, publicar en el blog, entradas con descuento, etc)
+Se propone hacer primero una encuesta por el grupo, y después por Twitter para que puedan participar personas que no sean socias aún.
+
+
+3. Solicitudes ayuda/colaboración
+---------------------------------
+
+Se propone dar becas para PyladiesBCN (Taller Django Girls).
+Girls in Tech: Hacking for humanity -> Hacen falta personas mentoras y gente que quiera dar charla. Ofrecimos ayudar con visibilidad, mentoría y uso del logo. Habría que definir cuánto tiempo se requiere para que la gente sepa a qué se compromete.
+Queda pendiente pedir detalle a una de las personas de Girls in Tech.
+Se ha creado un Twitter de Pyladies en español para unificar a todas las comunidades hispanohablantes. El objetivo es montar una pequeña presentación, Jimena y Johanna quedan en poner una fecha para hacerlo a través de Twitch.
+
+
+4. Presencia en la PyConES
+--------------------------
+Queda pendiente para la próxima reunión.
+
+5. Ruegos y Preguntas
+---------------------
+
+Israel quiere ver qué pasa con la PyconEs del 2023, hay que ir moviéndolo. Hablar con las personas de Python Vigo para ver cómo verían organizarlo allí (también hay una persona en Girona).
+Queda pendiente hablar de Docusign para la firma de documentos de la junta.
+Proponemos reunión para el día 24 de Mayo a las 19 horas y continuar con los puntos pendientes.
+
+
+Se cierra la reunión de la Junta a las 20:05 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _dukebody: https://github.com/dukebody
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
+
