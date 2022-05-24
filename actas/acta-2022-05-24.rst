@@ -1,0 +1,88 @@
+Acta Junta Python España 24 de Mayo de 2022
+===========================================
+
+En España (Edición Online), siendo las 19:08 horas del 24 de Mayo de 2022, se celebra la segunda reunión de la nueva Junta Directiva de Python España.
+
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Resolución de dudas pendientes
+    
+2. Estado actual:
+	  Cambio junta
+    Python España Meetup
+    PyLadies España
+    Beneficios socies
+    Presencia en la PyconES
+    
+3. Grupos de trabajo
+4. Sede 2023
+5. Ruegos y Preguntas
+
+1. Resolución de dudas pendientes
+------------------------------------------
+Revisamos las tareas que quedaron pendientes en la anterior reunión. Primeramente, recordamos el proceso de solicitud de facturas donde Alberto nos aclara algunas dudas.
+Johanna tiene facturas pendientes y quiere contactar con Alberto para enviarlas (el mejor medio es Telegram). Para dudas se puede contactar directamente por el canal de slack de la PyconES.
+Se habla sobre las facturación de la PyconES (sponsors) -> Facturación en dos fases.
+
+Feedback negativo en el alta de personas socias -> Ha faltado presentación de nuevas personas socias en los grupos de Python. A partir de ahora, Alberto da las altas, y Jimena
+y Johanna de hacer las presentaciones.
+
+Se propone crear un canal alternativo para la comunicación en lugar de Telegram. Finalmente, se ha decidido utilizar Gmail para comunicaciones de la junta.
+
+
+2. Estado actual de temas pendientes
+------------------------------------------
+Python España Meetup: Johanna creó la cuenta y está buscando gente para que se unan a dar charlas.
+
+Pyladies España: Jimena consiguió toda la info, y ha heredado todo lo que era de Pyladies España y Madrid (listas y merch). Hay gente interesada en participar dando charlas o estando.
+Los eventos serán híbridos (para que más gente se conozca). Jimena propone contactar a las mujeres que han propuesto una charla para la PyconES para que se unan a Pyladies y PythonES.
+El objetivo es empezar por Madrid, continuar con Barcelona, y así sucesivamente.
+Hay que escribir a Pyladies global para que sepan que Pyladies España está activo (cambiar Teresa de la Torre por Jimena). NO se puede recuperar la cuenta de @PyLadies_ES.
+Johanna quiere formar parte de PyladiesES y tiene una empresa interesada para hacer un evento en Septiembre (podría ser un buen inicio).
+
+Beneficios para personas socias: se hizo un post en el foro y hemos obtenido 7 respuestas, queda pendiente revisarlo y hacer una encuesta para tomar la decisión (Isra).
+Jimena ha recibido feedback sobre cómo agilizar el alta de nuevas personas socias. Alternativas: añadir un formulario en lugar de que sea un correo que cada uno tenga que hacer, para pagar se habla de 
+configurar paypal como método de pago (a futuro). Se habla de generar un número de teléfono asociado a Python para poder realizar bizums en las altas (pero de momento ningún banco de los configurados soporta bizum).
+Se debate la posibilidad de contratar Kahoot y ofrecerlo como ventaja de socie. Tratamos de hacer difusión por twitter y canales para ver qué uso podría llegar a tener.
+Israel consultó con la gestoría para convertirse en fundación, tiene un coste comenzar el proceso, pero nos han recomendado no hacerlo. Los beneficios son no pagar impuesto de sociedades y recibir donaciones.
+
+Cambio junta: Clara envía el documento a la gestora, ahora que ya están todas las firmas, cuando recibamos respuesta podemos continuar con el resto de pasos.
+Presencia en la PyconES: tener un stand o algo en la PyconES para hablar sobre PythonES (habría que buscar voluntari@s para que lo hagan). Añadir en la apertura y final un mensaje que deje claro que apoyamos la PyconES, etc.
+Añadir sorteos y publicidad de eventos por parte de PythonES. Añadir a la PSF (?), parece un poco confuso, quizás no tiene sentido.
+
+3. Grupos de trabajo
+------------------------------------------
+Hay una serie de herramientas y dominios que están disponibles para su uso y que hay que gestionar. Falta gente que gestione estos grupos. Jimena habla con Juanlu y se pone al día.
+Queda alguien que se encargue del grupo de la web.
+El grupo de la PyconES lo lleva la gente que se encarga de organizar la PyconES.
+¿Tiene sentido crear algún grupo nuevo? (Pyladies y PythonES por ejemplo). Isra continua con el grupo de infraestructura (y meter el de web aquí). Jimena gestiona comunicación con Juanlu.
+
+4. Sede 2023
+------------------------------------------
+Canarias parece ser un candidato tras hablar con las personas de distinas ciudades. Queda pendiente que se reunan y nos comenten algo más formal.
+
+
+5. Ruegos y Preguntas
+---------------------
+Correo recibido: "Formulari de regularització del contracte d’assegurança": hay que enviarles el volumen de facturación del último año (Isra).
+Se ha creado la cuenta de linkedin de PythonES pero no se ha metido en Bitwarden porque el correo es de una persona física.
+Se echa en falta una orden del día para la siguiente reunión y que podamos ir añadiendo cosas. Se habla de fijar el segundo martes de cada mes para hacer las reuniones.
+Jimena propone utilizar Notion para la gestión de recursos y tareas (Trello).
+Isra propone que se descentralice la gestión de tesorería para que no recaiga sobre la misma persona todo.
+
+Temas pendientes para la próxima reunión: Beneficios de personas socias (queda hacer el análisis de resultados).
+
+Se cierra la reunión de la Junta a las 21:00 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _dukebody: https://github.com/dukebody
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
+
