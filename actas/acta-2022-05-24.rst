@@ -29,7 +29,7 @@ Se habla sobre las facturación de la PyconES (sponsors) -> Facturación en dos 
 Feedback negativo en el alta de personas socias -> Ha faltado presentación de nuevas personas socias en los grupos de Python. A partir de ahora, Alberto da las altas, y Jimena
 y Johanna de hacer las presentaciones.
 
-Se propone crear un canal alternativo para la comunicación en lugar de Telegram. Finalmente, se ha decidido utilizar Gmail para comunicaciones de la junta.
+Se propone crear un canal alternativo para la comunicación en lugar de Telegram. Finalmente, se ha decidido utilizar correo electrónico para comunicaciones internas.
 
 
 2. Estado actual de temas pendientes
@@ -57,7 +57,11 @@ Añadir sorteos y publicidad de eventos por parte de PythonES. Añadir a la PSF 
 Hay una serie de herramientas y dominios que están disponibles para su uso y que hay que gestionar. Falta gente que gestione estos grupos. Jimena habla con Juanlu y se pone al día.
 Queda alguien que se encargue del grupo de la web.
 El grupo de la PyconES lo lleva la gente que se encarga de organizar la PyconES.
-¿Tiene sentido crear algún grupo nuevo? (Pyladies y PythonES por ejemplo). Isra continua con el grupo de infraestructura (y meter el de web aquí). Jimena gestiona comunicación con Juanlu.
+¿Tiene sentido crear algún grupo nuevo? (Pyladies y PythonES por ejemplo). 
+En resumen:
+Isra se encargará del grupo de infra, en el que se tratará de incluir lo relacionado con la web.
+Jimena se encargará del grupo de comunicación, para lo que hablará con Juanlu sobre el estado.
+El "grupo PyConES" se creó en el pasado para dar continuidad a la organización de la PyConES y revisar candidaturas, pero en la actualidad no tiene actividad real y discutimos su futuro.
 
 4. Sede 2023
 ------------------------------------------
