@@ -1,0 +1,121 @@
+Acta Junta Python España 14 de Junio de 2022
+===========================================
+
+En España (Edición Online), siendo las 19:00 horas del 14 de Junio de 2022, se celebra la tercera reunión de la nueva Junta Directiva de Python España.
+
+
+Orden del día
+~~~~~~~~~~~~~
+1. Pendientes reunión anterior y status
+    1.2. Notion de tareas
+    1.3 Cambio de Junta
+    1.4 Cambio apoderados banco
+    1.5 Revisión de texto y publicación llamada a sedes PyConES 2023
+
+2. Ventajas para socies y nuevas altas.
+3. Acercamiento con sedes.
+4. PSF Logos
+5. Descentralización tareas Tesorería
+6. Alternativas a Kahoot
+7. Actualizaciones de la web.
+8. Comunicación con email de junta directiva
+9. Emails pendientes por resolver
+10. Proceso de solicitud y pagos de ponentes a nivel nacional (Apoyo a comunidades locales)
+11. Ruegos y preguntas
+
+PSF Logos, políticas de uso de logo - logos de comunidades que no cumplen con las politicas de uso. 
+https://docs.google.com/spreadsheets/d/1OHadLCMIVQDb6UrTJPHeDCwDxp0w_KvIHXL2v2lIuwA/edit#gid=0
+Recopilar en un excel 
+
+
+Emails por responder:
+Intercambio ponentes Girona
+Cursos Python
+lists.es.python.org mailing list memberships
+    - Proceso de solicitud y pagos de ponentes a nivel nacional (Apoyo a comunidades locales)
+	- Ejemplo: hospedaje JuanLu en Girona para meetup Python Girona
+- Ruegos y preguntas
+
+
+
+1. Pendientes reunión anterior y status
+------------------------------------------
+1.2 Notion de tareas: aumenta la accesibilidad a otras personas menos técnicas y la transparencia respecto a las tareas. 
+    -> Se decide añadir un botón en la pestaña de Eventos para que las comunidades o personas puedan publicar libremente sus eventos, de cara a mantener la web y potenciar el trabajo ya hecho. Hay que hablar
+    con el grupo comunicación para ello.
+1.3 Se confirma que la documentación para el cambio de junta se ha presentado ya, y se debate la posibilidad de cambiar de banco (pros y contras).
+1.4 Cambio apoderados banco: Jimena y Alberto hablan entre ellos para gestionarlo.
+1.5 Isra: El GT PyConES no existe en realidad actualmente, con lo que tenemos que ver cómo vehiculamos las responsabilidades que tenía. 
+Se decide convocar una asamblea con las personas socias para votar dónde será.
+Se decide que la asociación PythonES se hace responsable del aspecto legal, pero el resto de tareas queda para el GT PyconES (Isra: hay que modificar el documento de llamada a Sedes PyconES 2023).
+Se decide relajar un poco la parte de presupuestos (Isra: hay que modificar el documento de llamada a Sedes PyconES 2023).
+Queda pendiente: Preparar Pack PyConES con presupuestos y otros documentos de años anteriores para facilitar la elaboración de la candidatura.
+Después de que esté actualizado, lo revisamos, actualizamos y movemos entre las comunidades.
+
+2. Ventajas para socies y nuevas altas
+------------------------------------------
+Se aceptan las ventajas propustas en el formulario. Para el tema de las entradas, se propone notificar a las personas socias un tiempo X antes de que salgan a la venta y que puedan comprarlas y tener además un descuento por ser socie, después cuando salgan a la venta para el resto del público esas entradas reservadas se unirán a las demás, aunque seguirán teniendo descuento.
+Valorar descuento en otro tipo de eventos no organizados por PythonES (como el Pycamp).
+Descuento para estudiantes, personas en el paro, doctorados, etc durante el primer año en la cuota para personas socias. (Votar en asamblea para decidir de cuánto será el descuento)
+Se propone ofrecer merchandising (con descuento o coste integral) (A debatir en la asamblea)
+Hay que ponerlo en la web para que quede visible de cara a la Pycon.
+
+3. Acercamiento con sedes
+------------------------------------------
+Jimena propone hacer reuniones con las comunidades e Isra y Johanna están de acuerdo en apuntarse a algunas, a través del grupo de comunidades de Telegram.
+
+4. PSF Logos
+------------------------------------------
+PSF Logos, políticas de uso de logo - logos de comunidades que no cumplen con las politicas de uso. 
+https://docs.google.com/spreadsheets/d/1OHadLCMIVQDb6UrTJPHeDCwDxp0w_KvIHXL2v2lIuwA/edit#gid=0
+Recopilar en un excel 
+
+
+5. Descentralización tareas Tesorería
+------------------------------------------
+A Alberto le gustaría gestionar los pagos con Wise, ¿se puede? Y va a actualizar el documento sobre el traspaso.
+Queda pendiente darle una vuelta porque no queda claro en qué le podemos ayudar.
+
+6. Alternativas a Kahoot
+------------------------------------------
+Se propone investigar sobre Mentimeter y ver qué precios se manejan ya que es la solución que ha parecido más interesante para los eventos y parece significativamente más barato.
+Clara se encarga de pedir precios para asociaciones.
+
+
+7. Actualizaciones de la web.
+------------------------------------------
+Grupo comunicación: Incluir entrevistas y participaciones de la junta directiva en la página de Python España
+Johanna propone: Incluir en la web de python españa, las fechas de las reuniones de la junta directiva
+
+
+8.Comunicación con email de junta directiva
+--------------------------------------------
+Se propone que haya una persona asignada a responder a los correos de forma mensual para que esta parte quede cubierta. Se decide que sea Isra quien empiece (Junio) y Johanna (Julio).
+
+
+9. Emails pendientes por resolver
+-----------------------------------
+No hay que contestarlos es la conclusión. 
+
+10. Proceso de solicitud y pagos de ponentes a nivel nacional (Apoyo a comunidades locales)
+--------------------------------------------------------------------------------------------
+Por facilidad se decide un budget anual que sea el presupuesto máximo, y con una limitación de en qué gastarse el presupuesto.
+Por transparencia lo gestionamos mediante factura (y de momento la de Juanlu se intentaría pedir con nombre a PythonES).
+Se propone hacer un borrador con las ideas (Clara) y chequearlo por correo.
+
+11. Ruegos y Preguntas
+---------------------
+Se decide limitar las reuniones a 1 hora y media y definir mejor los temas a tratar.
+
+
+Se cierra la reunión de la Junta a las 21:30 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _dukebody: https://github.com/dukebody
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
