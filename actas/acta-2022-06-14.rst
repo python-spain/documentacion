@@ -46,7 +46,7 @@ lists.es.python.org mailing list memberships
 1.3 Se confirma que la documentación para el cambio de junta se ha presentado ya, y se debate la posibilidad de cambiar de banco (pros y contras).
 1.4 Cambio apoderados banco: Jimena y Alberto hablan entre ellos para gestionarlo.
 1.5 Isra: El GT PyConES no existe en realidad actualmente, con lo que tenemos que ver cómo vehiculamos las responsabilidades que tenía. 
-Se decide convocar una asamblea con las personas socias para votar dónde será.
+Se decide convocar una asamblea con las personas socias para votar dónde será la PyConES.
 Se decide que la asociación PythonES se hace responsable del aspecto legal, pero el resto de tareas queda para el GT PyconES (Isra: hay que modificar el documento de llamada a Sedes PyconES 2023).
 Se decide relajar un poco la parte de presupuestos (Isra: hay que modificar el documento de llamada a Sedes PyconES 2023).
 Queda pendiente: Preparar Pack PyConES con presupuestos y otros documentos de años anteriores para facilitar la elaboración de la candidatura.
