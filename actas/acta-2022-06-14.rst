@@ -54,7 +54,7 @@ Después de que esté actualizada la llamada a sedes, la revisamos, actualizamos
 
 2. Ventajas para socies y nuevas altas
 ------------------------------------------
-Se aceptan las ventajas propustas en el formulario. Para el tema de las entradas, se propone notificar a las personas socias un tiempo X antes de que salgan a la venta y que puedan comprarlas y tener además un descuento por ser socie, después cuando salgan a la venta para el resto del público esas entradas reservadas se unirán a las demás, aunque seguirán teniendo descuento.
+Se aceptan las ventajas propuestas en el formulario. Para el tema de las entradas, se propone notificar a las personas socias un tiempo X antes de que salgan a la venta y que puedan comprarlas y tener además un descuento por ser socie, después cuando salgan a la venta para el resto del público esas entradas reservadas se unirán a las demás, aunque seguirán teniendo descuento.
 Valorar descuento en otro tipo de eventos no organizados por PythonES (como el Pycamp).
 Descuento para estudiantes, personas en el paro, doctorados, etc durante el primer año en la cuota para personas socias. (Votar en asamblea para decidir de cuánto será el descuento)
 Se propone ofrecer merchandising (con descuento o coste integral) (A debatir en la asamblea)
