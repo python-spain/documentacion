@@ -23,19 +23,6 @@ Orden del día
 10. Proceso de solicitud y pagos de ponentes a nivel nacional (Apoyo a comunidades locales)
 11. Ruegos y preguntas
 
-PSF Logos, políticas de uso de logo - logos de comunidades que no cumplen con las politicas de uso. 
-https://docs.google.com/spreadsheets/d/1OHadLCMIVQDb6UrTJPHeDCwDxp0w_KvIHXL2v2lIuwA/edit#gid=0
-Recopilar en un excel 
-
-
-Emails por responder:
-Intercambio ponentes Girona
-Cursos Python
-lists.es.python.org mailing list memberships
-    - Proceso de solicitud y pagos de ponentes a nivel nacional (Apoyo a comunidades locales)
-	- Ejemplo: hospedaje JuanLu en Girona para meetup Python Girona
-- Ruegos y preguntas
-
 
 
 1. Pendientes reunión anterior y status
@@ -95,7 +82,8 @@ Se propone que haya una persona asignada a responder a los correos de forma mens
 
 9. Emails pendientes por resolver
 -----------------------------------
-No hay que contestarlos es la conclusión. 
+No hay que contestarlos es la conclusión. Los email en cuestión eran: Intercambio ponentes Girona y lists.es.python.org mailing list memberships
+
 
 10. Proceso de solicitud y pagos de ponentes a nivel nacional (Apoyo a comunidades locales)
 --------------------------------------------------------------------------------------------
