@@ -50,7 +50,7 @@ Se decide convocar una asamblea con las personas socias para votar dónde será 
 Se decide que la asociación PythonES se hace responsable del aspecto legal, pero el resto de tareas queda para el GT PyconES (Isra: hay que modificar el documento de llamada a Sedes PyconES 2023).
 Se decide relajar un poco la parte de presupuestos (Isra: hay que modificar el documento de llamada a Sedes PyconES 2023).
 Queda pendiente: Preparar Pack PyConES con presupuestos y otros documentos de años anteriores para facilitar la elaboración de la candidatura.
-Después de que esté actualizado, lo revisamos, actualizamos y movemos entre las comunidades.
+Después de que esté actualizada la llamada a sedes, la revisamos, actualizamos y movemos entre las comunidades.
 
 2. Ventajas para socies y nuevas altas
 ------------------------------------------
