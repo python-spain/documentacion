@@ -1,0 +1,158 @@
+Acta Junta Python España 8 de Agosto de 2022
+============================================
+
+En España (Edición Online), siendo las 19:35 horas del 8 de Agosto de 2022, se celebra la tercera reunión de la nueva Junta Directiva de Python España.
+
+
+Orden del día
+~~~~~~~~~~~~~
+1. Stand up semanal
+2. Estado de la junta actual
+3. Estado de las facturas y pagos
+4. Presencia en PyConES
+5. Asamblea General de Octubre
+6. Actualizar CdC a las necesidades actuales
+7. Ruegos y preguntas
+
+
+1. Stand up semanal
+------------------------------------------
+
+Presidencia    Papeleo Datadog casi finiquitado, queda contrato final y factura
+		        Bastantes cosillas PyConES
+		        Registrado Python España
+		        Mail Ebury sobre pegatinas -> Les diremos que usen las de Freewear o las de la PSF
+		        Jimena irá a pedir su firma de persona física
+                Actualizar documentación cambio junta respecto a firma de persona jurídica - Jimena lo hace
+                Cambio de apoderados Triodos - Jimena se queda luego con Alberto para gestionarlo
+                Boceto logo PyLadies España hecho
+
+
+Vicepresidencia
+                Con la ayuda de Israel dieron altas a 3 personas que faltaban.
+                Alta a nuevos socies.
+                Invitar a Álvaro a Telegram y cc a Isra para meterlo en grupo de IT.
+
+
+                Reunión con WomenTechMakers: 
+                    - Consulta si podemos actuar como gestor financiero para el evento de WTM 2023.
+                        - Condiciones legales que esto implica
+                - Condiciones en caso de Excedente de dinero
+                - Solo para eventos gratuitos
+                - Se alinea con la comunidad como evento de diversidad,
+                - Definir un documento cuáles son los requerimientos por parte de Python España para apoyar como gestor financiero
+                        - Sponsor 
+                        - En caso de excedencia o faltante de dinero
+                - Presupuesto preestablecido 
+                    - No responsables de x o y cosas
+                les falta un gestor para financiar el evento, ¿cómo hacen para financiar con sponsors? 	Alberto propone preguntar a la gestoría si es viable que sea PythonES el que haga de intermediario para la financiación (el problema que vemos es que pueda haber superávit. Jimena: También podemos ser sponsor del evento. Queda pendiente crear un documento para ver cómo colaborar. Israel pregunta sobre la magnitud del evento en cuanto a sponsors y si es de pago para saber cuánto tendríamos que gestionar (si va a ser mucha carga de trabajo o no). Johanna: tuvieron 11 patrocinadores, el evento es gratuito pero queda pendiente preguntarles por si acaso.
+                Israel: es importante que los presupuestos estén claros y qué haríamos con el excedente o el déficit si lo hubiera.
+                Clara pregunta a la gestoría esta cuestión sobre la recepción de eventos gratuitos (respecto a la gestión del dinero sobretodo).
+
+Secretaría
+                Contacto con la gestoría para checkear el estado del cambio de junta, cuya contestación fue que aún estaba pendiente.
+                Creación del doodle para ponernos de acuerdo en la reunión de Agosto.
+                Próxima tarea: creación de carpetas en git para las actas (de forma anual) y preguntar a la gestoría lo hablado previamente.
+
+Tesorería
+		        Revisar cosas pendientes de pago para dejar las facturas hechas.
+
+Vocalía
+                Billetes tren Nieves Ábalos - Jimena, se los has enviado?
+                Sponsors PyConES - facturas y demás
+                    Alberto porfi mira el Slack cada un par de días y si no te queda claro algo, pregunta. También pendiente 100% para hacer pagos en Septiembre.
+                Pago Juanlu - nos falta su cuenta. Alberto le pregunta.
+                Arreglo IT libro socios.
+
+
+
+2. Estado de la junta actual
+-----------------------------
+Jimena pregunta por cómo estamos las personas que forman parte de la junta (a nivel anímico, etc), porque da la sensación de que va lento.
+Johanna tiene pendiente el meetup de PythonES en remoto, y el formulario de eventos. 
+Israel comenta que todavía hay mucha dependencia a la hora de hacer las cosas del conocimiento de la junta anterior (en este caso de él mismo).
+En general estamos todes de acuerdo en que el documento de traspaso de junta necesita un repaso, además de que vemos que falta conocimiento propio de cada persona a diferencia de juntas anteriores en las que ciertas personas se mantenían, por tanto es un reto mayor.
+Alberto añade que todo lo relacionado con la contabilidad es nuevo para él, y por ello se hace más duro.
+Por parte de Jimena comenta que está teniendo mucha carga por parte de la PyconES (más de la que esperaba quizás). Pero contenta de que hayan salido las becas!
+Johanna presta su ayuda para la web de DjangoGirls y lo que se necesite. Jimena la meterá en el chat.
+
+
+3. Estado de las facturas y pagos
+------------------------------------------
+-Juanlu (pendiente de pagarle).
+-Diseño PyLadies (Alberto lo hace al finalizar la sesión).
+-PyCamp 2023 (Alberto se encarga de realizar la reserva de 1000 euros)
+
+Merchan PyConES
+	-Alquiler paraninfo y grabación
+    -Jimena: De cara a las becas que se pida todo a nombre de PythonES
+
+-Cupo para eventos: se debate sobre aumentar el valor que se habló en su momento (200€), y diferenciar entre península e islas (para tener en cuenta el coste de los vuelos). Decidimos la cifra de 500 para que puedan realizarse más de 1 evento al año (contando con que también hay casos donde se traen sus propios sponsors), para las islas podría ser ampliable. Comentar esto en la newsletter.
+
+
+4. Presencia en PyConE
+------------------------------------------
+Stand propio: Sí 
+	Sábado cb mañana -
+	Sábado comida - 
+	Sábado cb tarde -
+	Domingo cb mañana - Johanna
+	Domingo comida - Jimena
+
+Merchandising:
+    -Marcador libro a modo tarjeta
+    -Hacer pegatinas (muchas)
+    -Hacer camisetas (JD)
+    -Hacer camisetas (vender o pre-vender)
+
+Captar nueves socies
+	Crear algún sorteo para socies
+	Libro Fluent Python
+	Entrada PyCamp
+	Entada PyConES 2023
+	Publicar mejoras socies
+
+Israel: ¿Tenemos roll-up o algo por el estilo para identificar el stand? 
+
+5. Asamblea General de Octubre
+-------------------------------
+Convocar 15 días de antelación
+    -Orden del día
+    -Mejoras socies
+    -Cosas hechas por la junta actual
+    -Mencionar el cambio del código de conducta en base a las cosas que quiere añadir Jimena (falta la propuesta).
+
+Crear un documento colaborativo para ir viendo las cosas que añadir.
+Preguntar a Pablo para ver la posibilidad de hacerla mixta (online/presencial).
+
+
+6. Actualizar CdC a las necesidades actuales
+---------------------------------------------
+Se verá en la Asamblea Generla en base a la propuesta de Jimena.
+
+
+7. Ruegos y Preguntas
+----------------------
+Por favor, notificar vacaciones y periodos de ausencia
+    Johanna - Vacaciones 1 Sepiembret al 4 septiembre,  27Octubre al 1 Noviembre, 
+    Isra - 8-19 septiembre out
+
+
+Proceso de incluir el blog de Python en el apartado de donde https://www.codigopiton.com. en -> Johanna le contesta que sí lo vamos a incluir.
+
+Kiwi y Manfred: Jimena tenía la duda de si decir que sí o que no a los correos que habían enviado previamente. 
+Pensar y comentar ideas de regalo para las personas organizadoras de la PyconES.
+
+
+
+Se cierra la reunión de la Junta a las 21:23 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _dukebody: https://github.com/dukebody
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
