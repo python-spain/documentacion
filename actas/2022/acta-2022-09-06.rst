@@ -1,0 +1,103 @@
+Acta Junta Python España 6 de Septiembre de 2022
+================================================
+
+En España (Edición Online), siendo las 20:30 horas del 6 de Septiembre de 2022, se celebra la quinta reunión de la nueva Junta Directiva de Python España.
+
+
+Orden del día
+~~~~~~~~~~~~~
+1. Tareas pendientes
+2. PyconES
+3. Asamblea General
+4. Newsletter socies
+5. Diseños pendientes
+6. Actualizar CdC a las necesidades actuales
+7. Ruegos y preguntas
+
+
+1. Tareas pendientes
+-----------------------
+
+-Certificado de persona jurídica para Jimena no corre prisa mientras no esté el cambio de junta.
+-WomenTechMakers tienen reunión pendiente el 9 de Septiembre para saber qué ocurriría con el déficit o superávit de dinero.
+-El cambio de logo ya están en ello.
+-El mail de código piton queda pendiente por responder (Johanna lo hace el sábado 10 de septiembre).
+-Reunión con nuevas personas socias el sábado 10 de septiembre envía doodle Johanna.
+-La tarea de apoderados hay que moverlo cuanto antes (Alberto).
+-Enviar un correo al listado de personas socias que no han pagado su suscripción para saber si tienen interés en continuar o no, de cara a que puedan votar o no también en la Asamblea General. Entre Alberto y Johanna miran la lista de transacciones en el banco y la lista de supuestas personas socias activas.
+-Reuniones con comunidades quedan pendientes.
+-Alberto: anotar en la documentación las acciones que se vayan realizando para tenerlo en común.
+-Clara se encarga de actualizar la web.
+-Johanna se encarga del roll-up.
+
+
+
+2. PyconES
+------------
+-Estado cuentas: factura pendiente de DataDog a previsión de tenerla mañana.
+                Ha quedado pagado el alojamiento de las becas y la mitad de lo de Artico.
+                Bolsas, stickers y jarras pagado al 50%.
+                Pedir factura al canal de tesorería del slack.
+                Pedir más dinero a Isra para transferir.
+
+-Regalos voluntaries
+    Peluche -> https://es.aliexpress.com/item/1005004326949397.html?spm=a2g0o.productlist.0.0.44d9620dKg6PLt&algo_pvid=89f28c05-a7cf-430f-ac82-88439adbd739&algo_exp_id=89f28c05-a7cf-430f-ac82-88439adbd739-52&pdp_ext_f=%7B%22sku_id%22%3A%2212000028768980248%22%7D&pdp_npi=2%40dis%21EUR%2116.39%2113.93%21%21%21%21%21%402100bddd16624917730326656ed3dc%2112000028768980248%21sea&curPageLogUid=4lg2CgQaCHML
+
+    https://es.aliexpress.com/item/1005004017495009.html?spm=a2g0o.productlist.0.0.44d9620dKg6PLt&algo_pvid=89f28c05-a7cf-430f-ac82-88439adbd739&algo_exp_id=89f28c05-a7cf-430f-ac82-88439adbd739-16&pdp_ext_f=%7B%22sku_id%22%3A%2212000027752473513%22%7D&pdp_npi=2%40dis%21EUR%2118.9%2114.17%21%21%210.79%21%21%402100bddd16624917730326656ed3dc%2112000027752473513%21sea&curPageLogUid=dC8S6Gr1JiOR
+
+Queda aprobado que sea un peluche, queda pendiente encontrar la tienda.
+
+-Mesa asociación (falta gente)
+    Incluir los días faltantes -> Falta la comida del sábado mayoritariamente, preguntar a gente conocida que sea socia o insistir por el chat.
+
+
+
+3. Asamblea General
+--------------------
+-Se puede hacer híbrida por Meet según Pablo de la UGR.
+-Fecha de envío del email de convocatoria a asamblea y responsable de envió: Jimena hace las templates el fin de semana y enviarlo el martes día 13.
+-Finalizar el orden del día de la asamblea general: No hace falta que esté muy muy detallado, pero hay que ir rellenando los puntos -> https://docs.google.com/document/d/13rWesGNI7UsYyC0uiad6b4NQpluCaxYKttBnfAQlDKs/edit
+	Johanna y Alberto completan “estado de cuentas” para la asamblea y número de personas socias.
+-Presentación durante la asamblea (tenemos la del año pasado como base: https://drive.google.com/drive/u/1/folders/1y5-qwgTOMfg12Ed3C6Is4P1cHCWCbBmH)
+
+
+4. Newsletter socies
+--------------------
+-Tenemos que reunir todas las cosas que hemos ido aprobando para las comunidades y socies.
+-Recopilar alguno de los eventos que se han hecho
+    Jimena: añadir junto a la convocatoria eventos que se han ido haciendo a modo de newsletter?
+
+
+5. Diseños pendientes
+-------------------------------
+
+-Camisetas: Se queda el tercer diseño que se pasó por el chat. El canal de venta será preventa y se puede gestionar por transferencia bancaria. Stock: todas las personas del evento.
+-Separador de Lectura: Stock -> todas las personas de evento.
+-Stickers: Jimena ha visto opciones y parece que el más decente es stickermule (tienen envío rápido).
+-Roll up -> Johanna lo tiene controlado.
+
+
+6. Ruegos y Preguntas
+----------------------
+Isra: Necesito saber las fechas y horas de las reuniones con antelación para organizarme la semana. Los cambios de última hora me van fatal porque tengo planes con otras personas que no puedo cambiar tan fácilmente. Ruego que fijemos las fechas con antelación y respetemos esas fechas/horas, al no ser que haya acuerdo unánime de cambiarlas. -> estamos de acuerdo, los cambios deberán de ser con al menos una semana de antelación, si es solo una persona la que no puede no asiste, y si se juntan 2 o más se gestionará.
+Isra: el update semanal me parecía idea interesante (si incluso fue mía…) pero creo que nos hace centramos demasiado en qué hacemos cada uno de nosotros, en vez de objetivos como equipo. Muchas veces una persona necesita input de otra y esto se pierde en el lío de mensajes. Creo que deberíamos fijarnos unos objetivos semanales/mensuales como equipo y colaborar por alcanzarlos, repartiendo el trabajo pero buscando siempre ayudarnos mutuamente. -> Estamos de acuerdo y lo pasamos a la reunión mensual (hacer el update en la reunión mensual).
+Isra: preguntas para Alberto: 
+Estarás altamente disponible para hacer los pagos en septiembre? ¿O damos acceso a más gente a Wise los gestionamos como equipo? Es importante darse prisa en algunos casos.
+¿Tienes controlado el tema facturas para asistentes? Seguro que cerca del evento o justo después empiezan a preguntarnos repetidamente.
+Isra: ruego para Alberto y Jimena. Os he preguntado por mail en varias ocasiones cómo va el tema de rellenar papeles para cambio de apoderados de Triodos, pero llevo días sin recibir respuesta. Creo que tener esto listo es importante. Aún estamos usando el acceso de Juanlu a la cuenta de Triodos, tenemos que agilizar esto lo máximo posible.
+Isra: el certificado de firma digital de representante que tenemos caduca en Septiembre y aún no tenemos el cambio de Junta hecho. Clara, volvería a preguntar a la asesoría que cómo va esto, porque ya han pasado 3 meses desde que lo pedimos. -> Clara: hago el check el 24 de Septiembre.
+Isra: Clara, preguntaste a la asesoría sobre dudas de financiación de eventos y llevan un tiempo sin responderte. Para el evento de WTM que mencionó Johanna necesitamos tener esto aclarado, así que vale la pena insistir. -> ya se ha preguntado de nuevo ya que cuando escribí originalmente estaban de vacaciones.
+Isra: necesitamos pasar más pasta al saldo de Wise desde Triodos? -> Sí.
+
+
+Se cierra la reunión de la Junta a las 22:05 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _dukebody: https://github.com/dukebody
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
