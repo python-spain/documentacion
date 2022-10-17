@@ -1,0 +1,86 @@
+Acta Junta Python España 11 de Octubre de 2022
+================================================
+
+En España (Edición Online), siendo las 20:00 horas del 11 de Octubre de 2022, se celebra la sexta reunión de la Junta Directiva de Python España.
+
+
+Orden del día
+~~~~~~~~~~~~~
+1. Breve status PyConES
+2. Hacktoberfest
+3. Estado Cuentas
+4. Colaboraciones
+5. Ruegos y preguntas
+
+
+1. Breve status PyConES
+-----------------------
+
+Iniciativas Python España
+
+Socies y Comunidades y GT
+Socies: Revisar altas -> estamos al dia en las altas de nuevos socies, Johanna se ha encargado.
+Comunidades: Reunión informativa, generar emails -> con un doodle para establecer una fecha y participantes.
+	-Reforzar que la comunidad no pertenece a una empresa aunque sea el venue frecuente.
+	-La comunidad es itinerante con respecto al venue donde realizamos los meetups, eventos de la comunidad local
+	-Unirse o trabajar en conjunto con comunidades de diversidad o mujeres locales
+	-GT: Reactivado PyConES, Creado Educación, Infraestructura?, Comunicación necesita manos
+
+2. Iniciativa Hacktoberfest
+---------------------------
+	Podríamos hacer una sesión online bajo el meetup Python España -> formato meetup entre semana miércoles 19 o jueves 20, formato 2 horas (una charla de git (jimena) y una de software libre)
+
+3. Estado Cuentas
+-----------------
+
+Las becas de alojamiento ya están pagadas.
+Queda pendiente el catering (factura) y algunas de transporte.
+
+Cambio de Triodos a Caixa d’Enginyers
+	Pros
+		-Tarjeta en Google Pay o Apple Wallet
+		-Facilidad de comunicación
+		-Ética, transparente y responsable
+		-Oficinas en Barcelona
+	Contas
+		-No tienen Bizum
+		-Comisión de empresa:
+			- Compra título cooperativa 24€
+			- Mantenimiento trimestral 24€
+			- Transferencias desde Banca Online 1€ y 2€ desde Banca Telefónica u Oficina
+Votación
+	Jimena: Sí
+	Clara: Sí
+	Alberto: Sí
+	Johana: Sí
+
+Por mayoría se ha decidido cambiar de banco.
+Johanna propone ir un día al banco ya que están en Barcelona, pero hace falta más contexto.
+
+
+4. Colaboraciones
+-----------------
+
+PyLadies BCN -> Estamos de acuerdo en colaborar con ellas, Jimena les escribe para saber qué planes de sponsor tienen para el PyDay (precios,etc).
+Girls in Tech -> Van a organizar un evento centrado en Python y les gustaría que participemos (7-9 Online (apoyo aportando mentores/as publicar en el foro y sortear algo desde PythonES o algún curso) y el 19 de Noviembre sería presencial)
+
+Notas PyLadies ES -> Ya está el proyecto presentado, hay grupo de telegram y twitter. 
+
+5. Ruegos y preguntas
+---------------------
+
+Queda pendiente cómo gestionar el IVA de las camisetas.
+Johanna propone anunciar que vamos a regalar una camiseta de cara a la PyconES ya que se hará entrega en ese momento de la camiseta, y así solo habría que enviarla a los que no asistan (que serán pocos).
+Dejar presente para el resto de eventos que si indicamos que se vaya a sortear una entrada entre las nuevas personas socias, sea para ese grupo de nuevas personas socias y no para todas las demás.
+
+
+Se cierra la reunión de la Junta a las 21:35 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
