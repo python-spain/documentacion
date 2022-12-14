@@ -1,0 +1,110 @@
+Acta Junta Python España 13 de Diciembre de 2022
+================================================
+
+En España (Edición Online), siendo las 20:00 horas del 13 de Diciembre de 2022, se celebra la octava reunión de la Junta Directiva de Python España.
+
+
+Orden del día
+~~~~~~~~~~~~~
+1. Documentación noviembre Tesorería y otros trámites gestoría
+2. Python A Coruña - Ayuda económica
+3. Cambio cuenta
+4. Unificar uso Admin Google
+5. Resumen reunión comunidades
+6. Mastodon
+7. CommitConf 2023
+8. Ruegos y preguntas
+
+
+1. Documentación noviembre Tesorería y otros trámites gestoría
+---------------------------------------------------------------
+
+Alberto enviará las factura cuando terminemos la reunión (Faltan las de streamyard). Enviamos las demás aunque no estén las de streamyard.
+Cuota mensual: quieren subir la cuota de 70 a 90 €. Isra: si no tenemos otras opciones evitamos cambiar de junta, el resto estamos de acuerdo por lo que seguimos con la misma gestoría y que Alberto conteste al correo aceptando el cambio de precio.
+
+
+2. Python A Coruña - Ayuda económica
+-------------------------------------
+
+Hacer reembolso del pago, de paso, de cara a que ofrezcamos una ayuda para crear comunidades de meetup, etc (como es este caso).
+Johanna propone hacer un resumen de comunidades que ya hayan gastado su presupuesto o que hayan solicitado ayuda económica, de cara al cierre del año fiscal y compartirlo con las comunidades.
+De momento tenemos el viaje de Juanlu como gasto, Clara se encarga de poner un excel para esto.
+
+3. Cambio cuenta
+-----------------
+
+En el pyday hablando con las mujeres de PythonBCN (Johanna y Jimena), les dijeron que Caixaguissona les hacía cuenta de asociación. Jimena les escribe un mail y vemos los siguientes pasos.
+Isra llama mañana a la gestoría para pedir info del papel de la junta para poder avanzar con este proceso de cambio de cuenta.
+
+4. Unificar uso Admin Google
+----------------------------
+
+Jimena propone hacer grupos para gestionarlo, para por ejemplo, tema sponsors que pueda enviarse a comunidades.
+
+5. Resumen reunión comunidades
+-------------------------------
+
+Jimena nos ha resumido brevemente el acta de la reunión de comunidades y destaca algunas cosas como:
+
+    - Calendario eventos -> Isra quiere saber el objetivo de este calendario. Se habló que podía ser importante para conocer ponentes, temáticas, fechas y no pisarse. Al final, Isra mueve este tema en el repo de infraestructura.
+
+    - Comunidad de Python Zaragoza
+        Reunión realizado Lunes 12 Diciembre (johanna sanchez )
+        Persona interesada en activar la comunidad de Python Zaragoza
+        Manuel Paz: https://github.com/PlinMartinez
+        Comentamos los puntos en los que podemos apoyar desde la asociación
+        email oficial: pythonzaragoza@es.python.org
+        StreamYard
+        Meetup ( lo pagamos desde la asociación con el único requerimiento de generar al menos 2 eventos en lapso de tiempo de 6 meses desde la apertura)
+        Presupuesto para cada comunidad pre asignada para movilidad de ponente
+        Incluir en el Telegram de comunidades de Python España
+        Bolsa de ponentes
+        Uso de la página web de Python España
+
+    Johanna pregunta si teníamos una comunidad de Python Zaragoza anteriormente para reutilizar el contenido que hubiera. Necesita permiso para poder invitar en el grupo de Telegram. Queda pendiente crear el email y enviarlo.
+
+    - Colaboración con empresas
+        Making Science, Cristina  Johanna Sánchez
+        Están interesados únicamente en Pycon y Pydays, a priori. Quedó el contacto establecido de cara a los call for papers para sponsors de los eventos.
+
+    - Colaboración con la comunidad de WTM Barcelona
+        Quieren conocernos para coordinar gestión financiera. 
+        Que Johanna haga un doodle para ver quién de la junta quiere participar.
+
+    - Acercamiento con PyLadies BCN y Python Barcelona realizado por Jimena con éxito, hubo buen feeling.
+
+
+6. Mastodon
+-----------
+
+Necesitamos encontrar un nodo que permita hablar en castellano, y gente que se encargue de moderar y administrar. Podemos hacer una encuesta en el grupo de socies para ver cuánta gente lo usaría. La conclusión es que cada comunidad lo gestione si quiere, en lugar de llevarlo desde PythonES.
+
+
+7. CommitConf 2023
+------------------
+
+¿Se hizo publicidad del C4P? Sí se hizo, Jimena va a buscar enlaces para ponerlos.
+Piden ayuda de las comunidades para revisar las charlas del C4P. ¿Hacemos difusión de esto? Límite para votar 6 de enero.
+
+8. Ruegos y preguntas
+----------------------
+
+Se comenta que los últimos mails están sin respuesta, sin embargo si que se respondieron pero no se reenvió a todos.
+
+Se acuerda que a partir de Enero la gestión de correos se realice por temáticas:
+Altas -> Johanna
+Tesorería -> Alberto
+Colaboraciones, empresas y asociaciones -> Jimena
+Comunidades -> Clara
+Otros -> Israel
+
+Se cierra la reunión de la Junta a las 21:35 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
