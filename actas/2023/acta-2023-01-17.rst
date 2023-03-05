@@ -1,0 +1,65 @@
+Acta Junta Python España 17 de Enero de 2023
+============================================
+
+De forma Online siendo las 20:08 horas del 16 de Enero de 2023 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Grupos de trabajo
+2. Cuenta claves para IT
+3. PyconES
+4. Tareas pendientes
+5. Ruegos y preguntas
+
+1. Grupos de trabajo
+---------------------
+Preguntar en el grupo de comunidades si merece la pena mantener la suscripción de streamyard.
+
+2. Cuenta claves para IT
+------------------------
+Se ha creado recientemente una cuenta para IT de Bitwarden. Qué claves del bitwarden la cuenta de junta@... pasamos? (verificar)
+
+3. PyconES
+-----------
+
+Hubo reunión de PyconES donde hablaron un poco del logo y la parte gráfica y sobre qué se iba a utilizar para la gestión de tareas y grupos de trabajo. Revisaron el contenido de patrocinios. Hacen falta voluntarios. 
+Se dejaron abiertas las propuestas para keynotes.
+
+4. Tareas pendientes
+---------------------
+
+Poner en la web una sección de contacto para inscribirse como empresa que quiere/puede patrocinar. → Isra
+Estamos pendientes del trámite de la firma digital, que en principio una vez esté hay que ir a correos con el dni y unos papeles y te la dan. Pero ya tenemos por lo menos el documento de certificación con el cambio de junta que Clara los actualizará en el drive.
+
+Alberto: revisar “gocardless” para ver si compensa y decidir qué usamos.
+
+Johanna: recopilar materiales en un documento.
+
+Isra: Mandar cdmon y scaleway (credenciales) al grupo de IT.
+
+Johanna propone hablar con el banco nuevamente ahora que tenemos los documentos actualizados, pero Jimena propone recopilar información primero y comenzar el traspaso de Triodos.
+- https://www.caixaguissona.com/ca/Public/Home 
+Oficinas Lluis Pericot, 1 
+08034 BARCELONA
+Telèfon 93-200.92.49
+Horari finestreta: Dilluns a divendres 8.30-14.00 15.30-17.30
+Altres gestions: Dilluns a divendres 9.00-13.30 15.30-17.00
+
+5. Ruegos y preguntas
+---------------------
+
+Nada más que añadir.
+
+Se cierra la reunión de la Junta a las 21:10 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
+.. _dukebody: https://github.com/dukebody
