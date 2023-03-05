@@ -1,0 +1,85 @@
+Acta Junta Python España 14 de Febrero de 2023
+============================================
+
+De forma Online siendo las 20:12 horas del 14 de Febrero de 2023 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Mastodon (Fostodon)
+2. WTMB
+3. Web Commit
+4. PyconES
+5. Patrocinios PythonES
+6. Cambio apoderados (Triodos y gocardless)
+7. Tareas y varios
+8. Asamblea General 2023
+9. Ruegos y preguntas
+
+1. Mastodon
+------------
+Había un pago pendiente de revisar quién lo aprobó y que pasó, Jimena se encarga de este tema y de hablar con Python Canarias.
+
+
+2. WTMB
+--------
+Johanna preguntó por Telegram si las facturas llevaban IVA o no, etc y ya tenemos respuesta, todo se realiza por transferencia,
+a través de la universidad de Barcelona. Pendiente: crear una carpeta para llevar un registro de los pagos.
+
+3. Web Commit
+-------------
+Ya se ha empezado a tramitar que aparezcamos en la web y casi está.
+ Gestión de entradas en la Commit - Lo sortearemos entre los socios.
+
+4. PyconES
+-----------
+
+PyconES están planteando añadir como complementos ciertas herramientas y asegurar otros gastos base con la suscripción. De momento no hay pagos que gestionar. 
+¿Pretalx se va a usar? 
+
+5. PythonES
+------------
+El formulario de patrocinios ya está listo, quedaría enviarlo a las empresas y añadirlo a la web. Isra: crear la lista para enviar los mails (entre esta semana y la que viene)
+Añadir en la web un paso a paso de cómo crear comunidades (en el apartado de comunidades).
+Pendiente: terminar el documento de creación de comunidades y una vez esté un poco estructurado o directamente, compartirlo con el grupo de telegram de comunidades para que vayan dando el visto bueno y poder publicarlo en la web (Se encarga clara de esto).
+
+6. Cambio apoderados (Triodos y gocardless)
+--------------------
+Se han revisado los pasos necesarios para cambiar los apoderados del banco y nos faltaría un paso de operativa bancaria (certificado de operativa). Clara se encarga de hacer una copia del de 2020 y rellenarlo con los datos nuevos más la firma. 
+Una vez hecho esto Jimena se acerca un día al banco a llevar los documentos y verificar que esté todo bien o si falta algo.
+
+Hay que enviar un primer correo a GoCardless indicando que queremos hacer una migración y ya después enviarles la lista de correos de personas socias para que GoCardless pueda enviarles un correo y se puedan dar de alta.
+
+
+7. Tareas y varios
+-------------------
+PyCamp 2023: Hemos recibido sponsor de la PSF (No se ha recibido)
+Johanna ha pedido ayuda a Alberto para gestionar las facturas el fin de semana 
+Jimena quiere tener definidos los temas que se van a tratar y el balance por parte de Alberto (esto es para Abril por lo que tenemos la reunión de Marzo aún). Tarea: revisar las actas antiguas para ir viendo si queda algo pendiente.
+Isra: enviar mail a la gestoría respecto al cambio de estatutos (habrá cambio de sede social).
+Johanna responde a la persona que pregunta si se puede pagar mes a mes la suscripción.
+Clara responde a la persona que quiere crear la comunidad de la Rioja.
+
+8. Asamblea General 2023
+-------------------------
+Fecha: Abril
+Tener listo resumen de gastos que nos falto la vez pasada 
+
+
+9. Ruegos y preguntas
+---------------------
+Pendiente para la próxima reunión: querer hacer europython y pycones o solo una de las dos.
+
+
+Se cierra la reunión de la Junta a las 21:10 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
+.. _dukebody: https://github.com/dukebody
