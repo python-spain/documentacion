@@ -1,0 +1,55 @@
+Acta Junta Python España 11 de Abril de 2023
+============================================
+
+De forma Online siendo las 20:17 horas del 10 de Abril de 2023 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Tareas pendientes de la anterior reunión
+2. Temas a tratar en la Asamblea General
+3. Tareas para los próximos días
+4. Notas sobre el PyCamp
+5. Ruegos y preguntas
+
+1. Tareas pendientes de la anterior reunión
+--------------------------------------------
+Se han organizado facturas pendientes por parte de tesorería de cara a las diapositivas de la asamblea general.
+Rellenar con datos y firmas por parte de Alberto, Isra y Clara los documentos del cambio de banco.
+Queda pendiente publicar en la web el apartado para la nueva creación de comunidades.
+Falta por parte de Johanna algunos tickets del pycamp.
+Difundir en el grupo de comunidades la asamblea (se encarga Clara).
+
+
+2. Temas a tratar en la Asamblea General
+-----------------------------------------
+Johanna se está encargando de las diapositivas (resumen de cuentas, comunidades con las que hemos colaborado, explicar el tema de gocardless, balance de socies y recordar beneficios).
+
+3. Tareas para los próximos días
+---------------------------------
+Clara envía el  e-mail de invitación a la asamblea a las 3 personas socias cuando Johanna les haya dado de alta.
+Clara contesta al hilo de correos de la comunidad de la Rioja para pedir feedback del evento y organización de próximos eventos para la difusión.
+Jimena contesta a Datadog y algunos correos administrativos de Mallorca.
+
+
+4. Notas sobre el PyCamp
+------------------------
+Johanna nos cuenta sobre el PyCamp.
+
+
+
+5. Ruegos y preguntas
+---------------------
+Pendiente revisar documento Excel de Tesorería.
+
+Se cierra la reunión de la Junta a las 21:17 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica

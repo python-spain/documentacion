@@ -1,0 +1,132 @@
+Acta Junta Python España 14 de Marzo de 2023
+============================================
+
+De forma Online siendo las 20:00 horas del 14 de Marzo de 2023 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Balance de cuentas 2022
+2. Balance de eventos
+    - PyConEs 2022
+    - PyCamp Es 2022
+    - Pago de Plataformas
+    - Meetups 
+    - Eventbrite
+    - Stremyard
+    - Scaleway
+    - Mailjet
+    - Mentimeter
+
+3. Servicios y admin
+    - Gestoría
+    - Seguro RC
+    - Comisiones banco
+
+4. Tareas pendientes 
+
+5. Ruegos y preguntas
+
+1. Balance de cuentas 2022
+--------------------------
+Encargado: Alberto Fernández Valiente, Tesorería
+
+1.1 Cambio de apoderados
+Un documento rellenado y firmado para 2023 https://docs.google.com/document/d/1_q_mUSVml7I9SpYzKxtLnR5uU0iKUVND0fQsuW9BpLY/edit#heading=h.gjdgxs
+Falta rellenar resto de PDFs, firmarlos y presentarlos en el banco
+Encargadas de Gestión: Jimena Escobar Bermúdez y Clara Martínez Sánchez, con fecha límite orientativa final de marzo	
+
+1.2 Domiciliación por Gocardless.
+Texto a enviar a socios creado por Alberto, y aprobada. Adaptar para decir que quien no use este nuevo método de pago y no diga nada asumiremos baja.
+Enviar a socios a través de Mailjet
+Lo gestiona Alberto Fernández Valiente
+
+1.3 Nueva cuenta bancaria en Caixa Guissona. → retrasado hasta después de PyCamp
+
+
+
+2. Balance de eventos 2022
+---------------------------
+WTM
+Rectificación factura
+Alberto Fernández Valiente recomienda editar la factura directamente.
+Pago 50% cátering WTM Barcelona 
+ -hecho por Tesorería, Alberto Fernández Valiente
+No se han recibido más pagos desde el 13 de marzo
+
+Verificar si es necesaria rectificación para Eclipse por se temas de paises Externos
+Encargada de WTM Barcelona: Johanna Sanchez 
+Firmar de documento de MANGO, email del paso final para WTM Barcelona, encargada  Jimena Escobar Bermúdez
+
+PyCamp
+Pendiente comprobar el pago de la PSF
+Isra y Johanna quedarán para que Isra le de material de PyCamp a Johanna
+
+3. Servicios y admin
+---------------------
+¿Qué tasas se debe incluir para países como CANADÁ, tienen IVA o TAX diferentes? 
+Encargada de consultar: Jimena Escobar Bermúdez
+
+
+4. Tareas pendientes
+---------------------
+1. Enviar email de convocatoria
+    - Encargada de la gestión: Clara Martínez Sánchez , Secretaria
+    - Fecha límite de envío de la convocatoria vía email: 31 de marzo de 2023
+    - Se envía la convocatoria usando  mailjet
+    - Actualizar los emails de los socios activos en mailjet, sacando los mails del portal de socios
+    - Solo añadir los nuevos socios, no volver a añadir a antiguos que se borraron de la lista de distribución
+    - Crear evento de Google Meet
+        Generado por Isra, vocal, pero puede editarlo toda la Junta.
+    - Faltan incluirlo enlace en el email
+2. Aceptar invitados a medida que se unen al evento
+3. Slides para la asamblea
+    - Generar las slides de la Asamblea General Ordinaria 2023
+    - Encargada de generar el template: Johanna, vicepresidenta
+        Asamblea General Extraordinaria Python España - 22 de abril de 2023
+
+PyCamp
+Pendiente comprobar el pago de la PSF
+Isra y Johanna quedarán para que Isra le de material de PyCamp a Johanna
+
+Comunidades
+
+Difusión de la comunidad de la rioja. Clara: Contesté a los de la Rioja que nos han vuelto a escribir y hay que ver cómo seguimos.
+
+Difusión por Twitter → Jimena
+Añadir a Telegram comunidades → Clara
+
+Entradas Commit
+
+Reparto entradas commit → Isra comenta por Telegram
+
+5. Ruegos y preguntas
+---------------------
+PyConES
+Consejo sobre precios patrocinio pycones (si queremos darlo)
+conf
+
+Mail : 
+Cómo ser Partner de Python?
+
+
+Clara - Documento de comunidades para difundir por el chat de comunidades: Por lo que vi no está terminado, quedaría ir rellenándolo y cuando le demos el OK compartirlo.
+
+
+Capacidad de respuesta en Telegram JD y asistencia a reunión JD.
+Si no estamos disponibles un tiempo avisar para que el resto de gente pueda desbloquear.
+Reprogramar reunión → votación nuevo horario, Isra la lanza
+
+
+
+Se cierra la reunión de la Junta a las 21:00 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
+.. _dukebody: https://github.com/dukebody
