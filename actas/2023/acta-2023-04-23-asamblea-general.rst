@@ -56,7 +56,7 @@ Notas de ruegos y preguntas
 
 (Israel Saeta) ¿La venta de entradas de la PyConES empieza en abril o más tarde? ¿No es un poco pronto abril? → No, por vuelos a Canarias.
 
-(Christian Prada) ¿Habrá entradas para PyConES anticipadas para socies? → Sí, por el precio de la Early Bird.
+(Christian Prada) ¿Habrá entradas para PyConES anticipadas para socies? → Las personas socias que estén al día en su cuota tendrán entradas reservadas por un tiempo al el precio de la Early Bird.
 
 (Antonio Rodríguez) ¿Hay algún listado de tareas o ruegos de automatización por hacer? Lo digo para saber más menos que se necesita a nivel de picar código y quien puede ayudar → No actualmente, pero se puede hacer y contactar a grupo IT.
 
