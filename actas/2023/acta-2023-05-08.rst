@@ -1,0 +1,61 @@
+Acta Junta Python España 8 de Mayo de 2023
+==========================================
+
+De forma Online siendo las 19:45 horas del 8 de Mayo de 2023 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. PyconES Update
+2. Papeles triodos
+3. Tareas para los próximos días
+4. Ruegos y preguntas
+
+1. PyconES Update
+------------------
+Salieron a la venta las entradas, se vendieron 200 y en 3 minutos se agotaron. Se espera que se amplíe el número de entradas destinadas a las personas socias (porque había 50 nada más).
+Se necesita algo de la asociación?: Isra propone que se establezcan qué tareas hay que hacer y en qué grupos para que el esfuerzo sea más dirigido.
+
+-	Generación de Facturas Zapier ( Para automatizar esta parte, nos interesa). Aún así se decide consultarlo con Paloma. Es posible que haga falta adelantar el dinero, posteriormente se cubrirá con patrocinios.
+
+Nuevos socios → ¿deberían tener acceso a entradas reservadas PyConES? Organizamos votación en esta reunión. Después de valorar diferentes opciones, lo más razonable es que se mantenga hasta el 30 de Junio para nuevas personas socias.
+Para el resto de socios será hasta Agosto.
+
+
+2. Papeles triodos
+------------------
+Le pasamos las firmas a Jimena y así termina de rellenar los documentos y pedir la cita para dar los datos. Deadline 18 de Mayo.
+
+
+3. Tareas para los próximos días
+---------------------------------
+Se propuso formar un sistema de ticketing en github para que la gente pueda coger tareas. 
+Tarea: Crear este tablón e ir creando tickets.
+Tarea: dar un repaso a las tareas antiguas y ver cuáles tienen sentido para pasar a un tablón, y posteriormente envíar una newsletter informando de que existen y que se pueden ir haciendo.
+GoCardless: (Alberto creó el mail y va a generar la lista, para que solamente quede crear el mailjet, anunciarlo en Telegram y a los dos días como mucho importarlo en gocardless). Deadline 18 de Mayo.
+
+
+
+4. Ruegos y preguntas
+------------------------
+Directrices difusión eventos externos:
+https://pybcn.org/pybcn_association/promote-your-event/
+    -Develhope
+    -Programa gratuito para mujeres en ciberseguridad
+
+Se aprueba patrocinar con 100€ y preguntar si necesitan más.
+Queda pendiente la llamada a sede 2024
+
+
+Se cierra la reunión de la Junta a las 20:55 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
+.. _dukebody: https://github.com/dukebody
