@@ -1,0 +1,102 @@
+Acta Junta Python España 10 de Julio de 2023
+============================================
+
+De forma Online siendo las 19:35 horas del 10 de Julio de 2023 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Estado PyConES 2023
+2. Tesorería
+3. Estado propuestas sede PyConES 2024
+4. Comunidades
+5. Domicilios Python España
+6. Cambio apoderados Triodos
+7. Presentación informe de cuentas del evento Women Techmakers
+8. Ruegos y preguntas
+
+1. Estado PyConES 2023
+----------------------
+Bien de presupuesto, en positivo, aunque no holgado
+Diversidad. Peor en números, pero con buenas iniciativas de diversidad: becas, C4P ampliado, entradas reservadas para diversidad, baños mixtos, balanceo agenda, talleres enfocados a mujeres (Django Girls, Humble Data), invitadas (Naomi Ceder, Marlen, Denny, …). 
+Posibilidad de cursos de formación con descuento.
+Welcome Pack con cosas de La Palma.
+Revisión charlas (algo menos de 200 propuestas). Debatimos sobre si abrir la revisión a toda la gente que asiste, o solamente a la comunidad y conocidos.:
+- A más gente se contrastan los sesgos.
+- Miedo a conflicto de intereses.
+- Abrir la convocatoria acerca a las personas a la comunidad
+- Intentar medir cantidad de perfiles: niveles, género, temáticas…
+Posibilidad de aportar dinero a fondo perdido a la PyConES 2023, especialmente para becas:
+Se aprueba poner 6.000€ destinados a diversidad
+Dinero contrareembolso
+Usar Iberia business para Keynoters
+Becados pagan por adelantado y se gestiona la devolución
+Para futuras organizaciones de PyConES
+
+Como manejar los beneficios/perdidas cuando se organiza una  PyConES con otra asociación, definir al momento de definir sede. Este tema plantearlo en la próxima asamblea de la Asociación Python España.
+
+Propuesta apoyar a la asociación externa de Python España con patrocinios de pequeños eventos segun la asociación externa lo solicite como: PyDay, Meetup . 
+Ejemplo: Hemos realizado apoyo a la Aso. Python Barcelona
+
+2. Tesorería
+-------------
+Facturas entradas → las haremos al final de la conferencia, y si alguien las necesitase antes se la podemos hacer por separado, pero no vales las de Eventbrite.
+
+
+3. Estado propuestas sede PyConES 2024
+---------------------------------------
+Se han compartido las candidaturas de otros años y se hace un seguimiento de quienes han mostrado interés.
+
+4. Comunidades
+---------------
+Ayuda económica grupo Python Valencia para alquilar aula para formación.
+Comentar buscar colaboración de la universidad o espacios públicos.
+Ping Python Valencia
+
+Django Con - Vigo
+Consultar con la comunidad de Python Vigo en que estado de conexión se encuentran con la empresa organizadora de DjangoCon 2024
+
+5. Domicilios Python España
+----------------------------
+Domicilio social: lo cambiamos el 23 de abril de 2022 (ver cambio) y se reflejó en los estatutos. Nunca enviamos el cambio de estatutos al registro, habría que hacerlo.
+Domicilio fiscal. No me consta que lo hayamos cambiado. Esto afecta principalmente a las facturas:
+ - 	Consultar con gestoría y cambiar en Octubre
+Domicilio de notificaciones. Tampoco me consta que lo hayamos cambiado.
+Persona en la presidencia. Modificar en la Agencia Tributaria
+
+6. Cambio apoderados Triodos
+----------------------------
+¿Qué falta exactamente?
+Rehacer todos los formularios
+Copia de todos los DNIs en vigor
+Firmas manuscritas de Jimena, Clara y Alberto
+Cuentas anuales 2022
+Previsión año en vigor
+Tardan 3-4 meses en hacer el cambio
+
+7. Presentación informe de cuentas del evento Women Techmakers
+--------------------------------------------------------------
+Alberto revisa el informe
+Tesoreria se encarga de reembolso
+Tesoreria responde al email recibido por parte de Women Techmakers Barcelona
+Todas las facturas de Women Techmakers se encuentra en el drive de Asociacion de Python España en la carpeta  Tesoreria/pythonEspaña2023/Evento_WTMBarcelona2023
+
+
+8. Ruegos y preguntas
+----------------------
+Hacktoberfest
+Publicar en el foro y canal de telegram 🙂
+
+
+Se cierra la reunión de la Junta a las 20:55 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
+.. _dukebody: https://github.com/dukebody
