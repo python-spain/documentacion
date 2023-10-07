@@ -1,0 +1,98 @@
+Acta Junta Python España 14 de Agosto de 2023
+=============================================
+
+De forma Online siendo las 19:35 horas del 14 de Agosto de 2023 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Tareas pendientes
+2. Asamblea general extraordinaria octubre
+3. Comunidades
+4. Simplificación infraestructura
+5. Estado general PyConES 2023
+6. Elecciones Junta 2024-2026
+7. Ruegos y preguntas
+
+1. Tareas pendientes
+---------------------
+isaeta@es.python.org enviar mail sobre fecha límite nuevo socio para tener derecho a entrada pycones (“Consulta socio”) → hecho
+Cambio de domicilios Python España ¿?
+Jimena Escobar Bermúdez Cambio apoderados Triodos
+Faltaba previsión facturación y cuentas → usaremos cuentas generadas por Tesorería año pasado
+isaeta@es.python.org Hacktoberfest
+Preguntado grupo comunidades Python y algunas tienen interés en hacer algún evento
+Preguntado grupo comunidades tecnológicas España, interés por parte de Hackaton Lovers
+Esperando a septiembre para pedir ayuda de gente para preparaciones
+Renovado hacktoberfestes.dev y creado https://github.com/HacktoberfestES/hacktoberfestES2023 con tareas
+
+
+2. Asamblea general extraordinaria octubre
+--------------------------------------------
+Queda pendiente definirlo en la próxima reunión
+
+3. Comunidades
+---------------
+Subvención curso Valencia (email Andros) -> Decidimos que Python España no financia cursos en empresa con ánimo de lucro
+Jimena Escobar Bermúdez se encarga del mail
+Entradas para Pycon Portugal -> Nos han dado dos entradas
+Una la usará Jimena
+La otra Jimena la sorteará
+
+4. Simplificación infraestructura
+----------------------------------
+Sustitución app socies por un Excel
+Consultado antiguo tesorero, única funcionalidad que perderíamos sería mail automático con número de socie → sugerencia: hacerlo a mano con plantilla
+Seguimiento de pagos
+Exportar pagos GoCardless a Excel
+Apuntar transferencias manuales cuotas en Excel
+Migrar Discourse a hosted
+Migrar Moodle a hosted, si se usa en los próximos 6 meses
+Contenido máquina antigua parada → archivo y Google Drive
+
+5. Estado general PyConES 2023
+------------------------------
+Seguimiento presupuesto
+Quizá hay algunas pérdidas
+Seguimiento facturas
+¿Se necesita ayuda en algo?
+No
+
+6. Elecciones Junta 2024-2026
+-----------------------------
+¿Quién se presentaría a reelección? ¿Es necesario empujar un poco a gente a que se presente?
+
+7. Ruegos y preguntas
+---------------------
+Repaso de tareas
+Triodos Jimena Escobar Bermúdez: 
+Agosto:
+rellenar documentación Triodos
+conseguir firma Clara
+Septiembre:
+llevar docs a Triodos
+Curso python valencia
+Jimena Escobar Bermúdez redacta borrador mail de contestación, para septiembre
+Siguiente Junta → TODES revisan borrador
+Simplificación infra:
+isaeta@es.python.org comunica decisión OK de simplificar
+Entradas pycones:
+Jimena Escobar Bermúdez comprueba que quien ha solicitado entrada de socie ha pagado, entrando a GoCardless con la contraseña de Bitwarden
+afernandez@es.python.org revisión impagos cuota socies, para septiembre, antes de asamblea
+afernandez@es.python.org pregunta a Cristián sobre Bloomberg
+Jimena Escobar Bermúdez sortea entrada Pycon Portugal en grupo PyConES y luego grupo de Socies
+Jimena Escobar Bermúdez habla con Cristian sobre baja
+
+
+Se cierra la reunión de la Junta a las 20:45 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
+.. _dukebody: https://github.com/dukebody
