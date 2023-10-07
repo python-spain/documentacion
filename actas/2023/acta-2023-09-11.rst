@@ -1,0 +1,87 @@
+Acta Junta Python España 11 de Septiembre de 2023
+=================================================
+
+De forma Online siendo las 19:10 horas del 11 de Septiembre de 2023 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Tareas pendientes
+2. Procesos de Gestión de nuevos socios
+3. Junta ejercicio 2024/2026
+4. Recuperación grupos de trabajo
+5. Estatus PyconES
+6. Hacktober Fest
+7. Carta persona con sordera
+8. Asamblea General Octubre
+
+1. Tareas pendientes
+--------------------
+
+Triodos → final septiembre (25 de Septiembre)
+Responsable Jimena de actualizarnos cuando se tiene la cita con el banco
+
+Python Valencia → Responsable Jimena de pasar el borrador por grupo de JD esta semana del 11 al 15 de Septiembre
+
+Sorteo entrada PyCon Portugal → nadie la quiso, quedó desierta
+
+
+2. Procesos de Gestión de nuevos socios
+---------------------------------------
+A partir de ahora se actualizará el Excel donde se hizo la exportación de la base de datos de la aplicación antigua. Clara ha compartido el enlace y los campos que se van a utilizar de ahora en adelante. Hay que añadir a la última persona que se apuntó (enviando un correo manual, se encarga Johanna).
+Se han borrado los datos de la exportación del grupo de IT.
+
+
+3. Junta ejercicio 2024/2026
+----------------------------
+Alberto: Se quedaría pero como vocal
+Isra: Descansa, no sigue en la junta.
+Johanna: Depende del equipo que se forme, independientemente del cargo.
+Clara: Lo deja por estudiar psicología.
+Jimena: No sabe qué hacer.
+
+
+4. Recuperación grupos de trabajo
+---------------------------------
+IT: hay gente suficiente y funciona bien.
+PyconES: Estaría bien tratar de recuperar gente que antes estaba más activa y poder seguir haciendo cosas, pero es comprensible que de primeras da impresión porque es mucha presión, y son muchas cosas que gestionar.
+Pyladies: Intentar animar a compañeras de la PyladiesCon para recuperar el movimiento de Pyladies, quizás montar algo de cara al Hacktoberfest.
+Comunicación: Intentar recuperar la activación de la newsletter, pero se está usando sobretodo Telegram, está muy activo.
+Docencia y divulgación: Tampoco hay movilidad, estaría bien tratarlo en la ASamblea General.
+
+
+5. Estatus PyconES
+-------------------
+A priori no sabemos el balance anual, tenemos alguna información del pasado pero varía bastante en las localizaciones (Valencia/Granada).
+¿Cuánto aporta a la caja general?
+Hay que decidir qué se va a dar, ¿un libro? ¿una switch? ¿algo físico o virtual? 
+
+De la Pycon24 se sabe poco de la gente de Vigo. Jimena sugiere enviar la info a través del grupo de comunidades en vez de gestionarlo todo por mail.
+
+6. Hacktober Fest
+-----------------
+Falta gente para terminar de moverlo. Juanlu dijo que quería hacer algo en Madrid por ejemplo, y hay una lista de issues para sacar cosas. Jimena se apuntaría en Madrid.
+
+7. Carta persona con sordera
+-----------------------------
+Se sabía que esta persona iba a asistir porque nos habían avisado, pero la conclusión a la que se había llegado por la info que nos habían dado de experiencias anteriores era que no merecía la pena contratar a una persona que sepa lenguaje de signos porque para una sola persona no merecía la pena (ya que la mayoría de la gente no sabe lenguaje de signos). Sergio habló con la persona con las alternativas (tema subtítulos y estar cerca de las ponencias para leer los labios), pero no le valían los subtítulos ni autogenerados ni lo de leer los labios. 
+Se le preguntó qué podíamos hacer por él para que se pudiera integrar con el resto de asistentes, donde pasó un par de enlaces pero no nos dió más info.
+Es complicado de cubrir y hay carencia de profesionales.
+
+8. Asamblea General Octubre
+---------------------------
+Queda pendiente actualizar las diapositivas y mandar el e-mail (se encarga Clara).
+
+
+Se cierra la reunión de la Junta a las 20:35 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
+.. _dukebody: https://github.com/dukebody
