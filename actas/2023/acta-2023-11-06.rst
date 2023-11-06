@@ -1,0 +1,107 @@
+Acta Junta Python España 11 de Septiembre de 2023
+=================================================
+
+De forma Online siendo las 19:05 horas del 06 de Noviembre de 2023 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Tareas pendientes
+2. Updates PyConES2023
+3. Líneas Rojas JD
+4. Presupuestos comunidades
+5. Traspaso de JD
+6. Ruegos y preguntas
+
+1. Tareas pendientes
+--------------------
+
+Tareas Pendiente que vamos arrastrando de reuniones anteriores
+
+  Python Valencia .Reasignamos la tarea a Clara.  Responsable anterior era Jimena de pasar el borrador por grupo de JD esta semana del 11 al 15 de Septiembre
+  Triodos → final septiembre (25 de Septiembre) Responsable Jimena de actualizarnos cuando se tiene la cita con el banco
+
+
+Tareas Pendientes de esta reunión
+
+  Resolver porque no le funciona a Clara, la creación de emails (resuelto)
+  Altas de socies realizadas en conjunto con Clara y Johanna. (resuelto)
+  Crear un documento para hacer una lista de cosas para documentar para ver si lo vamos a poner en carpetas y si hace falta actualizar la información.(Alberto)
+  Crear un documento para que cada persona indique qué cosas cree que debe hacer la junta directiva respecto a la PyConEs y en general sobre el tema de las líneas rojas. (Isra)
+  Gestionar la reunión extraordinaria para hablar sobre PyConES
+  Fecha de la Reunión con socies 
+  Propuestas por parte de la asociación una reunión aparte
+
+Revisión de puntos del post de lineas rojas
+  [PyConES] - ¿Líneas rojas de la JD?
+En relación con los gastos como ejemplo:  streaming, lenguaje de señas en cuanto a la valoración de costo o filosofía de la comunidad. Prioridades sobre igualdad e inclusión. 
+ 
+Tesorería
+  Alberto va a revisar el estado de pago de socies. 
+  Solicitar el pago a socies pendientes de pagos
+  Gestionar el proceso con Godcardless por primera vez antes de hacerte socie. ¿Se puede programar el pago anual o en una fecha especifica? 
+  Actualizar proceso en la web para que se pague por primera vez desde goodcardless 
+  Revisar ingresos reales contra pagos de PyConES
+Actualizar proceso de Altas de socies, pendiente.
+  Estamos al día de altas!(resuelto)
+  Listado de socies, mailjet
+  Alta en Godcardless, Responsable tesoreria 
+  Actualizar en la web que deben hacerse cuenta de socies. Responsable Johanna
+  Mejorar la redacción del template para Invitación a Foro, Telegram, Eventos y Grupos de trabajo . Responsable Clara 
+
+
+2. Updates PyConES2023
+-----------------------
+Balance económico a día de hoy Alberto Fernández Valiente?
+Tareas pendientes cierre que necesiten aporte de la JD:
+¿No hay?
+Queda pendiente que Alberto revise este tema.
+
+
+3. Líneas Rojas JD
+-------------------
+Problemas con falta de ownership en trabajo y toma de decisiones. ¿Qué decisiones corresponden a la Asociación y cuáles al grupo organizador/promotor? ¿Qué hacer como JD/Asociación si el grupo organizador no llega a las tareas?
+
+Hilo líneas rojas JD – PyConES → ¿qué hacemos respecto a esto?
+https://comunidad.es.python.org/t/pycones-lineas-rojas-de-la-jd/1233/6
+
+Se han discutido los roles y responsabilidades de la junta directiva para con la PyconES.
+Johanna comenta que se habló de compartir el host y el keynote de apertura para que sean las comunidades quien estén implicadas.
+Quedamos en realizar otra reunión para continuar debatiendo este tema.
+
+
+4. Presupuestos comunidades
+----------------------------
+En el pasado creo que establecimos 200€ por comunidad y año para viajes ponentes. Coruña nos solicitó 200€ este año pero para el Hacktoberfest.
+¿Podríamos establecer un presupuesto anual por comunidad y que lo gasten en lo que quieran? O presupuestos por concepto, etc. ¿O mejor hablamos ad-hoc cada caso?
+Estamos de acuerdo en proponer un presupuesto anual más alto que englobe más actividades y estar abiertos a propuestas fuera de este presupuesto, pero se comparte con el resto de la JD que no han podido asistir al a reunión o se han tenido que ir.
+Quedamos a la espera de votación y formalización.
+
+5. Traspaso de JD
+-------------------
+Documentación de procesos para transferencia y conseguir ayuda.
+  ¿Qué procesos que actualmente realizamos cada una de nosotras en la JD podemos documentar?
+
+Hay ciertas tareas que faltan por documentar como temas de tesorería (altas, gestiones como la domiciliación) y comunicación con la gestoría.
+Las altas de nuevas personas socias.
+¿Creación de campañas de mailjet? ¿ Plantillas de mailjet? ¿Actualización de la lista de personas socias?
+Alberto sugiere crear una carpeta de documentación con los roles divididos.
+¿Cuáles podríamos externalizar a socies que no estén en la JD?
+
+
+6.  Ruegos y preguntas
+----------------------
+Isra comenta que ve una falta de participación por parte de algunos miembros de la junta directiva a la hora de proponer temas de discusión e invita a valorar este aspecto.
+
+
+Se cierra la reunión de la Junta a las 21:00 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
+.. _dukebody: https://github.com/dukebody
