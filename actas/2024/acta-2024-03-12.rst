@@ -1,0 +1,71 @@
+Acta Junta Python España 12 de Marzo de 2024
+============================================
+
+De forma Online siendo las 19:00 horas del 12 de Marzo de 2024 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Revisión de tareas pasadas
+2. Llamado a nueva junta
+3. Convocatoria Asamblea General
+4. Ruegos y preguntas
+
+1. Revisión de tareas pasadas
+------------------------------
+Becas pendientes 
+Ceci: máximo 200 euros de la PyconES Canarias (2023) - Pagada
+Lais: máximo 200 euros también de la PyconES (dio un taller) - Pendiente de nº de cuenta
+
+Enviar encuesta por Telegram para ir fijando la fecha de la Asamblea General de Abril + cambio de junta
+Responsable: Johanna
+Fecha de enviar encuesta 20 marzo
+Enviar convocatoria de nueva junta en Marzo
+Fecha máxima para enviar 2-5 de abril
+Responsable: ? 
+Actualizar proceso en la web para que se pague por primera vez desde goodcardless 
+Encargada Johanna Enero /Febrero 
+Fecha maxima 10 de abril
+Revisar ingresos reales contra pagos de PyConES 
+Encargada Clara
+Enviar factura Impacto Visual
+
+2. Llamado a nueva junta
+-------------------------
+Añadir unas líneas de nuestra experiencia personal o consejo
+- 	Encargada: Jimena
+- 	Fecha tope llamada: 20 Marzo
+-	Fecha tope postulación: 5 Abril
+
+3. Convocatoria Asamblea General
+--------------------------------
+Fecha tope: 2 Abril
+Encargada: Clara
+Puntos:
+-Actividad JD: Diversidad y reforzar grupos locales
+-Cuentas
+-Eventos meetups y colaboración 
+-Altas nuevas
+-Líneas maestras PyConES
+-Presentar y Votar nueva JD
+
+Se propone el 15 de Abril: Última reunión para hablar del transpaso
+
+
+4. Ruegos y preguntas
+---------------------
+No hay preguntas.
+
+Nada más que añadir.
+
+Se cierra la reunión de la Junta a las 21:32 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
