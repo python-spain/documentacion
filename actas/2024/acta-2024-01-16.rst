@@ -1,0 +1,96 @@
+Acta Junta Python España 16 de Enero de 2024
+============================================
+
+De forma Online siendo las 20:00 horas del 16 de Enero de 2024 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Estado Hacienda
+2. Altas socies
+3. Becas pendientes
+4. Bloomberg W8
+5. Comunidades
+6. Revisión de puntos del post de lineas rojas
+7. Tareas pendientes
+8. Ruegos y preguntas
+
+1. Estado Hacienda
+-------------------
+Se habla del estado de notificaciones y gestiones pendientes de tramitar con Hacienda. Nos pasamos de tiempo para responder y por tanto ahora Maria José está contestando a los requerimientos.
+
+2. Altas socies
+----------------
+Faltan varias por gestionar -> Se encarga Clara ya que Johanna ha estado con todo el tema de hacienda.
+
+3. Becas pendientes
+--------------------
+Se aprueban las siguienets becas y quedan pendientes de tramitar:
+Ceci: máximo 200 euros de la PyconES Canarias (2023)
+Lais: máximo 200 euros también de la PyconES (dio un taller)
+
+
+4. Bloomberg W8
+----------------
+Encargado Alberto de gestionarlo -> correo: Fwd: URGENT: PyCon ES Bloomberg Sponsorship- W8 needed for payment
+
+
+5. Comunidades
+----------------
+Creada una carpeta común para todas las comunidades y que tengan acceso común a recursos, herramientas, info,etc.
+Contestado el mail con Python Valencia.
+
+
+6. Revisión de puntos del post de lineas rojas
+-----------------------------------------------
+
+[PyConES] - ¿Líneas rojas de la JD?
+En relación con los gastos como ejemplo:  streaming, lenguaje de señas en cuanto a la valoración de costo o filosofía de la comunidad. Prioridades sobre igualdad e inclusión. -> jimena añade que debe de ser responsabilidad de quien organiza.
+Esto se está conversando en un Grupo de Telegram - comunicar a socies o indicar en el post como acceder al grupo
+Consultar estado a Jimena e Isra
+
+Clara: yo creo que respecto a este tema es posible que haya habido poca separación entre la junta y la PyconES porque las personas implicadas en la organización tenían un doble rol, pero no necesariamente por ser o no de la junta, es decir, que la junta está como apoyo y para consultar pero no para tomar decisiones respecto a la PyconES.
+Alberto: considerar el presupuesto antes de la toma de decisiones, y mientras no afecte a estos presupuestos está de acuerdo.
+
+7. Tareas pendientes
+---------------------
+Tesorería
+Alberto va a revisar el estado de pago de socies. 
+Solicitar el pago a socies pendientes de pagos
+Gestionar el proceso con Godcardless por primera vez antes de hacerte socie. ¿Se puede programar el pago anual o en una fecha especifica? 
+Se requiere analisis para saber en que podemos ayudar a alberto sobre estado socie en Gocardles y en el excel unificar estados de pago y plataformas de pago.  
+Encargado alberto indicarno como lo hacemos antes aprox 8 - 10 enero 2024 para ayudarlo a resolverte punto
+Enlace Gocardless: https://pay.gocardless.com/AL0004D5AS5P1H
+Se renueva cada 3 de Marzo el pago. Incluir en el template de bienvenida de socies ( Johanna - Clara) 
+
+Actualizar proceso en la web para que se pague por primera vez desde goodcardless -> Encargada Johanna
+Revisar ingresos reales contra pagos de PyConES  -> Encargado Alberto
+
+8. Ruegos y preguntas
+---------------------
+Colaboración con otras comunidades (Tema propuesto por Johanna)
+Se requiere aprobación de JD y Compromiso de Tesorería
+WTM Barcelona - IWD 2024 ( en 2023 hicimos prueba piloto) 
+WTM Madrid - IWD 2024
+Presentado en la reunion
+Decidimos por encuesta en el telegram
+Deadline: Antes del viernes para dar a WTM Madrid y Barcelona
+Que hacer con el remanente en caso de aceptar WTM-Madrid con fecha limite una semana después del evento en marzo 2024.
+Vota a favor con condicional de cierre de dinero una semana después:  3 votos ( jimena, alberto, johanna,clara) 
+voto en contra: x
+abstiene de voto: x
+
+Nada más que añadir.
+
+Se cierra la reunión de la Junta a las 21:11 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
+.. _dukebody: https://github.com/dukebody
