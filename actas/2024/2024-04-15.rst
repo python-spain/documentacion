@@ -1,0 +1,67 @@
+Acta Junta Python España 15 de Abril de 2024
+============================================
+
+De forma Online siendo las 19:12 horas del 15 de Abril de 2024 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Tareas pendientes
+2. Tareas Tesorería
+3. Próximas tareas
+4. Ruegos y preguntas
+
+1. Tareas pendientes
+-------------------.
+Volcado socies con derecho a voto
+Subida últimas dos actas a GitHub
+Actualización de la web con GoCardLess -> pendiente aún
+Revisar ingresos reales contra pagos de PyConES -> pendiente aún
+Enviar factura Impacto Visual
+Revisión documentos transferencia
+
+2. Tareas Tesorería
+----------------
+Cierre 2023 pendiente 2023.xlsx -> hecho
+Primer trimestre 2024 TRIMESTRE T1_2024 - cuentas sin saldar.xlsx -> hecho
+Tesorería Pendientes a revisar:
+- Desglose IVA de estradas de Febrero
+- Declarar el IVA en todo lo relacionado al PyCamp y WTM BCN
+- Falta una factura del PyCamp por valor de 275€ - ESTÁ REPETIDA
+- Faltan los pagos del Corte Inglés y Digital Audimagen (Fra.Nº.00184000793 y Fra.Nº.w23089378)
+- Faltan bastantes facturas, puede que relacionadas con la PyCamp
+- Tenemos pendiente de ingresar un pago de 8€ por el retraso del mes anterior
+IGIC
+
+
+3. Próximas tareas
+------------------
+Lista Socies con derecho a voto -> Revisar en la asamblea quien vota Clara Martínez Sánchez -> hecho
+Subir dos últimas actas Clara Martínez Sánchez -> hecho
+Actualizar web Johanna Sánchez
+Factura Mentimeter Jimena Escobar Bermúdez -> hecho
+Balance cuentas para asamblea Clara Martínez Sánchez -> hecho
+Diapos Tareas junta Jimena Escobar Bermúdez -> hecho
+Diapos Eventos y meetups Jimena Escobar Bermúdez -> hecho
+Facturas Coruña Clara Martínez Sánchez -> hecho
+Facturas PyCamp Israel Saeta Johanna Sánchez -> hecho
+Solicitar IGIC Israel Saeta -> hecho
+Pago Agencia Tributaria Jimena Escobar Bermúdez -> hecho
+Actualizar documentos transferencia Clara Martínez Sánchez Israel Saeta -> hecho
+
+
+4. Ruegos y preguntas
+---------------------
+Nada más que añadir.
+
+Se cierra la reunión de la Junta a las 20:14 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
