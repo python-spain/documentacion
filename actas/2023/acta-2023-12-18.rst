@@ -1,0 +1,80 @@
+Acta Junta Python España 18 de Diciembre de 2023
+================================================
+
+De forma Online siendo las 20:08 horas del 18 de Enero de 2023 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. PyConES2023
+2. Comunidades
+3. Revisión de tareas pendientes
+4. Ruegos y preguntas
+
+1. PyConES2023
+---------------
+Documento W8 Bloomberg
+Responsable Jimena
+Deadline 10 enero
+
+2. Comunidades
+---------------
+Registro gasto comunidades
+Propuesta de un Excel público 
+Comunicarlo en el foro
+Responsable Jimena
+Deadline 10 Enero
+Comunidades que han hecho uso de memoria
+Girona
+Coruña
+Valencia
+
+
+3. Tareas pendientes
+---------------------
+Altas socies que pasaron a SPAM: 
+Mario Ramirez
+Unai Fernández
+Ibar Vivas
+Actualizar en la web que deben hacerse cuenta de socies. Responsable Johanna - movemos para la próxima JD  Enero
+Mejorar la redacción del template para Invitación a Foro, Telegram, Eventos y Grupos de trabajo . Responsable Clara 
+Alberto va a revisar el estado de pago de socies. 
+Solicitar el pago a socies pendientes de pagos
+Gestionar el proceso con Godcardless por primera vez antes de hacerte socie. ¿Se puede programar el pago anual o en una fecha especifica? 
+Se requiere analisis para saber en que podemos ayudar a alberto sobre estado socie en Gocardles y en el excel unificar estados de pago y plataformas de pago.  
+Encargado alberto indicarno como lo hacemos antes aprox 8 - 10 enero 2024 para ayudarlo a resolverte punto
+Enlace Gocardless: https://pay.gocardless.com/AL0004D5AS5P1H
+Se renueva cada 3 de Marzo el pago. Incluir en el template de bienvenida de socies ( Johanna - Clara) 
+
+Actualizar proceso en la web para que se pague por primera vez desde goodcardless 
+Revisar ingresos reales contra pagos de PyConES 
+Esto fue un compromiso asumido en la asamblea 
+Fecha de la Reunión con socies -> última semana de Enero (sábado 27/Domingo 28) enviando un email 2 semanas antes. Lanzar votación la primera semana de Enero por Telegram. Habiendo leído el post de las líneas rojas y sobre PyConEs. Estado de cuentas tiene que estar listo para el 15 de Enero.
+Propuestas por parte de la asociación una reunión aparte (reunión del 16 de Enero).
+
+Revisión de puntos del post de lineas rojas (comentar en la próxima reunión)
+[PyConES] - ¿Líneas rojas de la JD?
+En relación con los gastos como ejemplo:  streaming, lenguaje de señas en cuanto a la valoración de costo o filosofía de la comunidad. Prioridades sobre igualdad e inclusión. 
+Esto se está conversando en un Grupo de Telegram - comunicar a socies o indicar en el post como acceder al grupo
+
+Consultar estado a Jimena e Isra
+Crear un documento para que cada persona indique qué cosas cree que debe hacer la junta directiva respecto a la PyConEs y en general sobre el tema de las líneas rojas. (Isra)
+Cambiar responsable de esta Tarea, cada une redacte lo de su rol actual
+Deadline: 8 de Enero
+
+4. Ruegos y preguntas
+---------------------
+Nada más que añadir.
+
+Se cierra la reunión de la Junta a las 21:10 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
+.. _dukebody: https://github.com/dukebody
