@@ -1,0 +1,77 @@
+Acta Junta Python España 14 de Febrero de 2024
+============================================
+
+De forma Online siendo las 19:13 horas del 14 de Enero de 2024 y en única
+convocatoria, se celebra la reunión de la Junta Directiva de Python España.
+
+Orden del día
+~~~~~~~~~~~~~
+
+1. Cambio de responsabilidades en la junta
+2. Revisión de tareas pendientes
+3. Próximas tareas pendientes
+4. Ruegos y preguntas
+
+1. Cambio de responsabilidades en la junta
+-------------------------------------------
+Debido a la baja por parte de Alberto, las responsabilidades de tesoría han quedado delegadas a secretaría mayoritariamente y al resto del equipo.
+
+2. Revisión de tareas pendientes
+--------------------------------
+Se ha gestionado el proceso de invitación a Gocardless y se han resuelto las tareas relativas a hacienda.
+
+
+3. Próximas tareas pendientes
+-----------------------------
+Enviar al principio de cada mes las facturas recibidas y emitidas a la gestoría (recurrente)
+Enero 2024 - Enviado por Clara
+Febrero 2024, encargada Clara
+Marzo 2024, encargada Clara
+
+PyConES 2023
+
+Generar y enviar factura a gestoría por el resto de entradas de la PyConES 2023 que no facturamos
+Consultar con Isra antes de la gestoria 
+Informe balance bancario PyConES 2023: ingresos menos pagos
+Pendiente de asignar
+Gestionar pago de Bloomberg del patrocinio de PyConES 2023, que puede o no implicar tener que rellenar un formulario W8
+Resuelto, nos realizaron el pago ( Jimena Escobar Bermúdez) comentara fecha en la que se resolvio. 1 de Febrero 2024
+Enviar a gestoría factura de servicios de Eventbrite (lo que se ha enviado no son facturas) -> se está encargando Isra,el correo es “FACTURAS PENDIENTES PYTHON T4”
+
+Socies
+informe sobre morosidad socies: quienes han pagado, quienes no, quienes están domiciliados
+Encargada Clara Martínez Sánchez entregar en Febrero 
+
+PyCampES 2023
+generar y enviar a gestoría facturas de las entradas del pycamp 2023 (@EllaQuimica creo que lo ibas a hacer tú), 
+Resuelto por Isra en Febrero 2024 
+-
+
+Comunidades
+Contabilizar facturas y reembolsar dinero de eventos a Python Coruña (Hecho)
+Contabilizar facturas y reembolsar dinero a Python Granada u otras comunidades cuando toque
+Encargada Johanna para entregar en Febrero 2024
+
+Actualizar en la web que deben hacerse cuenta de socies. Responsable Johanna - movemos para la próxima JD  Enero/Febrero
+Mejorar la redacción del template para Invitación a Foro, Telegram, Eventos y Grupos de trabajo (Añadir la existencia de esta información). Responsable Clara 
+Enviar encuesta por Telegram para ir fijando la fecha de la Asamblea General de Abril + cambio de junta
+Enviar convocatoria de nueva junta en Marzo
+
+
+4. Ruegos y preguntas
+---------------------
+Jimena comenta que sería interesante anunciar que la junta también tiene vacaciones.
+No hay preguntas.
+
+Nada más que añadir.
+
+Se cierra la reunión de la Junta a las 20:14 horas.
+
+Secretaría,
+
+Clara Martínez
+
+.. _ClaraMS: https://github.com/ClaraMS
+.. _jimenaeb: https://github.com/jimenaeb
+.. _voodmania: https://github.com/voodmania
+.. _ellaquimica: https://github.com/ellaquimica
