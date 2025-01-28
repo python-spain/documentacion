@@ -8,7 +8,7 @@ Asistencia: Javi, Sara, Diego, Marina, Lucía
 # **Orden del día:**
 
 **1. Revisión de tareas pendientes y Trello**  
-**2.Propósitos de año nuevo**  
+**2. Propósitos de año nuevo**  
 **3. Newsletter diciembre**
 
 # **1. Revisión de tareas pendientes y Trello**
