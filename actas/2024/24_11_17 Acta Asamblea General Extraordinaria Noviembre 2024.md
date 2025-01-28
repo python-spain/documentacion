@@ -72,11 +72,11 @@ Datos verificados por secretaría.
 4. Ruegos y preguntas  
 5. Cierre
 
-1. # **Apertura**
+# **1. Apertura**
 
 \- 
 
-2. # **Votación de candidaturas para la sede de PyConES 2025**
+# **2. Votación de candidaturas para la sede de PyConES 2025**
 
 Se recibieron las siguientes propuestas para sede de PyConES 2025:
 
@@ -90,7 +90,7 @@ Pero tanto Valencia como Coruña se retiraron antes de la votación, por lo que 
 
 El resultado de la votación fue 44 votos a favor y 1 abstención, por lo que Sevilla será la sede de PyConES 2025\.
 
-3. # **Votación de enmiendas de la organización de PyConES**
+# **3. Votación de enmiendas de la organización de PyConES**
 
 Hace unos meses, se abrió debate para valorar las responsabilidades y decisiones de la Junta Directiva, la Asociación y el grupo local correspondiente en la organización de la PyConES, llegando a las conclusiones [expuestas aquí](https://comunidad.es.python.org/t/definicion-de-lineas-maestras-de-la-pycones-responsabilidades-del-equipo-organizador-y-la-asociacion/1262/10?u=javinator9889). Como indicamos en la Asamblea General Ordinaria, desde la Junta Directiva hemos considerado a fondo estas líneas y hemos pensado una serie de enmiendas que podrían acabar de pulirlas, con el objetivo de aclarar y optimizar ciertos aspectos relativos a la organización del evento. Estas enmiendas y su debate se pueden [leer aquí](https://comunidad.es.python.org/t/enmiendas-lineas-maestras-pycones-junta-directiva/1414?u=javinator9889). Las enmiendas se votaron de manera individual y anónima. Los resultados fueron:
 
@@ -104,13 +104,13 @@ Hace unos meses, se abrió debate para valorar las responsabilidades y decisione
 * Enmienda 8: Cátering. 34 votos a favor, 7 votos en contra, 4 abstenciones  
 * Enmienda 9: Resolución de incidencias. 42 votos a favor, 1 voto en contra, 2 abstenciones
 
-4. # **Ruegos y preguntas**
+# **4. Ruegos y preguntas**
 
 (Ángeles) Se propone hacer algo por la DANA de Valencia → Hay dinero, se necesitan ideas. Se abre un post del foro para proponer acciones (entrada fila cero PyConES, entrada con donativo PyConES, colaboración con la UV o UPV).
 
 (Isra) ¿Se podría plantear aceptar presupuestos de PyConES deficitarios? Porque sobra dinero. Propone bajar los precios de las entradas y/o dar más becas → Jimena está de acuerdo con dar más becas y propone también pagar visados. Manuel Kauffman aclara que lo que sirve bien son las cartas de invitación, que miremos si se puede hacer en nombre de una asociación.
 
-5. # **Cierre**
+# **5. Cierre**
 
 \- 
 
