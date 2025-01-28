@@ -7,18 +7,18 @@ Asistencia: Javi, Sara, Diego, Marina, Lucía
 
 # **Orden del día:**
 
-1. **Revisión de tareas pendientes y Trello**  
-2. **Propósitos de año nuevo**  
-3. **Newsletter diciembre**
+**1. Revisión de tareas pendientes y Trello**  
+**2.Propósitos de año nuevo**  
+**3. Newsletter diciembre**
 
-1. # **Revisión de tareas pendientes y Trello**
+# **1. Revisión de tareas pendientes y Trello**
 
-1. Pyladies España \- mandar email y hacer reunión.  
-2. Plantear al seguro la posibilidad de que los socios gestionan la póliza por ellos mismo con nuestro seguro y luego la asociación.  
-3. Terminar las bases del concurso para la ayuda de colectivos desfavorables.  
-4. Django Girls España \- hacer la solicitud para crearlo
+* Pyladies España \- mandar email y hacer reunión.  
+* Plantear al seguro la posibilidad de que los socios gestionan la póliza por ellos mismo con nuestro seguro y luego la asociación.  
+* Terminar las bases del concurso para la ayuda de colectivos desfavorables.  
+* Django Girls España \- hacer la solicitud para crearlo
 
-2. # **Propósitos de año nuevo**
+# **2. Propósitos de año nuevo**
 
 * Sara  
   * No volverme loca con la organización de la pycones 2025\.  
@@ -33,7 +33,7 @@ Asistencia: Javi, Sara, Diego, Marina, Lucía
   * Llegar a más gente joven   
     * participar más con les socies
 
-3. **Newsletter diciembre**  
+**3. Newsletter diciembre**  
 - Nueva fecha de la próxima PyConEs 2025\.  
 - Recopilación de 2024\.
 
@@ -60,5 +60,4 @@ Asistencia: Javi, Sara, Diego, Marina, Lucía
       * EuroPython → [https://www.youtube.com/watch?v=VEHyaDCxUYU](https://www.youtube.com/watch?v=VEHyaDCxUYU)   
       * Mejores Momentos PyConES24 Vigo → [https://www.youtube.com/shorts/8MycV84OlZY](https://www.youtube.com/shorts/8MycV84OlZY)   
 - [x] ~~Meme del año~~  
-- [x] ~~Fecha PyConES 2025~~  
-- [ ] [Newsletter Diciembre](https://docs.google.com/document/d/1rZd9qZwMpWoIsWI7J-__GNOAFyw28g9AfYH4DRlahMY/edit?usp=drive_link)
+- [x] ~~Fecha PyConES 2025~~
