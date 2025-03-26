@@ -7,13 +7,13 @@ Asistencia: Diego, Jimena, Marina, Javi
 
 # **Orden del día:**
 
-1. **Revisión de los puntos de la Asamblea**  
-2. **Triodos**  
-3. **Vídeos PyConES**  
-4. **GT PyConES**  
-5. **PyConES \- repetir sede**
+**1. Revisión de los puntos de la Asamblea**  
+**2. Triodos**  
+**3. Vídeos PyConES**  
+**4. GT PyConES**  
+**5. PyConES \- repetir sede**
 
-1. # **Revisión de los puntos de la Asamblea**
+# **1. Revisión de los puntos de la Asamblea**
 
 Fecha: finde del 26 de abril, hacer una encuesta en el grupo de socies
 
@@ -26,18 +26,18 @@ Fecha: finde del 26 de abril, hacer una encuesta en el grupo de socies
 * Avances de la PyConES 2025  
 * Ruegos y preguntas
 
-2. # **Triodos**
+# **2. Triodos**
 
-* El viernes intentaré ir 😭 \- horarios de banco
+* Javi intentará ir lo antes posible
 
-3. # **Vídeos PyConES**
+# **3. Vídeos PyConES**
 
 * Cómo evitar la situación actual (empresa entregando vídeos casi 4 meses después).  
   * Acuerdo firmado por ambas partes  
   * Plazos claros desde el principio  
   * No exclusividad (los vídeos se entregarán a la Asociación lo antes posible, según la fecha acordada)
 
-4. # **GT PyConES**
+# **4. GT PyConES**
 
 * Outcome:  
   1. Trello con tarjetas y tareas  
@@ -45,10 +45,10 @@ Fecha: finde del 26 de abril, hacer una encuesta en el grupo de socies
   3. Documento que acompañe  
 * Drive compartido de todas las ediciones?  
   1. Problema con potencial protección de datos  
-  2. Ejercicio de depuración y limpieza, revisar actas antiguas y quitar cosas que “no deban aparecer”.  
+  2. Ejercicio de depuración y limpieza, revisar actas antiguas y quitar cosas que que sean datos sensibles (como los datos de personas becadas).  
 * Plantear un Notion?
 
-5. #  **PyConES \- repetir sede**
+#  **5. PyConES \- repetir sede**
 
 * Esfuerzo de organizar una PyConES cae “en vano”  
 * Facilidad para patrocinadores y asistentes.  
