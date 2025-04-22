@@ -46,11 +46,11 @@ No existen delegaciones de voto porque no hay votación alguna.
 5. Ruegos y preguntas  
 6. Cierre
 
-1. # **Apertura**
+# **1. Apertura**
 
 \- 
 
-2. # **Objetivos de la Junta Directiva y tareas realizadas para cumplirlos (+ otras iniciativas)**
+# **2. Objetivos de la Junta Directiva y tareas realizadas para cumplirlos (+ otras iniciativas)**
 
 Javi comenta los avances y propuestas de la JD referentes a los objetivos propuestos en su candidatura (así como otras iniciativas).
 
@@ -62,15 +62,15 @@ Javi comenta los avances y propuestas de la JD referentes a los objetivos propue
 - Vídeos de la PyConES: con el problema de que los vídeos de Vigo a día de hoy aún no se han publicado, se plantea tener un contrato con la misma empresa siempre o que los vídeos del evento se hagan a través de un servicio fijo proporcionado por la propia Asociación. Se planteará una votación para ello.  
 - Aumentar el presupuesto de comunidades locales a 1000€ anuales cada una porque hay mucho dinero en la caja que se queda sin usar, y así fomentar los eventos e invitaciones a ponentes/otras asociaciones. Se planteará una votación para ello.
 
-3. # **Balance de cuentas**
+# **3. Balance de cuentas**
 
 El balance general es muy positivo. Diego comenta las fuentes de beneficios de 2024: la PyConES de Vigo (con un balance super positivo), el PyCamp, WTM Barcelona y las cuotas de socies. Enseña también los gastos, incluyendo el presupuesto en comunidades locales, los gastos de asesoría y otros servicios.
 
-4. # **Avances de la PyConES 2025**
+# **4. Avances de la PyConES 2025**
 
 Luis Mesa comenta un poco cómo va la organización de la PyConES 2025\. Están buscando patrocinadores mandando ya mails a empresas que pueden tener interés; casi está para salir la nueva web con más información; el venue está en proceso de estar listo con Luis yendo para comprobar que no falte nada (destaca que están haciendo mucho hincapié en todo el tema de electricidad y de accesibilidad); celebra que hay mucha gente en la organización queriendo ayudar; las RRSS van bien; el CFP se abrirá en breve; las entradas y solicitud de becas saldrán el día 28\. Ángeles propone que los beneficios de las entradas Fila 0 vayan a ayudas a la DANA, o que directamente se abra un apartado de solidaridad.
 
-5. # **Ruegos y preguntas**
+# **5. Ruegos y preguntas**
 
 (Nekmo) Al ver cómo ha crecido la PyConES con los años y en pos de 1\) facilitarle su organización a comunidades más pequeñas y 2\) acotar a la gente según sus intereses, ¿sería posible hacer una PyConES con temática específica o varias más pequeñas al año en lugar de una grande? → Se propone que Nekmo escriba un post en el foro explicando más a fondo esta idea.
 
@@ -78,7 +78,7 @@ Luis Mesa comenta un poco cómo va la organización de la PyConES 2025\. Están 
 
 (Álex) A raíz de una vulnerabilidad en un servicio que IT ni sabía que existía, Álex explica que ha escrito un post en el foro hablando sobre los servicios históricos de la Asociación, abriendo debate a si merece la pena mantenerlos y, en caso afirmativo, cómo → Se propone consultar el post del foro y continuar el debate allí.
 
-6. # **Cierre**
+# **6. Cierre**
 
 \- 
 
