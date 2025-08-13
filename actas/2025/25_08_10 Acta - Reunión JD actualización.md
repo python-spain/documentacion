@@ -7,14 +7,14 @@ Asistencia: Diego, Marina, Jimena, Sara, Javi
 
 # **Orden del día:**
 
-1. **Apertura candidaturas sedes PyConES 2026**  
-2. **Evento Django on the Med**  
-3. **Status PyConES**  
-4. **Asamblea octubre**  
-5. **Flexibilidad de la Junta para subcontratar tareas**  
-6. **Representación de Junta y Asociación en conferencias \+ becas**
+**1. Apertura candidaturas sedes PyConES 2026**  
+**2. Evento Django on the Med**  
+**3. Status PyConES**  
+**4. Asamblea octubre**  
+**5. Flexibilidad de la Junta para subcontratar tareas**  
+**6. Representación de Junta y Asociación en conferencias \+ becas**
 
-1. # **Apertura candidaturas sedes PyConES 2026**
+# **1. Apertura candidaturas sedes PyConES 2026**
 
 Tenemos ya el borrador listo en [Llamado a sedes PyConES](https://docs.google.com/document/d/1lDy9xoRdvxNyeAVeS7KT1xfkL0BdwUuaLcgALyO8kTQ/edit?tab=t.0). Algunos comentarios que han surgido son:
 
@@ -24,7 +24,7 @@ Tenemos ya el borrador listo en [Llamado a sedes PyConES](https://docs.google.co
 
 Añadimos los comentarios mencionados y publicamos en el foro.
 
-2. # **Evento Django on the Med**
+# **2. Evento Django on the Med**
 
 Nos ha llegado un correo de uno de los organizadores de Django on the Med. Nos planteaba dos cosas diferenciadas:
 
@@ -34,11 +34,11 @@ Nos ha llegado un correo de uno de los organizadores de Django on the Med. Nos p
 Comentamos que patrocinar sí es posible y nos parece bien. Al no tener una cifra concreta, pensamos que una buena opción es patrocinar con la cantidad de 500€, la misma que se otorga anualmente a las comunidades locales.  
 En cuanto a hacer de caja, vemos que es complicado, porque las fechas coinciden peligrosamente con la PyConES y Diego ya ve que es suficiente trabajo con esto. Decidimos decirles que en esto no les podemos ayudar.
 
-3. # **Status PyConES**
+# **3. Status PyConES**
 
 Como aspectos generales, todo está más o menos bajo control. Lo más prioritario es el Programa, de lo que Jimena va a convocar ya la primera reunión para ir haciendo la agenda. En cuanto a las keynotes, Sebastián confirmado como Keynote 🎉. De la segunda keynote, hemos contactado con Mendonça, le damos 1 semana para responder y si no contactamos con Henar.
 
-4. # **Asamblea octubre**
+# **4. Asamblea octubre**
 
 [Asamblea General Ordinaria Python España - 26 de Abril de 2025](https://docs.google.com/presentation/d/1Mu-lLYatjTJ7bgbL5gtBv-P1vwoiGnXfU0kA8cTuk5w/edit?slide=id.p#slide=id.p)
 
