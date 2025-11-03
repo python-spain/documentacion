@@ -16,18 +16,18 @@ Datos verificados por secretaría.
 
 # **Orden del día:**
 
-1. **Apertura**  
-2. **Objetivos de la Junta Directiva y tareas realizadas para cumplirlos (+ otras iniciativas)**  
-3. **Balance de cuentas**  
-4. **Votación sede PyConES 2026**  
-5. **Ruegos y preguntas**  
-6. **Cierre**
+**1. Apertura**  
+**2. Objetivos de la Junta Directiva y tareas realizadas para cumplirlos (+ otras iniciativas)**  
+**3. Balance de cuentas**  
+**4. Votación sede PyConES 2026**  
+**5. Ruegos y preguntas**  
+**6. Cierre**
 
-1. # **Apertura**
+# **1. Apertura**
 
 \-
 
-2. # **Objetivos de la Junta Directiva y tareas realizadas para cumplirlos (+ otras iniciativas)**
+# **2. Objetivos de la Junta Directiva y tareas realizadas para cumplirlos (+ otras iniciativas)**
 
 Javi comenta los avances y propuestas de la JD referentes a los objetivos propuestos en su candidatura (facilitar la formación y la participación, romper la brecha de edad, potenciar las comunidades locales), así como otras iniciativas.
 
@@ -62,11 +62,11 @@ Todas estas propuestas se propondrán formalmente y se votarán en Asamblea.
 
 - Abrir periodo de propuestas de candidaturas a nueva Junta Directiva 2026-2028.
 
-3. # **Balance de cuentas**
+# **3. Balance de cuentas**
 
 El balance en general es muy positivo. Diego comenta las fuentes de beneficios de 2025: el PyCamp y las cuotas de socies. Además, comenta que ya no hacemos de caja de WTM Barcelona. Enseña también los gastos, incluyendo el presupuesto en comunidades locales y los gastos de asesoría y otros servicios y suscripciones. Finalmente, enseña el balance provisional de PyConES 2025 (a falta de últimos pagos y cuentas), siendo \+8K positivos.
 
-4. # **Votación sede PyConES 2026**
+# **4. Votación sede PyConES 2026**
 
 Una vez concluido el plazo de presentación de candidaturas, se han recibido las siguientes propuestas para sede de PyConES 2026:
 
@@ -80,7 +80,7 @@ Esta candidatura fue publicada en el foro dos semanas antes a la Asamblea, pudie
 
 Por lo que por votación mayoritaria se decide que Barcelona será la sede de PyConES 2026\.
 
-5. # **Ruegos y preguntas**
+# **5. Ruegos y preguntas**
 
 (Isra) ¿Puede ser que haya menos patrocinadores que en otras PyConES? Es algo que preocupa para la edición de Barcelona, ya que es una ciudad más cara y harían falta precisamente más patrocinios. ¿Qué pensáis que ha pasado? → (Responden Luis y Vero de la organización de Sevilla) Las empresas están más reticentes a participar pero no ha sido por falta de trabajo por parte de la organización, ya que se han mandado \+300 mails. Aun así convendría tener una mejor lista de contactos de empresas.
 
@@ -94,7 +94,7 @@ Por lo que por votación mayoritaria se decide que Barcelona será la sede de Py
 
 (Lucía) ¿Habrá charlas en catalán en PyConES 2026? → (Ferran) Sí, habrá en castellano, catalán e inglés.
 
-6. # **Cierre**
+# **6. Cierre**
 
 \-
 
