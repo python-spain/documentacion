@@ -3,31 +3,27 @@
 ## **Inicio de Junta**
 
 Detalles: reunión online, de 18h a 19:30h  
-Asistencia: [Alex Gómez Martín](mailto:alexgmin@es.python.org)[Javier Alonso Silva](mailto:javinator9889@es.python.org)[Marina Moro López](mailto:marinamorolopez@es.python.org)   
- [Helena Gómez Pozo](mailto:helenagp@es.python.org)
+Asistencia: [Alex Gómez Martín](mailto:alexgmin@es.python.org) [Javier Alonso Silva](mailto:javinator9889@es.python.org) [Marina Moro López](mailto:marinamorolopez@es.python.org) [Helena Gómez Pozo](mailto:helenagp@es.python.org)
 
 # **Orden del día:**
 
-1. **Bloqueo Triodos**  
-2. **Status PyConES**  
-3. **Propuestas de esta JD**
+**1. Bloqueo Triodos**  
+**2. Status PyConES**  
+**3. Propuestas de esta JD**
 
-1. # **Bloqueo Triodos**
+# **1. Bloqueo Triodos**
 
 Ha llegado un mail de que no tienen la documentación que nos han pedido así que finalizan relación de cliente. Hay que llamar al teléfono que indican en el mail para solucionar esto y recuperar la cuenta  
-Aquí está la documentación a rellenar y entregar:   
-[https://drive.google.com/drive/u/1/folders/1H4JyQMauvFgDk9S3\_jF-3vZfQeN2jNYF](https://drive.google.com/drive/u/1/folders/1H4JyQMauvFgDk9S3_jF-3vZfQeN2jNYF)   
-Queda rellenada y lista para subirse. Helena llamará mañana  
-(Ya se han mandado DNIs, estatus vigentes y certificado de junta)  
+Nos ponemos con ello y la documentación queda rellenada y lista para subirse. Helena llamará mañana  
 Vamos a cambiar la cuenta a una de BBVA que no tiene comisiones y se pueden hacer todas las operaciones online y sin permisos de personas específicas
 
-2. # **Status PyConES**
+# **2. Status PyConES**
 
 En general bien, se van moviendo bien becas, patrocinadores y demás  
 Entradas bien pero aún no hay ninguna de estudiante vendida \- se debería hacer más promo con esto  
 En cuanto a equipo, parece que va bien y que hay bastante (y suficiente) gente participando
 
-3. # **Propuestas de esta JD**
+# **3. Propuestas de esta JD**
 
 Las propuestas de esta candidatura, en breve, son:
 
