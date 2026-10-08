@@ -7,14 +7,14 @@ Asistencia: [Javier Alonso Silva](mailto:javinator9889@es.python.org)[Alex Góme
 
 # **Orden del día:**
 
-1. **Candidaturas PyConES 2027**  
-2. **Preparación de la Asamblea**
+**1. Candidaturas PyConES 2027**  
+**2. Preparación de la Asamblea**
 
-1. # **Candidaturas PyConES 2027**
+# **1. Candidaturas PyConES 2027**
 
 Hay que hacer la llamada en el foro. Dejar abierta hasta 1 semana antes de la PyCon. Mandar con 15 días de antelación la convocatoria de la Asamblea y en ella poner la votación
 
-2. # **Preparación de la Asamblea**
+# **2. Preparación de la Asamblea**
 
 [Asamblea General Ordinaria Python España - 19 de Abril de 2026](https://docs.google.com/presentation/d/1BdLD8NvF7hJEyb1ebfnNftkup2O-zBwJ4ignU6kRgMg/edit?slide=id.p#slide=id.p)  
 Hemos de dejar un espacio abierto para debatir y comentar temas de PyConES (Ferran quiere aportar). Se ha de plantear el futuro de la PyConES en cuanto a que cada año cuesta más llegar a expectativas de asistencia, presupuestos, organización…  
