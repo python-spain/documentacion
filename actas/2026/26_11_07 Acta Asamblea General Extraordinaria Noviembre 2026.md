@@ -17,18 +17,18 @@ Datos verificados por secretaría.
 
 # **Orden del día:**
 
-1. **Apertura**  
-2. **Objetivos de la actual Junta Directiva y propuestas para cumplirlos**  
-3. **Estado de las cuentas**  
-4. **Futuro de la PyConES**  
-5. **Ruegos y preguntas**  
-6. **Cierre**
+**1. Apertura**  
+**2. Objetivos de la actual Junta Directiva y propuestas para cumplirlos**  
+**3. Estado de las cuentas**  
+**4. Futuro de la PyConES**  
+**5. Ruegos y preguntas**  
+**6. Cierre**
 
-1. # **Apertura**
+# **1. Apertura**
 
 \-
 
-2. # **Objetivos de la Junta Directiva y propuestas para cumplirlos**
+# **2. Objetivos de la Junta Directiva y propuestas para cumplirlos**
 
 Objetivos de la JD:
 
@@ -38,12 +38,12 @@ Objetivos de la JD:
 - Apoyar las comunidades locales, por ejemplo aumentando el presupuesto a 1000€ para incentivar que se gaste: se votará en Asamblea  
 - Otras propuestas: formalizar las ‘becas Python España’ para representar a la Asociación en eventos dentro y fuera de España (por ejemplo para tener un stand; se votará en Asamblea), y subcontratar servicios esenciales (como el Odoo o la gestión de las rrss)
 
-3. # **Estado de las cuentas**
+# **3. Estado de las cuentas**
 
 PyConES ha acabado en positivo (unos 20K), aunque son números aproximados porque aún hay pagos por hacer  
 El estado de las cuentas general queda en aproximadamente unos 100K entre todas las plataformas (disclaimer: faltan gastos de este año)
 
-4. # **Futuro de la PyConES**
+# **4. Futuro de la PyConES**
 
 Se proponen cinco puntos principales acerca del futuro de la PyConES para debatir uno a uno:
 
@@ -94,7 +94,7 @@ Se proponen cinco puntos principales acerca del futuro de la PyConES para debati
 (Socie) la gente en un mismo lugar es necesario. por tema económico, esta conf es de lo más barato que hay, así que se puede ajustar  
 (Fede) se podría tener la comida patrocinada, colaborar con alguien que por visibilidad ponga el menú
 
-5. # **Ruegos y preguntas**
+# **5. Ruegos y preguntas**
 
 (Pregunta anónima del form voz de socies) Indica el fallecimiento de un miembro de Python Sevilla y organizador de la PyConES 2025, y señala la posibilidad de tener un protocolo de actuación ante estos casos. Se podría tener un protocolo con unos puntos de cómo actuar (aprobar presupuesto, comprar flores, en la pycon se pone foto) y así se gestiona mejor y más rápido  
 (Ana) desde python sevilla se quedó en un bar para recordarle y hablar, vino mucha familia, fue muy bonito. si se hacen los pequeños puntos es una cosa bonita  
@@ -102,7 +102,7 @@ Se proponen cinco puntos principales acerca del futuro de la PyConES para debati
 (Mabel) si fallece alguien, se puede enviar un mail formal y dar info de si hay velatorio o de apoyo, y enviar flores si hay presupuesto (como en los colegios profesionales). Javi: a incluir en la votación en la siguiente asamblea  
 (Nekmo) ¿hay algún protocolo de seguimiento de emails que se mandan a pycones? (él mandó para aportar ideas y no se le dio respuesta) Ferran: se disculpa y comenta que no pudo gestionarlo. Nekmo: se entiende que hay muchas cosas pero que se intente llevar esto bien para que no se pierdan correos. Javi: se puede anotar en la automatización del evento para facilitar esto
 
-6. # **Cierre**
+# **6. Cierre**
 
 \-
 
